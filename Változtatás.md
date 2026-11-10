@@ -1,0 +1,1 @@
+A beállításokban a tedd személyessé szöveg nem kell a és az alatta lévő beállítások nincsenek középen, azt is tedd középre

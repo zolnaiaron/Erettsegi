@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#e7d5b8" />
+    <title>Érettségi – 200 nap alatt</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar" id="sidebar">
+        <nav>
+          <button class="nav-item active" data-screen="home">⌂ <span>Főoldal</span></button>
+          <button class="nav-item" data-screen="quiz">✦ <span>Kvízek</span></button>
+          <button class="nav-item" data-screen="challenge">◌ <span>Heti kihívás</span></button>
+          <button class="nav-item" data-screen="ranking">⌁ <span>Ranglista</span></button>
+        </nav>
+        <button class="nav-item settings" data-screen="settings">⚙ <span>Beállítások</span></button>
+        <div class="countdown"><small>INDULÁSIG</small><strong id="countdown">—</strong><span>2026. nov. 26. · 18:00</span></div>
+      </aside>
+      <main>
+        <header>
+          <button class="menu" id="menu" aria-label="Menü megnyitása" aria-expanded="false">☰</button>
+          <button class="profile" data-screen="settings" aria-label="Profil és beállítások"><span class="avatar" id="avatar">✦</span><span class="profile-progress"><b><i id="level">1</i>. szint</b><span class="xp-bar" role="progressbar" aria-label="XP a következő szintig" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i id="xpBar"></i></span></span></button>
+        </header>
+        <section id="home" class="screen active">
+          <div class="hero counter-only"><div class="hero-art"><div class="day-counter" id="dayCounter" role="button" tabindex="0" aria-label="A 200 napos felkészülés haladása és vizsganaptár" aria-haspopup="dialog"><div><strong id="dayCount">0/200</strong><small>nap teljesítve</small></div></div></div></div>
+          <div class="section-head"><div><p class="eyebrow">TANTÁRGYAK</p></div></div>
+          <div class="subjects" id="subjects"></div>
+        </section>
+        <section id="subject" class="screen"><button class="back" data-screen="home">← Tantárgyak</button><div class="subject-title"><div class="subject-glyph" id="subjectGlyph">A</div><div><p class="eyebrow" id="subjectLabel">TANTÁRGY</p><h1 id="subjectName">Magyar</h1><p id="subjectInfo">3 téma · saját tempóban</p></div></div><div class="lesson-list" id="lessonList"></div></section>
+        <section id="lesson" class="screen"><button class="back" data-screen="subject">← Témák</button><article class="lesson-paper"><p class="eyebrow" id="lessonMeta">LECKE</p><h1 id="lessonTitle"></h1><div id="lessonText"></div><div class="lesson-actions"><button class="soft" id="flashcardBtn">Tanulókártyák</button><button class="primary" id="quizBtn">Kvíz indítása →</button></div></article></section>
+        <section id="quiz" class="screen"><div class="quiz-wrap"><p class="eyebrow">10 KÉRDÉSES KIHÍVÁS</p><div class="quiz-top"><h1 id="quizTitle">Vegyes kvíz</h1><span id="questionCount">1 / 10</span></div><div class="quiz-progress"><i id="quizBar"></i></div><article class="question-card"><p id="question">Betöltés…</p><div id="answers"></div><button class="primary" id="nextQuestion" disabled>Következő →</button></article></div></section>
+        <section id="challenge" class="screen"><p class="eyebrow">HETI KIHÍVÁS</p><h1>Gyűjts 40 XP-t ezen a héten</h1><div class="challenge-card"><div class="ring"><b id="challengeXp">0</b><small>/ 40 XP</small></div><div><h2>Kitartó tanuló</h2><p>Teljesíts tökéletesen 5 kvízt, és szerezd meg a heti jelvényt.</p><button class="primary" data-screen="quiz">Belevágok →</button></div></div></section>
+        <section id="ranking" class="screen"><p class="eyebrow">RANGLISTA</p><h1>Heti eredmények</h1><div class="ranking"><div><span>1</span><b>Réka</b><em>184 XP</em></div><div><span>2</span><b>Máté</b><em>137 XP</em></div><div class="me"><span>3</span><b id="rankName">Te</b><em id="rankXp">0 XP</em></div></div></section>
+        <section id="settings" class="screen"><p class="eyebrow">BEÁLLÍTÁSOK</p><div class="settings-profile"><span class="settings-avatar" id="settingsAvatar">✦</span><b><i id="settingsLevel">1</i>. szint</b><span class="settings-xp-bar" role="progressbar" aria-label="XP a következő szintig" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i id="settingsXpBar"></i></span><small id="xpRemaining">100 XP a következő szintig</small></div><div class="settings-card"><div class="username-setting"><label for="nameInput">Felhasználónév</label><div class="username-row"><input id="nameInput" placeholder="Például: Anna" disabled /><button class="soft username-edit" id="editUsername" type="button">Módosítás</button></div><small id="usernameHint">A felhasználónév 14 naponta módosítható.</small></div><p class="label">Válassz avatárt</p><div class="avatars" id="avatars"></div><button class="primary" id="saveProfile">Mentés</button><p class="notice" id="notice" aria-live="polite"></p></div><div class="auth-note"><span id="authStatus">Google-fiókkal bejelentkezve.</span><button class="soft" id="logoutBtn">Kijelentkezés</button></div></section>
+      </main>
+    </div>
+    <div class="modal" id="flashcards"><div class="modal-box"><button class="close">×</button><p class="eyebrow">TANULÓKÁRTYÁK</p><div class="flashcard" id="flashcard">Kattints a kártyára</div><p id="cardIndex">1 / 4</p><button class="soft" id="nextCard">Következő kártya →</button></div></div>
+    <div class="modal schedule-modal" id="scheduleModal" role="dialog" aria-modal="true" aria-labelledby="scheduleTitle"><div class="schedule-box"><button class="close schedule-close" id="closeSchedule" aria-label="Bezárás">×</button><p class="eyebrow">ROMÁNIAI ÉRETTSÉGI · 2027</p><h2 id="scheduleTitle">Vizsganaptár</h2><div class="exam-table"><div class="exam-row exam-head"><b>Időpont</b><b>Vizsga</b></div><div class="exam-row"><span>Április 12–23.</span><span>Szóbeli, nyelvi és digitális kompetenciamérések</span></div><div class="exam-row"><span>Június 14.</span><span>Román írásbeli</span></div><div class="exam-row"><span>Június 15.</span><span>Történelem</span></div><div class="exam-row"><span>Június 17.</span><span>Földrajz</span></div><div class="exam-row"><span>Június 18.</span><span>Magyar nyelv és irodalom</span></div></div></div></div>
+    <div class="modal" id="usernameConfirm" role="dialog" aria-modal="true" aria-labelledby="usernameConfirmTitle"><div class="modal-box confirm-box"><p class="eyebrow">MEGERŐSÍTÉS</p><h2 id="usernameConfirmTitle">Biztosan módosítod?</h2><p>Az új felhasználóneved: <strong id="pendingUsername"></strong></p><p class="confirm-warning">A következő módosításra csak 14 nap múlva lesz lehetőséged.</p><div class="confirm-actions"><button class="soft" id="cancelUsername" type="button">Mégse</button><button class="primary" id="confirmUsername" type="button">Igen, módosítom</button></div></div></div>
+    <div class="login-gate" id="loginGate"><div class="login-card"><p class="eyebrow">ÉRETTSÉGI · 2027</p><h1>Készen állsz?</h1><p>Jelentkezz be az engedélyezett Google-fiókoddal a folytatáshoz.</p><button class="google-login" id="googleLogin"><span>G</span> Belépés Google-fiókkal</button><p class="login-error" id="loginError" role="alert"></p></div></div>
+    <script src="app.js"></script>
+    <script type="module" src="firebase.js"></script>
+  </body>
+</html>
