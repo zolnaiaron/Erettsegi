@@ -1,5 +1,6 @@
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/13.2.0/firebase-app.js';
 import { getAuth, GoogleAuthProvider, onAuthStateChanged, signInWithPopup, signOut } from 'https://www.gstatic.com/firebasejs/13.2.0/firebase-auth.js';
+import { getFirestore, doc, getDoc, setDoc } from 'https://www.gstatic.com/firebasejs/13.2.0/firebase-firestore.js';
 
 const firebaseConfig = {
   apiKey: 'AIzaSyDCEs0CyIM82kkXJyPYC4kRRhtbWpvbx2Q',
@@ -15,7 +16,9 @@ const allowedEmails = new Set([
   'baricz.timea2006@gmail.com',
   'aaronzolnai@gmail.com'
 ]);
-const auth = getAuth(initializeApp(firebaseConfig));
+const app = initializeApp(firebaseConfig);
+const auth = getAuth(app);
+const db = getFirestore(app);
 const gate = document.querySelector('#loginGate');
 const loginButton = document.querySelector('#googleLogin');
 const loginError = document.querySelector('#loginError');
@@ -38,8 +41,18 @@ onAuthStateChanged(auth, async (user) => {
     return;
   }
   if (user) {
+    window.firebaseUserId = user.uid;
     gate.hidden = true;
     publishUser(user);
+    getDoc(doc(db, 'profiles', user.uid))
+      .then(profile => {
+        if (profile.exists() && profile.data().state) {
+          window.dispatchEvent(new CustomEvent('firebase-profile-data', { detail: profile.data().state }));
+        }
+      })
+      .catch(() => {
+        // A helyi mentés továbbra is működik, ha a Firestore még nincs bekapcsolva.
+      });
   } else {
     publishUser(null);
     showGate();
@@ -61,3 +74,6 @@ loginButton.addEventListener('click', async () => {
 });
 
 window.firebaseAuth = { signOut: () => signOut(auth) };
+window.firebaseData = {
+  save: (uid, state) => setDoc(doc(db, 'profiles', uid), { state, updatedAt: Date.now() }, { merge: true })
+};

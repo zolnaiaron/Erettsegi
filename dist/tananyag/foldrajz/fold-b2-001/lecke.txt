@@ -1,0 +1,31 @@
+ID: fold-b2-001
+CÍM: Az EU arculata: egységes piac, eurózóna, schengeni övezet, regionális különbségek
+SZÖVEG:
+# Az Európai Unió arculata
+Az Európai Unió mindennapi életünket négy nagy rendszer határozza meg: az egységes piac, az eurózóna, a schengeni övezet és a kohéziós politika, amely a régiók közötti különbségeket igyekszik csökkenteni. Románia mindegyik rendszerben részt vesz, de eltérő mértékben.
+
+## Az egységes piac
+- Az egységes piac alapja a **négy szabadság**: az áruk, a szolgáltatások, a tőke és a személyek szabad mozgása.
+- A tagállamok között nincsenek vámok, és közös a **külső vámtarifa**, vagyis a **vámunió**.
+- Jogi alapját az 1986-ban aláírt Egységes Európai Okmány teremtette meg, a piac 1993-tól működik teljes formában.
+- Mintegy 450 millió fogyasztó tartozik hozzá, a versenyszabályokat az Európai Bizottság felügyeli.
+- Románia kereskedelmének jelentős része az EU-n belül zajlik, főbb partnere Németország.
+
+## Az eurózóna
+- Az eurózóna azokból az EU-tagállamokból áll, amelyek az eurót használják. Tagjainak száma legalább 20, a legutóbbi csatlakozó Horvátország volt 2023-ban.
+- A közös pénzügyi politikát az **Európai Központi Bank** irányítja, székhelye Frankfurt.
+- Az euró bevezetésének feltételei a **maastrichti konvergenciakritériumok**. Ezek közül a legismertebbek: az államháztartási hiány legfeljebb a GDP 3%-a lehet, az államadósság pedig legfeljebb 60%.
+- Románia és Magyarország nem tagja az eurózónának, saját pénznemüket, a lejt és a forintot használják.
+- Az euró előnye a közös pénz stabilitása és az árfolyamkockázat megszűnése, hátránya, hogy a tagállamok nem tudnak önállóan kamat- vagy árfolyam-politikát folytatni.
+
+## A schengeni övezet
+- A schengeni egyezményt 1985-ben írták alá, a gyakorlatban 1995-ben vezették be az övezetet.
+- Az övezetben a tagállamok belső határain általában nincs személyi határellenőrzés. Ide tartozik a legtöbb EU-tagállam, valamint az EU-n kívüli Norvégia, Izland, Svájc és Liechtenstein.
+- Írország nem tagja a schengeni övezetnek.
+- Románia légi és tengeri határain 2024. március 31-én, szárazföldi határain 2025. január 1-jén szűnt meg a személyi ellenőrzés.
+
+## Regionális különbségek és a kohéziós politika
+- Az egy főre jutó GDP és a jövedelmek között Romániában jelentős különbségek vannak. A **Bukarest–Ilfov** régió a leggazdagabb, a **Észak-Kelet** (Moldva) régió a legkevésbé fejlett.
+- Jelentős a városi és a vidéki térségek közötti különbség, a fiatal munkaerő gyakran a jobb bérek és lehetőségek miatt nyugatra vagy a városokba költözik.
+- Az uniós kohéziós politika három fő alapon keresztül segíti a fejletlenebb régiókat: az **Európai Regionális Fejlesztési Alap (ERFA)** a régiók közötti különbségek csökkentését, a **Kohéziós Alap** a környezetvédelmi és közlekedési infrastruktúrát, az **Európai Szociális Alap** pedig a foglalkoztatást és a képzést támogatja.
+- A szubszidiaritás elve szerint a döntéseket lehetőleg a lehető legalacsonyabb szinten, a helyi közösségekhez a lehető legközelebb kell meghozni.

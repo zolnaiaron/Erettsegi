@@ -1,0 +1,251 @@
+ID: fold-c3-kviz-001
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A kereskedelempolitika az Európai Unió kizárólagos hatásköre.
+HELYES: Igaz
+MAGYARÁZAT: A közös kereskedelempolitika az EU szintjén dől el, a tagállamok nem folytathatnak önálló kereskedelmi tárgyalásokat harmadik országokkal.
+---
+ID: fold-c3-kviz-002
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik EU-s intézmény képviseli az uniót a nemzetközi kereskedelmi tárgyalásokon?
+HELYES: Európai Bizottság
+ROSSZ1: Európai Parlament
+ROSSZ2: Európai Központi Bank
+ROSSZ3: Európai Számvevőszék
+MAGYARÁZAT: A Bizottság a kereskedelmi főigazgatóságán keresztül tárgyal, a tagállamok megbízása alapján. A többi felsorolt intézmény más feladatokat lát el.
+---
+ID: fold-c3-kviz-003
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kereskedelmi Világszervezet (WTO) az EU kereskedelmi vitáinak fontos fóruma.
+HELYES: Igaz
+MAGYARÁZAT: Az EU a WTO-ban vitázik a kereskedelmi szabályok megsértéséről, és a WTO-tagság alapján érvényesíti az érdekeit.
+---
+ID: fold-c3-kviz-004
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik háromszintű megjelölés írja le az EU Kínával való viszonyát 2019 óta?
+HELYES: partner, gazdasági verseny és rendszerszintű rivális
+ROSSZ1: csak szövetséges
+ROSSZ2: csak gazdasági ellenfél
+ROSSZ3: kizárólag kereskedelmi partner
+MAGYARÁZAT: Az EU 2019-ben a Kínával fenntartott kapcsolatot egyszerre partnerként, versenytársként és rendszerszintű rivalként jellemezte.
+---
+ID: fold-c3-kviz-005
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU és az USA közötti gazdasági kapcsolat a világ legnagyobbjai közé tartozik.
+HELYES: Igaz
+MAGYARÁZAT: Az Atlanti-óceán két partja között hatalmas kereskedelmi és befektetési állomány van.
+---
+ID: fold-c3-kviz-006
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az USA és az EU együtt működik a NATO keretében.
+HELYES: Igaz
+MAGYARÁZAT: Az USA és a legtöbb EU-tagállam a NATO tagja, a transzatlanti biztonsági együttműködés alapja a szervezet.
+---
+ID: fold-c3-kviz-007
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik együttműködési fórum jött létre 2021-ben az EU és az USA között?
+HELYES: Transzatlanti Kereskedelmi és Technológiai Tanács (TTC)
+ROSSZ1: G20
+ROSSZ2: Schengeni Tanács
+ROSSZ3: Európai Szén- és Acélközösség
+MAGYARÁZAT: A TTC 2021-ben alakult az EU és az USA kereskedelmi és technológiai együttműködésének koordinálására. A többi felsorolt szervezet más célt szolgál.
+---
+ID: fold-c3-kviz-008
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Airbus–Boeing vita évekig a WTO-ban zajlott az EU és az USA között.
+HELYES: Igaz
+MAGYARÁZAT: A két repülőgépgyártó állami támogatásaival kapcsolatos vita évtizedekig húzódott a WTO előtt.
+---
+ID: fold-c3-kviz-009
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós rendelet szabályozza a személyes adatok védelmét, és hat az amerikai technológiai cégekre is?
+HELYES: GDPR
+ROSSZ1: REACH
+ROSSZ2: MiFID II
+ROSSZ3: Euro 7
+MAGYARÁZAT: A GDPR 2018-tól szabályozza az adatvédelmet az EU-ban, a szolgáltatásait az EU-ban működtető amerikai cégekre is vonatkozik. A többi felsorolt rendelet más területet szabályoz.
+---
+ID: fold-c3-kviz-010
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az USA az EU egyik legnagyobb befektetési partnere.
+HELYES: Igaz
+MAGYARÁZAT: Az amerikai befektetések az EU-ban jelentős gazdasági állományt képviselnek.
+---
+ID: fold-c3-kviz-011
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Kína az EU egyik legnagyobb kereskedelmi partnere az áruforgalomban.
+HELYES: Igaz
+MAGYARÁZAT: Kína az EU egyik vezető áruforgalmi partnere, az import és az export is jelentős.
+---
+ID: fold-c3-kviz-012
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik kínai kezdeményezés keretében épülnek infrastrukturális projektek Európában is?
+HELYES: Egy övezet, egy út (Selyemút-kezdeményezés)
+ROSSZ1: Marshall-terv
+ROSSZ2: EU Global Gateway
+ROSSZ3: Európai Fejlesztési Alap
+MAGYARÁZAT: A Kína által vezetett Egy övezet, egy út kezdeményezés infrastruktúra-beruházásokat ösztönöz. A Marshall-terv az USA háború utáni programja, a Global Gateway az EU saját beruházási kezdeményezése.
+---
+ID: fold-c3-kviz-013
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: 2024-ben az EU kiegyenlítő vámot vetett ki a kínai elektromos járművekre.
+HELYES: Igaz
+MAGYARÁZAT: Az EU a kínai állami támogatások hatásának ellensúlyozására vámokat vezetett be az elektromos autókra.
+---
+ID: fold-c3-kviz-014
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik területi kérdés érinti Kína és az EU közötti politikai viszonyt?
+HELYES: Tajvan
+ROSSZ1: Szardínia
+ROSSZ2: Korzika
+ROSSZ3: Bornholm
+MAGYARÁZAT: Tajvan státusza politikai vita forrása Kína és több nyugati ország között. A többi felsorolt sziget európai, nem vitás területi kérdés.
+---
+ID: fold-c3-kviz-015
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU kiegyenlítő vámokkal védekezhet a tisztességtelen állami támogatásokkal szemben.
+HELYES: Igaz
+MAGYARÁZAT: A kiegyenlítő vámok az importált áruk támogatási előnyének ellensúlyozására szolgálnak.
+---
+ID: fold-c3-kviz-016
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Mikor lépett hatályba az EU–Japán gazdasági partnerségi megállapodás?
+HELYES: 2019
+ROSSZ1: 2007
+ROSSZ2: 2013
+ROSSZ3: 2022
+MAGYARÁZAT: Az EU–Japán gazdasági partnerségi megállapodás 2019. február 1-jén lépett hatályba.
+---
+ID: fold-c3-kviz-017
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU és Japán stratégiai partnerségi megállapodást is kötött.
+HELYES: Igaz
+MAGYARÁZAT: A stratégiai partnerségi megállapodást 2018-ban írták alá, és a politikai és biztonsági együttműködést is szabályozza.
+---
+ID: fold-c3-kviz-018
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik csoportnak NEM tagja Japán?
+HELYES: BRICS
+ROSSZ1: G7
+ROSSZ2: OECD
+ROSSZ3: G20
+MAGYARÁZAT: Japán a G7, az OECD és a G20 tagja, a BRICS-nek nem.
+---
+ID: fold-c3-kviz-019
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU és Japán közös értékeken, így a demokrácián és az emberi jogokon alapuló együttműködést folytat.
+HELYES: Igaz
+MAGYARÁZAT: A stratégiai partnerség a demokratikus értékeket és a szabályalapú nemzetközi rendet hangsúlyozza.
+---
+ID: fold-c3-kviz-020
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Japán melyik termékcsoportja a legfontosabb exportja az EU-ba?
+HELYES: autók
+ROSSZ1: búza
+ROSSZ2: bor
+ROSSZ3: gyapot
+MAGYARÁZAT: A japán gépjárművek az EU-ba irányuló japán export egyik legfontosabb tételei. A többi felsorolt termék nem jellemző Japán exportjára.
+---
+ID: fold-c3-kviz-021
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik országot NEM tartalmazta az eredeti BRICS-csoport?
+HELYES: Ausztrália
+ROSSZ1: Brazília
+ROSSZ2: India
+ROSSZ3: Dél-Afrika
+MAGYARÁZAT: Az eredeti BRICS: Brazília, Oroszország, India, Kína és Dél-Afrika. Ausztrália nem tagja.
+---
+ID: fold-c3-kviz-022
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A BRICS-csoport 2024 után több tagot is kapott.
+HELYES: Igaz
+MAGYARÁZAT: Egyiptom, Etiópia, Irán és az Egyesült Arab Emírségek 2024-ben csatlakoztak, később Indonézia is.
+---
+ID: fold-c3-kviz-023
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik BRICS-tagország tagja a Mercosur kereskedelmi blokknak?
+HELYES: Brazília
+ROSSZ1: India
+ROSSZ2: Dél-Afrika
+ROSSZ3: Kína
+MAGYARÁZAT: A Mercosur tagjai Brazília, Argentína, Paraguay és Uruguay. Az EU és a Mercosur közötti tárgyalások éppen Brazília miatt fontosak.
+---
+ID: fold-c3-kviz-024
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU és India szabadkereskedelmi megállapodásról tárgyal.
+HELYES: Igaz
+MAGYARÁZAT: A tárgyalások 2022-ben újra elindultak, a szabadkereskedelmi megállapodás a két gazdaság kapcsolatait erősíthetné.
+---
+ID: fold-c3-kviz-025
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik BRICS-ország kereskedelme csökkent jelentősen az EU szankciói miatt 2022 után?
+HELYES: Oroszország
+ROSSZ1: India
+ROSSZ2: Brazília
+ROSSZ3: Dél-Afrika
+MAGYARÁZAT: Az ukrajnai háború után az EU szankciókat vezetett be Oroszország ellen, a kereskedelem és az energiaimport jelentősen csökkent.
+---
+ID: fold-c3-kviz-026
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Európai Unió a WTO tagja.
+HELYES: Igaz
+MAGYARÁZAT: Az EU önálló tagként vesz részt a WTO munkájában, a tagállamok mellett.
+---
+ID: fold-c3-kviz-027
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós intézkedés védi a piacot a tisztességtelen dömpingárakkal szemben?
+HELYES: antidömping vám
+ROSSZ1: Schengeni egyezmény
+ROSSZ2: Erasmus-program
+ROSSZ3: Bologna-folyamat
+MAGYARÁZAT: Az antidömping vámok a más országokból dömpingáron behozott termékek ellen védenek. A többi felsorolt program nem kereskedelmi eszköz.
+---
+ID: fold-c3-kviz-028
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU és a Mercosur közötti megállapodásról hosszú évek óta tárgyalnak.
+HELYES: Igaz
+MAGYARÁZAT: A tárgyalások évtizedek óta zajlanak, a mezőgazdasági és ipari érdekek különbsége miatt nehezen haladnak.
+---
+ID: fold-c3-kviz-029
+LECKE_ID: fold-c3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nemzetközi csoportosulás tagja az EU (képviseleti szinten), Japán és az USA is?
+HELYES: G7
+ROSSZ1: BRICS
+ROSSZ2: ASEAN
+ROSSZ3: Mercosur
+MAGYARÁZAT: A G7 Japán, az USA és az EU vezető részvételével működik. A BRICS, az ASEAN és a Mercosur más tagállamokkal jött létre.
+---
+ID: fold-c3-kviz-030
+LECKE_ID: fold-c3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia az EU tagjaként részt vesz a közös kereskedelempolitikában.
+HELYES: Igaz
+MAGYARÁZAT: A tagállamok a közös kereskedelempolitikán keresztül érvényesítik az érdekeiket, így Románia is részese a döntéseknek.

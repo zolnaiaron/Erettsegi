@@ -1,0 +1,257 @@
+ID: fold-b5-gr-kviz-001
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Görögországnak szárazföldi határa van Törökországgal, Bulgáriával, Észak-Macedóniával és Albániával.
+HELYES: Igaz
+MAGYARÁZAT: Görögország négy szárazföldi szomszédja: Albánia, Észak-Macedónia, Bulgária és Törökország.
+---
+ID: fold-b5-gr-kviz-002
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tenger határolja Görögország keleti partjait?
+HELYES: Égei-tenger
+ROSSZ1: Adriai-tenger
+ROSSZ2: Balti-tenger
+ROSSZ3: Fekete-tenger
+MAGYARÁZAT: Görögország keleti partjait az Égei-tenger mossa, az Adriai-tenger az ország nyugati szomszédja felé van.
+---
+ID: fold-b5-gr-kviz-003
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Görögország nyugati partjait az Ión-tenger mossa.
+HELYES: Igaz
+MAGYARÁZAT: Az Ión-tenger határolja az ország nyugati partvidékét és az Ión-szigeteket.
+---
+ID: fold-b5-gr-kviz-004
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik görög sziget található a délen fekvő Líbiai-tengerben?
+HELYES: Kréta
+ROSSZ1: Rodosz
+ROSSZ2: Korfu
+ROSSZ3: Naxosz
+MAGYARÁZAT: Kréta Görögország legnagyobb szigete, a Líbiai-tengerben, délen. Rodosz a Dodekanészosz szigete, Korfu az Ión-tengerben, Naxosz a Cikládok között van.
+---
+ID: fold-b5-gr-kviz-005
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A görög–török határt az Evrosz (Meriç) folyó részben alkotja.
+HELYES: Igaz
+MAGYARÁZAT: Az Evrosz folyó Trákia térségében alkotja a görög–török határ egy részét, és az Égei-tengerbe ömlik.
+---
+ID: fold-b5-gr-kviz-006
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Mi Görögország legmagasabb csúcsa?
+HELYES: Olümposz
+ROSSZ1: Taigetosz
+ROSSZ2: Parnasszosz
+ROSSZ3: Pindosz
+MAGYARÁZAT: Az Olümposz 2917 m magas, Görögország legmagasabb csúcsa. A többi felsorolt hegy alacsonyabb.
+---
+ID: fold-b5-gr-kviz-007
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Görögországban nagy kiterjedésűek a karsztos mészkőképződmények.
+HELYES: Igaz
+MAGYARÁZAT: Az ország hegyvidékein és a Peloponnészoszon kiterjedt karsztos formák találhatók.
+---
+ID: fold-b5-gr-kviz-008
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik hegylánc húzódik Görögország északnyugati részén, az ország gerinceként?
+HELYES: Pindosz
+ROSSZ1: Taigetosz
+ROSSZ2: Parnasszosz
+ROSSZ3: Rodope
+MAGYARÁZAT: A Pindosz húzódik az ország északnyugati részén, gerincként. A Taigetosz a Peloponnészoszon, a Parnasszosz a középső részen, a Rodope Bulgária határán van.
+---
+ID: fold-b5-gr-kviz-009
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Théra (Santorini) vulkáni eredetű sziget.
+HELYES: Igaz
+MAGYARÁZAT: A Théra egy egykori vulkán kalderájának peremén fekvő sziget a Cikládok között.
+---
+ID: fold-b5-gr-kviz-010
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Görögország legnagyobb síksága?
+HELYES: Thesszáliai-síkság
+ROSSZ1: Peloponnészoszi-hegység
+ROSSZ2: Pindosz
+ROSSZ3: Olümposz
+MAGYARÁZAT: A Thesszáliai-síkság az ország legnagyobb síksága. A többi felsorolt képződmény hegység.
+---
+ID: fold-b5-gr-kviz-011
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Milyen éghajlattípus jellemzi Görögország nagy részét?
+HELYES: mediterrán
+ROSSZ1: sarkvidéki
+ROSSZ2: monszun
+ROSSZ3: tundra
+MAGYARÁZAT: A forró, száraz nyár és az enyhe, csapadékos tél a mediterrán éghajlat jellemzői.
+---
+ID: fold-b5-gr-kviz-012
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Görögországban a nyári hónapok általában szárazak.
+HELYES: Igaz
+MAGYARÁZAT: A mediterrán éghajlat nyara száraz, a csapadék főként télen hullik.
+---
+ID: fold-b5-gr-kviz-013
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik erős északi szél fúj nyáron az Égei-tenger térségében?
+HELYES: Meltemi
+ROSSZ1: Sirocco
+ROSSZ2: Mistral
+ROSSZ3: Khamsin
+MAGYARÁZAT: A Meltemi nyáron fúj erős északi szél az Égei-tengeren. A Sirocco afrikai eredetű, a Mistral francia, a Khamsin egyiptomi szél.
+---
+ID: fold-b5-gr-kviz-014
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Sirocco Afrika felől érkező forró, száraz szél, amely Görögország déli részét is eléri.
+HELYES: Igaz
+MAGYARÁZAT: A Sirocco a Szaharából érkezik, és a déli szigeteken és a tengerparton is érezhető.
+---
+ID: fold-b5-gr-kviz-015
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Milyen hatás érvényesül Észak-Görögország belső részein?
+HELYES: kontinentális
+ROSSZ1: trópusi
+ROSSZ2: sarkvidéki
+ROSSZ3: tengeri
+MAGYARÁZAT: Az ország belsejében, a tengertől távolabb a kontinentális hatás miatt hidegebbek a telek.
+---
+ID: fold-b5-gr-kviz-016
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Görögország leghosszabb, teljes egészében görög területen folyó folyója?
+HELYES: Aliákmon
+ROSSZ1: Acheloos
+ROSSZ2: Axios
+ROSSZ3: Evrosz
+MAGYARÁZAT: Az Aliákmon teljes egészében görög területen folyik. Az Axios Észak-Macedóniából érkezik, az Evrosz Bulgária és Törökország felé is folyik, az Acheloos rövidebb.
+---
+ID: fold-b5-gr-kviz-017
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Evrosz Görögország és Törökország határfolyója.
+HELYES: Igaz
+MAGYARÁZAT: Az Evrosz Trákia térségében a két ország közötti határ része, és az Égei-tengerbe ömlik.
+---
+ID: fold-b5-gr-kviz-018
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Mi Görögország legnagyobb természetes tava?
+HELYES: Trichonida-tó
+ROSSZ1: Préspa-tó
+ROSSZ2: Kasztoriai-tó
+ROSSZ3: Ioanninai-tó
+MAGYARÁZAT: A Trichonida-tó Görögország legnagyobb természetes tava. A Préspa-tó három ország közös tava, a Kasztoriai- és az Ioanninai-tó kisebb.
+---
+ID: fold-b5-gr-kviz-019
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Préspa-tó Görögország, Albánia és Észak-Macedónia közös tava.
+HELYES: Igaz
+MAGYARÁZAT: A Préspa-tó a három ország határvidékén fekszik, közös természetvédelmi terület.
+---
+ID: fold-b5-gr-kviz-020
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik görög folyó torkollik az Ión-tengerbe?
+HELYES: Acheloos
+ROSSZ1: Evrosz
+ROSSZ2: Aliákmon
+ROSSZ3: Axios
+MAGYARÁZAT: Az Acheloos az Ión-tengerbe ömlik. Az Evrosz az Égei-tengerbe, az Aliákmon és az Axios a Termai-öbölbe torkollik.
+---
+ID: fold-b5-gr-kviz-021
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Mi Görögország fővárosa?
+HELYES: Athén
+ROSSZ1: Szalonika
+ROSSZ2: Patras
+ROSSZ3: Iráklion
+MAGYARÁZAT: Athén Görögország fővárosa, Attika tartományban. A többi felsorolt város nem főváros.
+---
+ID: fold-b5-gr-kviz-022
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Szalonika Görögország második legnagyobb városa.
+HELYES: Igaz
+MAGYARÁZAT: Szalonika az ország második legnagyobb városa, a Termai-öböl partján fekvő fontos kikötő.
+---
+ID: fold-b5-gr-kviz-023
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik kikötőváros található a Peloponnészosz északi részén?
+HELYES: Patras
+ROSSZ1: Iráklion
+ROSSZ2: Larissa
+ROSSZ3: Kalamata
+MAGYARÁZAT: Patras a Peloponnészosz északi részén fekvő nagy kikötőváros. Iráklion Krétán, Larissa Thesszáliában, Kalamata a Peloponnészosz déli részén van.
+---
+ID: fold-b5-gr-kviz-024
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Iráklion Kréta fővárosa.
+HELYES: Igaz
+MAGYARÁZAT: Iráklion Kréta sziget közigazgatási központja, a sziget legnagyobb városa.
+---
+ID: fold-b5-gr-kviz-025
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Mekkora Görögország lakossága?
+HELYES: kb. 10,4 millió
+ROSSZ1: kb. 5 millió
+ROSSZ2: kb. 25 millió
+ROSSZ3: kb. 40 millió
+MAGYARÁZAT: Görögország lakossága kb. 10,4 millió fő.
+---
+ID: fold-b5-gr-kviz-026
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Görögországnak az egyik legnagyobb kereskedelmi hajóflottája van a világon.
+HELYES: Igaz
+MAGYARÁZAT: A görög tulajdonú kereskedelmi hajók a világ flottáinak élvonalában vannak.
+---
+ID: fold-b5-gr-kviz-027
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nyugat-macedóniai város nevéhez fűződik a lignitbányászat?
+HELYES: Ptolemaida
+ROSSZ1: Szalonika
+ROSSZ2: Larissa
+ROSSZ3: Patras
+MAGYARÁZAT: Ptolemaida környékén bányásszák a lignitet, Nyugat-Macedóniában. A többi felsorolt város más térségekben van.
+---
+ID: fold-b5-gr-kviz-028
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A turizmus Görögország egyik legfontosabb gazdasági ágazata.
+HELYES: Igaz
+MAGYARÁZAT: A szigetek, a tengerpartok és az ókori emlékek évente sok millió látogatót vonzanak.
+---
+ID: fold-b5-gr-kviz-029
+LECKE_ID: fold-b5-gr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik híres görög sajtfajta?
+HELYES: feta
+ROSSZ1: parmezán
+ROSSZ2: camembert
+ROSSZ3: gouda
+MAGYARÁZAT: A feta a görög konyha jellegzetes sajtja. A parmezán olasz, a camembert francia, a gouda holland sajt.
+---
+ID: fold-b5-gr-kviz-030
+LECKE_ID: fold-b5-gr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Görögország olívaolaj-termelése Európában jelentős.
+HELYES: Igaz
+MAGYARÁZAT: Az olajfa a görög mezőgazdaság egyik legfontosabb növénye, az ország az európai élvonalba tartozik a termelésben.

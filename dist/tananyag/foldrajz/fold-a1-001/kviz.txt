@@ -1,0 +1,261 @@
+ID: fold-a1-kviz-001
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia Délkelet-Európában fekszik.
+HELYES: Igaz
+MAGYARÁZAT: Románia Délkelet-Európában, a Kárpátok és a Duna térségében található.
+---
+ID: fold-a1-kviz-002
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik hegységrendszer húzódik ívben Románia középső és keleti részén?
+HELYES: Kárpátok
+ROSSZ1: Alpok
+ROSSZ2: Pireneusok
+ROSSZ3: Dinári-hegység
+MAGYARÁZAT: A Kárpátok ívben húzódnak át Románia középső és keleti részén.
+---
+ID: fold-a1-kviz-003
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia területe nagyobb, mint Magyarországé.
+HELYES: Igaz
+MAGYARÁZAT: Románia területe kb. 238 397 km², Magyarországé kb. 93 030 km².
+---
+ID: fold-a1-kviz-004
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Mekkora Románia területe?
+HELYES: kb. 238 397 km²
+ROSSZ1: kb. 93 030 km²
+ROSSZ2: kb. 120 000 km²
+ROSSZ3: kb. 450 000 km²
+MAGYARÁZAT: Románia területe kb. 238 397 km², ami több mint kétszerese Magyarország területének.
+---
+ID: fold-a1-kviz-005
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik a hivatalos nyelv Romániában?
+HELYES: román
+ROSSZ1: magyar
+ROSSZ2: bolgár
+ROSSZ3: olasz
+MAGYARÁZAT: Romániában a hivatalos nyelv a román, a magyar kisebbségi nyelvként használatos.
+---
+ID: fold-a1-kviz-006
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Romániában a helyi idő egy órával később van, mint Magyarországon.
+HELYES: Igaz
+MAGYARÁZAT: Románia UTC+2, Magyarország UTC+1 időzónában van, így a két ország óraállása között mindig egy óra a különbség.
+---
+ID: fold-a1-kviz-007
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Mekkora Románia szélességi foktartománya?
+HELYES: 43°37' és 48°15' É között
+ROSSZ1: 36° és 41° É között
+ROSSZ2: 50° és 55° É között
+ROSSZ3: 45° és 52° É között
+MAGYARÁZAT: Románia északi szélessége 43°37' és 48°15' között található.
+---
+ID: fold-a1-kviz-008
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Erdélyi-medence a Kárpátok ívén belül fekszik.
+HELYES: Igaz
+MAGYARÁZAT: Az Erdélyi-medencét a Kárpátok ívelt hegyvonulatai veszik körül.
+---
+ID: fold-a1-kviz-009
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia területének jelentős része a Kárpát-medencébe tartozik.
+HELYES: Igaz
+MAGYARÁZAT: A Kárpát-medencéhez Erdély, a Bánság és a Partium is tartozik, amelyek Románia területén vannak.
+---
+ID: fold-a1-kviz-010
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Románia legmagasabb csúcsa?
+HELYES: Moldoveanu
+ROSSZ1: Hoverla
+ROSSZ2: Musala
+ROSSZ3: Triglav
+MAGYARÁZAT: A Moldoveanu (2544 m) a Fogarasi-havasokban található, Románia legmagasabb csúcsa.
+---
+ID: fold-a1-kviz-011
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tengerrel határos Románia?
+HELYES: Fekete-tenger
+ROSSZ1: Adriai-tenger
+ROSSZ2: Balti-tenger
+ROSSZ3: Égei-tenger
+MAGYARÁZAT: Románia partvonala a Fekete-tengerhez tartozik.
+---
+ID: fold-a1-kviz-012
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Hány országgal határos Románia szárazföldön?
+HELYES: 5
+ROSSZ1: 4
+ROSSZ2: 6
+ROSSZ3: 7
+MAGYARÁZAT: Románia szárazföldi szomszédai: Ukrajna, Moldova, Magyarország, Szerbia és Bulgária.
+---
+ID: fold-a1-kviz-013
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Romániának közös szárazföldi határa van Horvátországgal.
+HELYES: Hamis
+MAGYARÁZAT: Románia nem határos Horvátországgal; szárazföldi szomszédai Ukrajna, Moldova, Magyarország, Szerbia és Bulgária.
+---
+ID: fold-a1-kviz-014
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó alkotja Romániát és Bulgáriát elválasztó határ nagy részét?
+HELYES: Duna
+ROSSZ1: Tisza
+ROSSZ2: Prut
+ROSSZ3: Maros
+MAGYARÁZAT: A Duna a Vidin és Silistra közötti szakaszon határolja Romániát és Bulgáriát.
+---
+ID: fold-a1-kviz-015
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Prut folyó Románia és Moldova határának egy részét alkotja.
+HELYES: Igaz
+MAGYARÁZAT: A Prut a Románia és Moldova közötti határ fontos folyója.
+---
+ID: fold-a1-kviz-016
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik országgal határos Románia déli része, a Dobrudzsa?
+HELYES: Bulgária
+ROSSZ1: Szerbia
+ROSSZ2: Görögország
+ROSSZ3: Törökország
+MAGYARÁZAT: A Dobrudzsa déli határa szárazföldi határ Bulgáriával.
+---
+ID: fold-a1-kviz-017
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A magyar–román határ hossza kb. 450 km.
+HELYES: Igaz
+MAGYARÁZAT: A magyar–román határ hossza megközelítőleg 450 km (a forrásoktól függően kis eltéréssel).
+---
+ID: fold-a1-kviz-018
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik román történelmi tájegység határos a Moldovai Köztársasággal?
+HELYES: Moldva
+ROSSZ1: Erdély
+ROSSZ2: Bánság
+ROSSZ3: Dobrudzsa
+MAGYARÁZAT: Moldva (Moldvai-fennsík) keleti része a Moldovai Köztársasággal határos, a határt részben a Prut alkotja.
+---
+ID: fold-a1-kviz-019
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Mekkora Románia Fekete-tengeri partvonala?
+HELYES: kb. 225 km
+ROSSZ1: kb. 45 km
+ROSSZ2: kb. 600 km
+ROSSZ3: kb. 1200 km
+MAGYARÁZAT: Románia Fekete-tengeri partvonala kb. 225 km hosszú.
+---
+ID: fold-a1-kviz-020
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Románia legnagyobb tengeri kikötője?
+HELYES: Constanța
+ROSSZ1: Sulina
+ROSSZ2: Mangalia
+ROSSZ3: Brăila
+MAGYARÁZAT: Constanța a legnagyobb romániai tengeri kikötő a Fekete-tenger partján.
+---
+ID: fold-a1-kviz-021
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben csatlakozott Románia az Európai Unióhoz?
+HELYES: 2007
+ROSSZ1: 2004
+ROSSZ2: 2013
+ROSSZ3: 1995
+MAGYARÁZAT: Románia 2007. január 1-jén lett az Európai Unió tagja, Bulgáriával együtt.
+---
+ID: fold-a1-kviz-022
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben lett Románia NATO-tag?
+HELYES: 2004
+ROSSZ1: 1999
+ROSSZ2: 1995
+ROSSZ3: 2009
+MAGYARÁZAT: Románia 2004-ben csatlakozott a NATO-hoz.
+---
+ID: fold-a1-kviz-023
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Európát keleten hagyományosan az Urál-hegység határolja Ázsiától.
+HELYES: Igaz
+MAGYARÁZAT: Európa keleti határa hagyományosan az Urál-hegység, amely elválasztja Európát Ázsiától.
+---
+ID: fold-a1-kviz-024
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Duna Romániában több mint 1000 km hosszan folyik.
+HELYES: Igaz
+MAGYARÁZAT: A Duna Romániában több mint 1000 km hosszan húzódik, és a Fekete-tengerbe ömlik.
+---
+ID: fold-a1-kviz-025
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Mi jellemzi a Duna-deltát?
+HELYES: Európa második legnagyobb folyódeltája
+ROSSZ1: Európa legnagyobb sós tava
+ROSSZ2: Európa legmagasabb vízesése
+ROSSZ3: Európa legnagyobb homokdűnéje
+MAGYARÁZAT: A Duna-delta Európa második legnagyobb folyódeltája, a legnagyobb a Volga-delta.
+---
+ID: fold-a1-kviz-026
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Duna-delta UNESCO világörökségi terület.
+HELYES: Igaz
+MAGYARÁZAT: A Duna-delta 1991 óta szerepel az UNESCO világörökségi listáján.
+---
+ID: fold-a1-kviz-027
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Hozzávetőlegesen mekkora Európa területe?
+HELYES: kb. 10 millió km²
+ROSSZ1: kb. 30 millió km²
+ROSSZ2: kb. 5 millió km²
+ROSSZ3: kb. 50 millió km²
+MAGYARÁZAT: Európa területe kb. 10 millió km².
+---
+ID: fold-a1-kviz-028
+LECKE_ID: fold-a1-001
+TÍPUS: választásos
+KÉRDÉS: Hány megyére (județ) oszlik Románia, Bukarest municipium nélkül?
+HELYES: 41
+ROSSZ1: 38
+ROSSZ2: 44
+ROSSZ3: 48
+MAGYARÁZAT: Románia 41 megyére oszlik, a fővárost, Bukarestet külön közigazgatási egység alkotja.
+---
+ID: fold-a1-kviz-029
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia fizetőeszköze az euró.
+HELYES: Hamis
+MAGYARÁZAT: Románia fizetőeszköze a román lej (RON).
+---
+ID: fold-a1-kviz-030
+LECKE_ID: fold-a1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: 2025. január 1-jétől a szárazföldi határokon nincs határellenőrzés Románia és a schengeni övezet többi tagja között.
+HELYES: Igaz
+MAGYARÁZAT: Románia 2025. január 1-jétől teljes jogú tagja a schengeni övezetnek, a szárazföldi határokon megszűnt az ellenőrzés.
+

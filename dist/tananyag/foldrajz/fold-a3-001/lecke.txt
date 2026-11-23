@@ -1,0 +1,41 @@
+ID: fold-a3-001
+CÍM: Románia társadalmi és gazdasági földrajza: politikai térkép, népesség, városhálózat, ipar, mezőgazdaság, szolgáltatások, közlekedés
+SZÖVEG:
+# Románia társadalmi és gazdasági földrajza
+Románia közigazgatásilag 41 megyére és Bukarest municipiumra oszlik. Népessége 1989 óta csökken, a gazdaságban a szolgáltatások adják a legnagyobb részt, az ipart pedig az autógyártás vezeti.
+
+## Politikai térkép
+- Közigazgatási egységei a **41 megye** (județ) és a főváros, **Bukarest** municipiuma. Bukarest nem tartozik egyetlen megyéhez sem, a környező **Ilfov** megye csak a területi határán érintkezik vele.
+- Fejlesztési és statisztikai célból az országot **8 régióra** osztják. Ezek nem közigazgatási egységek, hanem uniós támogatási és statisztikai területek.
+- A történelmi tájegységek közül **Erdély**, a **Bánság**, **Moldva**, a **Havasalföld**, a **Dobrudzsa**, a **Crișana** és a **Máramaros** fontosak. Bukovina egy részét Ukrajna birtokolja.
+
+## Népesség
+- Lakossága 2021-ben kb. 19 millió fő volt. 1989 óta csökken, főként az elvándorlás és az alacsony születésszám miatt, a társadalom elöregedik.
+- A lakosság több mint fele városban él.
+- A legnagyobb kisebbség a **magyar**, főként Erdélyben és a Partiumban. **Hargita** és **Kovászna** megyében többségben vannak.
+- A roma kisebbség jelentős létszámú, sokan élnek szegényebb vidéki térségekben.
+
+## Városhálózat
+- **Bukarest** az ország legnagyobb városa, kb. 1,9 millió lakossal, az ország politikai, gazdasági és kulturális központja. A városhálózat ennek erősen felül van rendelve.
+- Fontos nagyvárosok: **Kolozsvár** (Erdély legnagyobb városa), **Iași** (Jászvásár), **Temesvár** (a Bánság legnagyobb városa), **Konstanca**, **Craiova**, **Brassó**, **Galați**, **Ploiești**, **Nagyvárad**, **Nagyszeben** és **Marosvásárhely**.
+
+## Ipar
+- A hagyományos ágazatok a vegyipar, a kohászat (Galați), a gépipar, valamint a textil- és lábbeliipar.
+- A legfontosabb ágazat az **autóipar**. A **Dacia** gyára Mioveni (Argeș megye) mellett működik, a Ford-gyár Craiovában van.
+- Az informatikai szektor fontos központjai **Kolozsvár**, **Temesvár** és Bukarest.
+
+## Mezőgazdaság
+- A termékeny csernozjom talajú síkságokon (Havasalföld, Moldva, Bánság) gabonát, kukoricát, napraforgót és cukorrépát termelnek.
+- A **napraforgó** termesztésével Románia az Európai Unió egyik legnagyobb termelője.
+- A szőlő- és borkultúra fontos: a **Murfatlar** Dobrudzsában, a **Cotnari** Moldvában található.
+- A birtokok többsége kis méretű, kistermelő.
+
+## Szolgáltatások és turizmus
+- A szolgáltatások adják a GDP legnagyobb részét. Ide tartozik a kereskedelem, a pénzügy és az üzleti szolgáltatások, amelyek főként Bukarestben koncentrálódnak.
+- Fontos turisztikai célpontok a Fekete-tengeri part, a Kárpátok, a Duna-delta és az erdélyi várak.
+
+## Közlekedés
+- Fő autópályák az **A1** (Bukarest–Pitești) és az **A2** (Bukarest–Konstanca).
+- A **Konstanca** kikötő a tengeri teherforgalom legfontosabb csomópontja, a Duna-kikötők, például Galați és Brăila, a folyami szállítást szolgálják.
+- A bukaresti nemzetközi repülőtér a **Henri Coandă** (Otopeni) repülőtér.
+- A vasúthálózat a teherszállítás és a személyszállítás fontos eszköze.

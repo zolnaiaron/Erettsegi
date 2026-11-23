@@ -1,0 +1,38 @@
+ID: fold-c2-001
+CÍM: Európa történelmi, technológiai, tudományos és kulturális szerepe
+SZÖVEG:
+# Európa történelmi, technológiai, tudományos és kulturális szerepe
+Európa a világtörténelemben több alapvető fordulat helyszíne volt: itt alakultak ki a demokratikus gondolkodás, a modern tudomány és az egyetemi oktatás hagyományai. A kontinens szerepe a kortárs világban is meghatározó, ezért érdemes a történelmi gyökerektől a mai együttműködésekig áttekinteni.
+
+## Történelmi szerep
+- Az **ókori Görögországban** alakult ki a demokrácia egyik korai formája Athénban, és itt születtek a filozófia alapjai. A **római birodalom** jogi és közigazgatási rendszere, valamint a latin nyelv később sok európai nyelv alapjává vált.
+- A **középkorban** az egyetemek megalakulásával nőtt a tudás szerepe. A bolognai egyetem 1088-ban alakult, Európa egyik legrégebbi egyetemeként.
+- A **reneszánsz** a 14. században Itáliában indult, a művészet és a tudomány újjászületését hozta. A **reformáció** 1517-ben Luther Márton 95 tételével kezdődött, és a keresztény egyház megosztásához vezetett.
+- A **felvilágosodás** a 18. században az értelem és a tudomány felhasználását állította a társadalom javításának középpontjába. Ennek hatására tört ki 1789-ben a **francia forradalom**.
+
+## Tudományos szerep
+- **Kopernikusz** heliocentrikus világképe szerint a Föld kering a Nap körül. **Newton** 1687-ben publikálta a Principiát, amely a mechanika és a gravitáció törvényeit foglalta össze.
+- **Darwin** 1859-ben a Fajok eredete című művében fejtette ki az evolúcióelméletet. **Mengyelejev** 1869-ben alkotta meg az elemek periódusos rendszerét.
+- **Einstein** a relativitáselmélettel a fizika alapjait változtatta meg. **Marie Curie** a lengyel származású, francia tudós a radioaktivitás kutatásáért kétszer kapott Nobel-díjat.
+
+## Technológiai szerep
+- **Gutenberg** nyomtatógépe a 15. század közepén forradalmasította a könyvnyomtatást, és elősegítette a tudás terjedését.
+- Az **ipari forradalom** Nagy-Britanniában indult. **James Watt** gőzgépének továbbfejlesztése a gyártás és a közlekedés átalakulását hozta.
+- A **CERN** Genfben működő részecskefizikai kutatóközpont, ahol 1989-ben **Tim Berners-Lee** a világhálót (WWW) fejlesztette ki. A CERN Nagy Hadronütköztetője (LHC) a világ egyik legnagyobb kutatóberendezése.
+- Az **Európai Űrügynökség (ESA)** 1975-ben alakult. A Galileo navigációs rendszer az EU és az ESA közös programja.
+
+## Kulturális szerep
+- Európa irodalma és művészete világszerte ismert: **Shakespeare** drámái, **Beethoven** zenéje Bonnból, **Mozart** Salzburgból indult pályája.
+- A **Louvre** Párizsban őrzi a Mona Lisát, a reneszánsz művészet egyik legismertebb képét.
+- Az **ókori Olympia** adott otthont az első olimpiai játékoknak Görögországban. A modern olimpia 1896-ban Athénban indult.
+- Európa történelmi városai, katedrálisai és kastélyai nagy számban szerepelnek az **UNESCO világörökségi listáján**.
+
+## Politikai és jogi örökség
+- **Rousseau** a társadalmi szerződésről, **Montesquieu** a hatalmi ágak elválasztásáról írt. Ezek az eszmék a modern alkotmányos demokráciák alapjai lettek.
+- Az 1215-ös **Magna Carta** Angliában korlátozta az uralkodó hatalmát, a jogállamiság egyik korai dokumentuma.
+- A római jog sok alapelve a mai európai jogrendszerekben is megjelenik.
+
+## Modern együttműködés
+- Az **Erasmus-program** 1987-ben indult, a diákok és oktatók külföldi mobilitását támogatja.
+- A **Bologna-folyamat** 1999-ben indult, az európai felsőoktatási képzések egységesítésére.
+- Az EU és az ESA közös, a tudomány és a technológia terén közös programjai (például a Galileo) a kontinens versenyképességét erősítik.

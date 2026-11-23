@@ -1,0 +1,36 @@
+ID: fold-a6-001
+CÍM: Románia szomszédai: Ukrajna, Moldova, Magyarország, Szerbia, Bulgária
+SZÖVEG:
+# Románia szomszédai
+Románia öt szárazföldi szomszédos országgal határos: északon és keleten Ukrajnával és Moldovával, nyugaton Magyarországgal, délnyugaton Szerbiával, délen Bulgáriával. Közülük Magyarország és Bulgária az Európai Unió tagja, Ukrajna, Moldova és Szerbia uniós tagjelölt.
+
+## Ukrajna (észak, északkelet)
+- A közös határ hossza kb. 600 km. A Kárpátok északi lejtőin, Máramarosban húzódik, a Duna-deltánál pedig a Chilia-ág alkotja.
+- Fővárosa Kijev, pénzneme a hrivnya, hivatalos nyelve az ukrán.
+- A történelmi Bukovina egy része Ukrajnához tartozik, főváros-jellegű városa Csernyivci.
+- Ukrajna nyugati részén, Kárpátalján magyar kisebbség él.
+- 2022 óta az orosz–ukrán háború miatt sok menekült érkezett Romániába Ukrajnából.
+
+## Moldova (kelet)
+- Határa kb. 680 km, nagy részét a **Prut** folyó alkotja.
+- Fővárosa Chișinău, hivatalos nyelve a román, amelyet a moldovai alkotmány szerint moldovai névvel is említ. Pénzneme a moldovai lej.
+- A Dnyeszter bal partján fekvő **Transznisztria** szakadár terület, amelyet nemzetközileg nem ismernek el, és ahol orosz katonai jelenlét van.
+- Moldova 2022-ben kapott uniós tagjelölt státuszt.
+
+## Magyarország (nyugat)
+- A magyar–román határ hossza kb. 450 km, jogi rendezését az 1996-os alapszerződés szabályozza.
+- A trianoni békeszerződés (1920) után Erdély Romániához került. Ma a magyar a legnagyobb romániai nemzeti kisebbség, főként Erdélyben, a Partiumban és a Székelyföldön él.
+- Fontos határátkelők: a **Nagylak–Nădlac** és az **Ártánd–Borș**. A határ közelében fekszik Nagyvárad, Arad és Szatmárnémeti.
+- Magyarország és Románia is az Európai Unió tagja, Románia 2025 januárjától a szárazföldi határain is teljes körűen a schengeni övezet része.
+
+## Szerbia (délnyugat)
+- Határa kb. 500 km, a Duna a Vaskapu-szorosnál és annak környékén alkotja a határ egy szakaszát, a többi szakasz a Bánságban húzódik.
+- Fővárosa Belgrád, hivatalos nyelve a szerb, pénzneme a dinár.
+- A Bánság északi szomszédja a szerbiai **Vajdaság** tartomány, a keleti Timok-völgyben román kisebbség él.
+- Szerbia uniós tagjelölt.
+
+## Bulgária (dél, délkelet)
+- Határa kb. 600 km, a Duna a Vidin és Silistra közötti szakaszon húzódik, a Dobrudzsa déli határa szárazföldi.
+- Fővárosa Szófia, nyelve a bolgár. A Ruse és Giurgiu közötti Duna-híd köti össze a két országot.
+- A történelmi **Dél-Dobrudzsa** 1913-ban Romániához került, 1940-ben Bulgáriához csatolták.
+- Bulgária Románia déli szomszédja és az Európai Unió tagja, legmagasabb csúcsa a Rila-hegységi Musala (2925 m).

@@ -1,0 +1,257 @@
+ID: fold-b5-at-kviz-001
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Ausztriának nincs tengerpartja.
+HELYES: Igaz
+MAGYARÁZAT: Ausztria szárazföldi ország, nincs közvetlen hozzáférése a tengerhez.
+---
+ID: fold-b5-at-kviz-002
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Hány szomszédos országgal határos Ausztria?
+HELYES: 8
+ROSSZ1: 6
+ROSSZ2: 7
+ROSSZ3: 10
+MAGYARÁZAT: Ausztria szomszédai: Svájc, Liechtenstein, Németország, Csehország, Szlovákia, Magyarország, Szlovénia és Olaszország.
+---
+ID: fold-b5-at-kviz-003
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Magyarország Ausztria keleti szomszédja.
+HELYES: Igaz
+MAGYARÁZAT: A magyar–osztrák határ Ausztria keleti részén húzódik.
+---
+ID: fold-b5-at-kviz-004
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik ország nem határos Ausztriával?
+HELYES: Lengyelország
+ROSSZ1: Csehország
+ROSSZ2: Szlovákia
+ROSSZ3: Svájc
+MAGYARÁZAT: Ausztria és Lengyelország között nincs közös határ. Csehország, Szlovákia és Svájc szomszédai Ausztriának.
+---
+ID: fold-b5-at-kviz-005
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Ausztria határos Liechtensteinnel és Svájccal.
+HELYES: Igaz
+MAGYARÁZAT: Ausztria nyugati szomszédai Svájc és Liechtenstein.
+---
+ID: fold-b5-at-kviz-006
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Mi Ausztria legmagasabb csúcsa?
+HELYES: Großglockner
+ROSSZ1: Wildspitze
+ROSSZ2: Zugspitze
+ROSSZ3: Mont Blanc
+MAGYARÁZAT: A Großglockner 3798 m magas, a Hohe Tauern hegységben. A Wildspitze alacsonyabb, a Zugspitze Németországban, a Mont Blanc Franciaországban van.
+---
+ID: fold-b5-at-kviz-007
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Ausztria területének nagy része az Alpokban fekszik.
+HELYES: Igaz
+MAGYARÁZAT: Az ország déli és nyugati részét a Keleti-Alpok foglalja el.
+---
+ID: fold-b5-at-kviz-008
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Ausztria legnagyobb gleccsere?
+HELYES: Pasterze
+ROSSZ1: Mer de Glace
+ROSSZ2: Aletsch-gleccser
+ROSSZ3: Gorner-gleccser
+MAGYARÁZAT: A Pasterze a Großglockner térségében található, a Keleti-Alpok legnagyobb gleccsere. A többi felsorolt gleccser Franciaországban vagy Svájcban van.
+---
+ID: fold-b5-at-kviz-009
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Dachstein karsztos fennsíkján barlangok találhatók.
+HELYES: Igaz
+MAGYARÁZAT: A Dachstein mészkőfennsíkján karsztos formák és barlangrendszerek vannak.
+---
+ID: fold-b5-at-kviz-010
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nagy sztyeptó található Kelet-Ausztriában?
+HELYES: Neusiedler-tó
+ROSSZ1: Wolfgangsee
+ROSSZ2: Bodeni-tó
+ROSSZ3: Balaton
+MAGYARÁZAT: A Neusiedler-tó (Fertő-tó) Burgenlandban fekszik, Ausztria és Magyarország közös tava. A Wolfgangsee a Salzkammergutban, a Bodeni-tó Németország, Svájc és Ausztria határán, a Balaton Magyarországon van.
+---
+ID: fold-b5-at-kviz-011
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Milyen éghajlattípus jellemzi Ausztria hegyvidéki részeit?
+HELYES: alpesi
+ROSSZ1: mediterrán
+ROSSZ2: trópusi
+ROSSZ3: sivatagi
+MAGYARÁZAT: A hegyvidéken az alpesi éghajlat hűvös nyarat és hosszú, havas telet hoz.
+---
+ID: fold-b5-at-kviz-012
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Ausztria keleti részén erősebb a kontinentális éghajlati hatás.
+HELYES: Igaz
+MAGYARÁZAT: A keleti síkságok a tengertől távol esnek, ezért szárazabb, nagyobb hőmérséklet-ingadozású az éghajlatuk.
+---
+ID: fold-b5-at-kviz-013
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik meleg, lefelé áramló szél jellemzi az osztrák alpesi völgyeket?
+HELYES: Föhn
+ROSSZ1: Bora
+ROSSZ2: Mistral
+ROSSZ3: Sirocco
+MAGYARÁZAT: A Föhn az alpesi völgyekben lefelé melegedő szél. A Bora Trieszt szele, a Mistral francia, a Sirocco afrikai eredetű.
+---
+ID: fold-b5-at-kviz-014
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Ausztria nyugati tartományaiban az óceáni hatás érvényesül.
+HELYES: Igaz
+MAGYARÁZAT: Vorarlberg felé az Atlanti-óceán közelsége csapadékosabbá és enyhébbé teszi az időjárást.
+---
+ID: fold-b5-at-kviz-015
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Ausztria legnyugatibb, legcsapadékosabb tartománya?
+HELYES: Vorarlberg
+ROSSZ1: Burgenland
+ROSSZ2: Alsó-Ausztria
+ROSSZ3: Stájerország
+MAGYARÁZAT: Vorarlberg az ország legnyugatibb tartománya, csapadékos, óceáni hatású éghajlattal. Burgenland a keleti, száraz síkvidék.
+---
+ID: fold-b5-at-kviz-016
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó folyik át Bécsen?
+HELYES: Duna
+ROSSZ1: Inn
+ROSSZ2: Mur
+ROSSZ3: Dráva
+MAGYARÁZAT: A Duna Bécs mellett folyik. Az Inn Innsbruckon, a Mur Grazon, a Dráva Karintián folyik át.
+---
+ID: fold-b5-at-kviz-017
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Inn Innsbruck mellett folyik.
+HELYES: Igaz
+MAGYARÁZAT: Az Inn Tirol fővárosán, Innsbrucknál folyik át, és Passaunál ömlik a Dunába.
+---
+ID: fold-b5-at-kviz-018
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó folyik Graz mellett?
+HELYES: Mur
+ROSSZ1: Inn
+ROSSZ2: Dráva
+ROSSZ3: Traun
+MAGYARÁZAT: A Mur Graz városán folyik át. Az Inn Innsbruck mellett, a Dráva Karintiában, a Traun Linz térségében van.
+---
+ID: fold-b5-at-kviz-019
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Fertő-tó Ausztria és Magyarország közös tava.
+HELYES: Igaz
+MAGYARÁZAT: A Fertő-tó (Neusiedler See) a két ország határán fekszik, nemzeti park is védi.
+---
+ID: fold-b5-at-kviz-020
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tó található a Salzkammergutban?
+HELYES: Wolfgangsee
+ROSSZ1: Neusiedler-tó
+ROSSZ2: Balaton
+ROSSZ3: Garda-tó
+MAGYARÁZAT: A Wolfgangsee a Salzkammergut üdülőtava. A Neusiedler-tó Burgenlandban, a Balaton Magyarországon, a Garda-tó Olaszországban van.
+---
+ID: fold-b5-at-kviz-021
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Ausztria fővárosa?
+HELYES: Bécs
+ROSSZ1: Graz
+ROSSZ2: Linz
+ROSSZ3: Salzburg
+MAGYARÁZAT: Bécs Ausztria fővárosa, a Duna partján. A többi felsorolt város nagy, de nem főváros.
+---
+ID: fold-b5-at-kviz-022
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Linz a Duna mentén fekvő ipari város.
+HELYES: Igaz
+MAGYARÁZAT: Linz a Duna partján fekszik, acélipara és vegyipara jelentős.
+---
+ID: fold-b5-at-kviz-023
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik városban született Mozart?
+HELYES: Salzburg
+ROSSZ1: Bécs
+ROSSZ2: Innsbruck
+ROSSZ3: Graz
+MAGYARÁZAT: Mozart Salzburgban született, később Bécsben élt és alkotott.
+---
+ID: fold-b5-at-kviz-024
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Innsbruck Tirol tartomány fővárosa.
+HELYES: Igaz
+MAGYARÁZAT: Innsbruck az Inn völgyében fekvő Tirol tartomány székhelye.
+---
+ID: fold-b5-at-kviz-025
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Mekkora Ausztria lakossága?
+HELYES: kb. 9 millió
+ROSSZ1: kb. 2 millió
+ROSSZ2: kb. 25 millió
+ROSSZ3: kb. 40 millió
+MAGYARÁZAT: Ausztria lakossága kb. 9 millió fő.
+---
+ID: fold-b5-at-kviz-026
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Ausztriában nincs működő atomerőmű.
+HELYES: Igaz
+MAGYARÁZAT: Az 1978-as népszavazás után az atomenergia használatától elálltak, a kész zwentendorfi erőmű sem indult be.
+---
+ID: fold-b5-at-kviz-027
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik energiaforrás adja Ausztria villamosenergia-termelésének nagy részét?
+HELYES: vízerőmű
+ROSSZ1: atomerőmű
+ROSSZ2: szénerőmű
+ROSSZ3: kőolaj
+MAGYARÁZAT: Ausztria villamosenergiájának nagy részét vízerőművek adják, az Alpok folyóin.
+---
+ID: fold-b5-at-kviz-028
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Ausztria acélgyártása Linzhez kötődik.
+HELYES: Igaz
+MAGYARÁZAT: A voestalpine acélgyára Linzban működik, az ország egyik legnagyobb ipari vállalata.
+---
+ID: fold-b5-at-kviz-029
+LECKE_ID: fold-b5-at-001
+TÍPUS: választásos
+KÉRDÉS: Melyik híres síterület található Tirolban?
+HELYES: Kitzbühel
+ROSSZ1: Zakopane
+ROSSZ2: Bukovel
+ROSSZ3: Jasná
+MAGYARÁZAT: Kitzbühel Tirolban található, híres síterület. A Zakopane Lengyelországban, a Bukovel Ukrajnában, a Jasná Szlovákiában van.
+---
+ID: fold-b5-at-kviz-030
+LECKE_ID: fold-b5-at-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Hallstatt a történelmi sóbányászat helye Ausztriában.
+HELYES: Igaz
+MAGYARÁZAT: A Hallstatt melletti sóbányák évezredes hagyományra tekintenek vissza, a vidék UNESCO-világörökség.

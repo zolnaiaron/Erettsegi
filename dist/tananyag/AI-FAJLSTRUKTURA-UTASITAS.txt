@@ -1,0 +1,79 @@
+Érettségi tananyag – hosszú távú fájlstruktúra
+
+Cél:
+Minden lecke önálló mappát kap. A leckéhez tartozó magyarázat, kvíz és tanulókártyák ugyanabban a mappában maradnak, ezért a tartalom könnyen bővíthető és nem keveredik más leckék anyagával.
+
+Kötelező mappaszerkezet:
+
+tananyag/
+  <tantargy>/
+    index.txt
+    <lecke-id>/
+      lecke.txt
+      tanulokartya.txt
+      kviz.txt
+
+Példa:
+
+tananyag/
+  foldrajz/
+    index.txt
+    fold-a1-001/
+      lecke.txt
+      tanulokartya.txt
+      kviz.txt
+    fold-a1-002/
+      lecke.txt
+      tanulokartya.txt
+      kviz.txt
+
+Tantárgy-mappák nevei:
+- roman
+- magyar
+- tori
+- foldrajz
+
+Leckeazonosító szabálya:
+- Formátum: <tantargy-rovidites>-<tema-rovid-neve>-<sorszám>
+- Példa: fold-a1-001 vagy tort-matyas-001.
+- Az ID kisbetűs, ékezet nélküli, szóköz nélküli legyen.
+- Egy ID a létrehozása után nem változhat meg.
+- Egy lecke csak a saját mappájában szerepelhet.
+
+index.txt szabálya:
+- Tantárgyanként pontosan egy index.txt legyen.
+- Ez határozza meg a leckék sorrendjét és címét.
+- Egy sor formátuma:
+  ID: <lecke-id>
+  CÍM: <lecke címe>
+  ---
+- Az indexben szereplő ID-hoz pontosan egy, azonos nevű leckemappa tartozzon.
+- A következő lecke csak az index szerinti előző lecke után következhet.
+
+lecke.txt szabálya:
+- Pontosan egy leckét tartalmazzon.
+- Kötelező mezők:
+  ID: <lecke-id>
+  CÍM: <lecke címe>
+  SZÖVEG:
+- Az ID egyezzen meg a mappa nevével és az index.txt-ben használt ID-val.
+- A tartalom formázásához csak ezek használhatók: # főcím, ## alcím, - felsorolás, **félkövér**, *dőlt*.
+- UTF-8 kódolású szövegfájl legyen.
+
+tanulokartya.txt szabálya:
+- Csak az adott leckéhez tartozó kártyák legyenek benne.
+- Minden kártya LECKE_ID mezője egyezzen a mappa nevével.
+- A kártyák formátumát az AI-TANULOKARTYA-UTASITAS.txt határozza meg.
+
+kviz.txt szabálya:
+- Csak az adott leckéhez tartozó kérdések legyenek benne.
+- Minden kérdés LECKE_ID mezője egyezzen a mappa nevével.
+- Leckénként legalább 30 kérdés legyen.
+- A kérdések formátumát az AI-KVIZ-UTASITAS.txt határozza meg.
+
+Szigorú szabályok:
+- Ne kerüljön több különböző lecke egyetlen lecke.txt fájlba.
+- Ne kerüljön más lecke kártyája vagy kérdése egy lecke mappájába.
+- Új lecke létrehozásakor mindig hozd létre mindhárom fájlt: lecke.txt, tanulokartya.txt, kviz.txt.
+- Ha egy anyag még nem készült el, a fájl maradjon üres, de a mappa és a fájlnév már létezzen.
+- A fájlnevek mindig pontosan kisbetűsek és ékezet nélküliek legyenek.

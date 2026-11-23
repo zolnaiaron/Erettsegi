@@ -1,0 +1,33 @@
+ID: fold-b5-de-001
+CÍM: Németország
+SZÖVEG:
+# Németország
+Németország Közép-Európa legnépesebb és legnagyobb gazdaságú állama, az Európai Unió gazdasági motorja. Az alábbi hat szempont mentén érdemes áttekinteni.
+
+## 1. Fekvés és határok
+- **Tengerparti állam**: északon az Északi-tenger, északkeleten a Balti-tenger partjával.
+- **Szárazföldi szomszédai**: kilenc ország. Északon Dánia, keleten Lengyelország és Csehország, délen Ausztria és Svájc, nyugaton Franciaország, Luxemburg, Belgium és Hollandia.
+- Nem határos Olaszországgal és Spanyolországgal.
+
+## 2. Domborzat
+- **Fő domborzati egységek**: az északi **Észak-német-alföld**, a középső **Középhegység** (a Harz, a Thüringi-erdő, a Rajnai-palafelföld), a délnyugati **Fekete-erdő**, és a délen fekvő **Bajor-Alpok**.
+- **Domborzattípusok**: az Észak-német-alföldön glaciális formák (morénák, tavak, a Lüneburgi-puszta), a **Svábi-Jura** karsztos mészkőfennsík, az **Eifel** és a Vogelsberg vulkáni eredetű vidékek.
+- **Legmagasabb csúcs**: a **Zugspitze** (2962 m), a Bajor-Alpokban, az osztrák határ közelében.
+
+## 3. Éghajlat
+- **Éghajlati övezet és típus**: mérsékelt övi, északnyugaton mérsékelt óceáni, keleten és délen átmeneti kontinentális, a Bajor-Alpokban hegyvidéki éghajlattal.
+- **Jellemző szelek**: a nyugati szelek dominálnak, a Bajor-Alpok északi lejtőin a **Föhn** meleg, lefelé áramló szél, amely hirtelen olvasztja a havat.
+
+## 4. Vízrajz
+- **Főbb folyók és torkolatuk**: a **Rajna** Hollandiában, Rotterdam mellett, a **Elba** Hamburgon át az Északi-tengerbe, az **Odera** a lengyel–német határon a Balti-tengerbe, a **Duna** a Fekete-erdőben ered és a Fekete-tengerbe ömlik. A **Majna** a Rajna jobb oldali mellékfolyója.
+- **Fontosabb tavak**: a **Bodeni-tó** (Boden-tó) Németország, Svájc és Ausztria közös tava, a **Müritz** Mecklenburgban.
+
+## 5. Népesség és városok
+- **Főváros**: **Berlin**, az ország északkeleti részén, a Spree folyó mentén. Az ország lakossága kb. 84 millió fő.
+- **Fontos városok és kikötők**: **Hamburg** (az Elba partján fekvő nagy kikötő), **München** (Bajorország fővárosa), **Frankfurt am Main** (a pénzügyi élet központja és az Európai Központi Bank székhelye), valamint Köln, Stuttgart és Drezda.
+
+## 6. Gazdaság és erőforrások
+- **Energiahordozók**: a barnaszén (lignit) a Rajna-vidéki és a lausitzi bányákból származik, a 2023-ban lezárt atomerőművek után a megújuló energia, főként a szél- és napenergia szerepe nőtt. A szénkivezetés határideje 2038 körül van.
+- **Vezető iparágak**: az autóipar (Mercedes-Benz Stuttgartban, BMW Münchenben, Volkswagen Wolfsburgban), a gépgyártás, a vegyipar (a BASF Ludwigshafenben, a Rajna partján) és a gyógyszeripar.
+- **Mezőgazdaság**: intenzív gabona- és burgonyatermesztés, cukorrépa, valamint az északi síkságokon jellemző állattartás és tejtermelés.
+- **Turizmus**: a Bajor-Alpok (például a Neuschwanstein kastély), Berlin és a Rajna-völgy kastélyai vonzzák a turistákat.

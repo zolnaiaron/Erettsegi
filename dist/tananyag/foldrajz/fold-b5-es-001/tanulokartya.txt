@@ -1,0 +1,179 @@
+ID: fold-b5-es-kartya-001
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Spanyolország portugál határa
+HÁTLAP: Közös szárazföldi határ.
+---
+ID: fold-b5-es-kartya-002
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Spanyolország keleti tengere
+HÁTLAP: Földközi-tenger.
+---
+ID: fold-b5-es-kartya-003
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Spanyolország északi tengere
+HÁTLAP: Atlanti-óceán (Kantábriai-tenger).
+---
+ID: fold-b5-es-kartya-004
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Gibraltár
+HÁTLAP: Brit tengerentúli terület Spanyolország déli részén.
+---
+ID: fold-b5-es-kartya-005
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Kanári-szigetek helye
+HÁTLAP: Atlanti-óceán, Afrika partjainál.
+---
+ID: fold-b5-es-kartya-006
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Afrikai spanyol területek
+HÁTLAP: Ceuta és Melilla (Marokkó partján).
+---
+ID: fold-b5-es-kartya-007
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Spanyolország legmagasabb csúcsa
+HÁTLAP: Teide, 3718 m (Tenerife).
+---
+ID: fold-b5-es-kartya-008
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Szárazföldi legmagasabb csúcs
+HÁTLAP: Mulhacén, 3479 m (Sierra Nevada).
+---
+ID: fold-b5-es-kartya-009
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Spanyolország központi fennsíkja
+HÁTLAP: Meseta.
+---
+ID: fold-b5-es-kartya-010
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Pireneusok legmagasabb spanyol csúcsa
+HÁTLAP: Aneto, 3404 m.
+---
+ID: fold-b5-es-kartya-011
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Tenerifén lévő vulkáni csúcs
+HÁTLAP: Teide.
+---
+ID: fold-b5-es-kartya-012
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Déli hegység a Sierra Nevada
+HÁTLAP: A Mulhacén (szárazföldi legmagasabb csúcs) helye.
+---
+ID: fold-b5-es-kartya-013
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Keleti és déli partok éghajlata
+HÁTLAP: Mediterrán.
+---
+ID: fold-b5-es-kartya-014
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Északi part éghajlata
+HÁTLAP: Óceáni.
+---
+ID: fold-b5-es-kartya-015
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Valencia keleti szele
+HÁTLAP: Levante.
+---
+ID: fold-b5-es-kartya-016
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Ebro-völgy hideg, erős szele
+HÁTLAP: Cierzo (északnyugati szél).
+---
+ID: fold-b5-es-kartya-017
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Meseta belső éghajlata
+HÁTLAP: Félszáraz kontinentális.
+---
+ID: fold-b5-es-kartya-018
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Kanári-szigetek éghajlata
+HÁTLAP: Szubtrópusi.
+---
+ID: fold-b5-es-kartya-019
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Ebro torkolata
+HÁTLAP: Földközi-tenger (Tortosa térségében).
+---
+ID: fold-b5-es-kartya-020
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Tajo (Tejo)
+HÁTLAP: Portugálián át, Lisszabonnál ömlik az Atlanti-óceánba.
+---
+ID: fold-b5-es-kartya-021
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Sevilla folyója
+HÁTLAP: Guadalquivir (az Atlanti-óceánba ömlik).
+---
+ID: fold-b5-es-kartya-022
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Valenciai tengerparti lagúna
+HÁTLAP: Albufera.
+---
+ID: fold-b5-es-kartya-023
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Spanyolország legnagyobb természetes tava
+HÁTLAP: Sanabria-tó (Galícia és Kasztília határán).
+---
+ID: fold-b5-es-kartya-024
+LECKE_ID: fold-b5-es-001
+ELŐLAP: A félsziget leghosszabb folyója
+HÁTLAP: Tajo (Tejo), kb. 1000 km.
+---
+ID: fold-b5-es-kartya-025
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Spanyolország fővárosa
+HÁTLAP: Madrid (a Meseta fennsíkján).
+---
+ID: fold-b5-es-kartya-026
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Katalónia fővárosa
+HÁTLAP: Barcelona.
+---
+ID: fold-b5-es-kartya-027
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Keleti nagy kikötőváros, az Albufera közelében
+HÁTLAP: Valencia.
+---
+ID: fold-b5-es-kartya-028
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Guadalquivir-parti város
+HÁTLAP: Sevilla.
+---
+ID: fold-b5-es-kartya-029
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Guggenheim Múzeum városa
+HÁTLAP: Bilbao.
+---
+ID: fold-b5-es-kartya-030
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Spanyolország lakossága
+HÁTLAP: Kb. 48 millió fő.
+---
+ID: fold-b5-es-kartya-031
+LECKE_ID: fold-b5-es-001
+ELŐLAP: SEAT gyár helye
+HÁTLAP: Martorell (Barcelona közelében).
+---
+ID: fold-b5-es-kartya-032
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Spanyolország megújuló energiaforrása, amely az európai élvonalban van
+HÁTLAP: Szélenergia.
+---
+ID: fold-b5-es-kartya-033
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Üvegházi zöldségtermelés központja
+HÁTLAP: Almería.
+---
+ID: fold-b5-es-kartya-034
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Spanyolország mezőgazdasági terméke a világpiacon
+HÁTLAP: Olívaolaj.
+---
+ID: fold-b5-es-kartya-035
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Spanyolország iparága a turizmus mellett
+HÁTLAP: Autóipar (például SEAT, Renault, Ford).
+---
+ID: fold-b5-es-kartya-036
+LECKE_ID: fold-b5-es-001
+ELŐLAP: Valencia híres citrusfélék termőterülete
+HÁTLAP: Narancs és más citrusfélék.

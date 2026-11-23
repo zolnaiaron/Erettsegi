@@ -1,0 +1,34 @@
+ID: fold-b5-es-001
+CÍM: Spanyolország
+SZÖVEG:
+# Spanyolország
+Spanyolország az Ibériai-félsziget nagy részét foglalja el, területéhez tartoznak a Baleár- és a Kanári-szigetek, valamint Afrikában Ceuta és Melilla. Fővárosa Madrid. Az alábbi hat szempont mentén érdemes áttekinteni.
+
+## 1. Fekvés és határok
+- **Tengerparti állam**: északon az Atlanti-óceán (a Kantábriai-tenger partjával), keleten és délkeleten a Földközi-tenger határolja. A Gibraltári-szoroson át a két tenger összeköttetésben áll.
+- **Szárazföldi szomszédai**: Portugália (nyugaton), Franciaország és Andorra (északon, a Pireneusoknál). Gibraltár brit terület a déli részén.
+- **Szigetei**: a Baleár-szigetek a Földközi-tengerben, a Kanári-szigetek az Atlanti-óceánon, Afrika partjainál.
+- **Afrikai területei**: Ceuta és Melilla Marokkó területén fekszenek.
+
+## 2. Domborzat
+- **Fő domborzati egységek**: a központi **Meseta** magas fennsík, északon a **Pireneusok** és a **Kantábriai-hegység**, délen a **Sierra Nevada**. A Guadalquivir-medence délen, az Ebro-medence északkeleten található.
+- **Domborzattípusok**: a Pireneusokban glaciális formák és gleccserek, a Kanári-szigeteken vulkáni kúpok és lávamezők.
+- **Legmagasabb csúcsok**: a **Teide** (3718 m) Tenerifén, a Kanári-szigeteken a legmagasabb pont. A szárazföldi legmagasabb csúcs a **Mulhacén** (3479 m), a Sierra Nevadában. A Pireneusokban az **Aneto** (3404 m) a legmagasabb.
+
+## 3. Éghajlat
+- **Éghajlati övezet és típus**: a keleti és déli partvidéken mediterrán, az északi partvidéken óceáni, a Meseta belső részein félszáraz kontinentális, a Pireneusokban és a Sierra Nevadában hegyvidéki, a Kanári-szigeteken szubtrópusi.
+- **Jellemző szelek**: a **Levante** keleti szél Valencia térségében, a **Cierzo** hideg, erős északnyugati szél az Ebro-völgyében.
+
+## 4. Vízrajz
+- **Főbb folyók és torkolatuk**: az **Ebro** a Földközi-tengerbe ömlik, deltája Tortosa mellett található. A **Tajo** (Tejo) a félsziget leghosszabb folyója, Portugálián át Lisszabonnál az Atlanti-óceánba torkollik. A **Guadalquivir** Sevilla mellett folyik, és az Atlanti-óceánba ömlik. A **Douro** (Duero) Portugáliában torkollik.
+- **Fontosabb tavak**: a **Sanabria-tó** Spanyolország legnagyobb természetes tava, Galícia és Kasztília határán. Az **Albufera** a valenciai tengerparti lagúna.
+
+## 5. Népesség és városok
+- **Főváros**: **Madrid**, az ország közepén, a Meseta fennsíkján. Az ország lakossága kb. 48 millió fő.
+- **Fontos városok és kikötők**: **Barcelona** (Katalónia fővárosa, a Földközi-tenger partján), **Valencia** (a keleti part nagy kikötője), **Sevilla** (a Guadalquivir partján), **Málaga** és **Bilbao** (a Guggenheim Múzeum városa, Baszkföldön).
+
+## 6. Gazdaság és erőforrások
+- **Energiahordozók**: a szélenergia Spanyolországban az európai élvonalban van, a napenergia gyorsan nő. Az atomerőművek száma csökken, a kivezetés folyamatban van. A vízerőművek főként az északi folyókon működnek.
+- **Vezető iparágak**: az autóipar (a SEAT Martorellban, Barcelona közelében, a Renault Valladolidban, a Ford Valencia mellett), a vegyipar, az élelmiszeripar és a szolgáltatások.
+- **Mezőgazdaság**: a világ egyik legnagyobb olívaolaj-termelője (Andalúzia, Jaén), a citrusfélék (Valencia), a szőlő és a bor (Rioja, La Mancha), az üvegházi zöldségtermesztés Almeríában.
+- **Turizmus**: a világ egyik legnépszerűbb turisztikai célpontja, a tengerpartok, Barcelona, Madrid, Sevilla és a Kanári-szigetek vonzzák a turistákat.

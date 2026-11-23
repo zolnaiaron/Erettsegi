@@ -1,0 +1,38 @@
+ID: fold-c5-001
+CÍM: Demográfiai fenntarthatóság, zöld átállás, digitalizáció, EU-jövőkép
+SZÖVEG:
+# Demográfiai fenntarthatóság, zöld átállás, digitalizáció, EU-jövőkép
+Az Európai Unió jövőjét négy nagy kérdés határozza meg: a népesség elöregedése és a munkaerő csökkenése, a klímasemlegesség elérése, a digitális átállás, valamint az, hogy az Unió milyen formában működik tovább. Romániában ezek a kérdések különösen erősen jelentkeznek, mert az ország népessége évtizedek óta csökken.
+
+## Demográfiai fenntarthatóság
+- Az Európai Unió népessége kb. 450 millió fő. A népesség elöregedik: a 65 év feletti lakosok aránya évről évre nő.
+- A teljes termékenységi arány az EU-ban 1,5 körül van, ami jóval elmarad a népesség-helyettesítési szinttől (2,1). Ezért a népesség csak bevándorlással tartható fenn.
+- Az elöregedés hatással van a nyugdíjrendszerekre és az egészségügyre. A politikai válaszok közé tartozik a családtámogatás, a munkaerőpiaci részvétel növelése és a nyugdíjrendszer reformja.
+- Romániában a lakosság száma 1990 óta csökken, a fő ok az elvándorlás és az alacsony születésszám.
+
+## Munka és nyugdíj
+- A felosztó-kirovó nyugdíjrendszerben a dolgozók befizetései fedezik a nyugdíjasok ellátását. Ez a rendszer érzékeny a demográfiai változásokra.
+- A tőkefedezeti nyugdíjrendszerben a befizetések befektetésekből gyarapodnak. Ez kevésbé függ a népesség arányától, de a befektetési piacok ingadozásától igen.
+- Az **Európai Szociális Alap (ESZA)** a foglalkoztatást, a képzést és a munkaerő készségfejlesztését támogatja, így a munkaerőhiány csökkentésére is szolgál.
+
+## Zöld átállás
+- Az **Európai Zöld Megállapodás** (2019) célja, hogy az EU 2050-re klímasemleges legyen.
+- A **kibocsátáskereskedelmi rendszer (ETS)** 2005 óta működik. Piaci eszközökkel ösztönzi a kibocsátások csökkentését, a vállalatok kvótákat vásárolnak.
+- A **határkiigazító karbonadó (CBAM)** a más országokból érkező, magas szén-dioxid-kibocsátású termékekre vonatkozik, hogy az uniós vállalatok ne kerüljenek hátrányba.
+- Az **Igazságos Átmeneti Alap** a fosszilis iparágak leépülésével érintett térségeket támogatja. Romániában a Zsil-völgy szénbányászati térsége is ilyen támogatást kap.
+
+## Digitalizáció
+- A **Digitális évtized** (2021) 2030-ig szóló célkitűzései a digitális készségekre, a digitális infrastruktúrára és az állami szolgáltatások digitalizálására vonatkoznak.
+- Az **általános adatvédelmi rendelet (GDPR)** 2018-tól alkalmazandó, a személyes adatok védelmét szabályozza.
+- A **Digitális Piacokról szóló rendelet (DMA)** a nagy online platformok piaci magatartását szabályozza, az **AI-rendelet (AI Act)** pedig a mesterséges intelligencia használatát rendezi kockázati szintek szerint.
+- A digitális átállás a vidéki térségekben is munkalehetőségeket teremthet, ha az infrastruktúra és a készségek fejlődnek.
+
+## EU-jövőkép
+- Az EU jövőjéről 2021–2022-ben Európa-konferencia zajlott, amely a polgárok véleményét gyűjtötte össze az intézményi reformokról.
+- A **Stratégiai Iránytű** (2022) az EU biztonság- és védelempolitikájának irányvonalát határozza meg. A **PESCO** (2017) a tagállami védelmi együttműködés kerete.
+- Az EU bővítésének kérdése napirenden van: Ukrajna és Moldova, valamint több nyugat-balkáni ország tagjelölt.
+- Az EU-ban vita folyik arról, hogy az integráció egységes mélységben vagy többsebességes formában működjön tovább, mert a tagállamok érdekei és teljesítőképessége eltérő.
+
+## Románia a jövőben
+- Romániának a demográfiai kihívások, a zöld és digitális átállás és a Helyreállítási Terv (PNRR) forrásai egyszerre fontosak.
+- A helyreállítási terv a zöld és digitális átállásra meghatározott arányban fordít forrást, így az ország jövőjét ezek a beruházások is alakítják.

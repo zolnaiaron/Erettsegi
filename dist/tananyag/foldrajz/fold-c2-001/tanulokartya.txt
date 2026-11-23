@@ -1,0 +1,179 @@
+ID: fold-c2-kartya-001
+LECKE_ID: fold-c2-001
+ELŐLAP: Bolognai egyetem alapítási éve
+HÁTLAP: 1088.
+---
+ID: fold-c2-kartya-002
+LECKE_ID: fold-c2-001
+ELŐLAP: A reneszánsz kezdete
+HÁTLAP: Itália, a 14. század.
+---
+ID: fold-c2-kartya-003
+LECKE_ID: fold-c2-001
+ELŐLAP: A 95 tétel szerzője (1517)
+HÁTLAP: Luther Márton.
+---
+ID: fold-c2-kartya-004
+LECKE_ID: fold-c2-001
+ELŐLAP: A felvilágosodás fő eszméje
+HÁTLAP: Az értelem és a tudomány alkalmazása a társadalom javítására.
+---
+ID: fold-c2-kartya-005
+LECKE_ID: fold-c2-001
+ELŐLAP: 1789-es forradalom
+HÁTLAP: Francia forradalom (Párizs).
+---
+ID: fold-c2-kartya-006
+LECKE_ID: fold-c2-001
+ELŐLAP: Az ókori görög demokrácia központja
+HÁTLAP: Athén.
+---
+ID: fold-c2-kartya-007
+LECKE_ID: fold-c2-001
+ELŐLAP: Heliocentrikus világkép szerzője
+HÁTLAP: Kopernikusz.
+---
+ID: fold-c2-kartya-008
+LECKE_ID: fold-c2-001
+ELŐLAP: A Principia (1687) szerzője
+HÁTLAP: Newton.
+---
+ID: fold-c2-kartya-009
+LECKE_ID: fold-c2-001
+ELŐLAP: Periódusos rendszer (1869) megalkotója
+HÁTLAP: Mengyelejev.
+---
+ID: fold-c2-kartya-010
+LECKE_ID: fold-c2-001
+ELŐLAP: Fajok eredete (1859) szerzője
+HÁTLAP: Darwin.
+---
+ID: fold-c2-kartya-011
+LECKE_ID: fold-c2-001
+ELŐLAP: Relativitáselmélet kidolgozója
+HÁTLAP: Einstein.
+---
+ID: fold-c2-kartya-012
+LECKE_ID: fold-c2-001
+ELŐLAP: Kétszeres Nobel-díjas tudós a radioaktivitás kutatásáért
+HÁTLAP: Marie Curie.
+---
+ID: fold-c2-kartya-013
+LECKE_ID: fold-c2-001
+ELŐLAP: Könyvnyomtatás fejlesztője (15. század)
+HÁTLAP: Gutenberg.
+---
+ID: fold-c2-kartya-014
+LECKE_ID: fold-c2-001
+ELŐLAP: Az ipari forradalom gőzgépének továbbfejlesztője
+HÁTLAP: James Watt.
+---
+ID: fold-c2-kartya-015
+LECKE_ID: fold-c2-001
+ELŐLAP: Hol fejlesztették ki a világhálót (1989)?
+HÁTLAP: CERN (Tim Berners-Lee).
+---
+ID: fold-c2-kartya-016
+LECKE_ID: fold-c2-001
+ELŐLAP: A CERN székhelye
+HÁTLAP: Genf.
+---
+ID: fold-c2-kartya-017
+LECKE_ID: fold-c2-001
+ELŐLAP: Az Európai Űrügynökség (ESA) alapítási éve
+HÁTLAP: 1975.
+---
+ID: fold-c2-kartya-018
+LECKE_ID: fold-c2-001
+ELŐLAP: A CERN részecskegyorsítója
+HÁTLAP: Nagy Hadronütköztető (LHC).
+---
+ID: fold-c2-kartya-019
+LECKE_ID: fold-c2-001
+ELŐLAP: A Hamlet szerzője
+HÁTLAP: Shakespeare.
+---
+ID: fold-c2-kartya-020
+LECKE_ID: fold-c2-001
+ELŐLAP: Hol látható a Mona Lisa?
+HÁTLAP: A Louvre (Párizs).
+---
+ID: fold-c2-kartya-021
+LECKE_ID: fold-c2-001
+ELŐLAP: Beethoven születési városa
+HÁTLAP: Bonn.
+---
+ID: fold-c2-kartya-022
+LECKE_ID: fold-c2-001
+ELŐLAP: Az első olimpiai játékok helyszíne
+HÁTLAP: Olympia (Görögország).
+---
+ID: fold-c2-kartya-023
+LECKE_ID: fold-c2-001
+ELŐLAP: A Római Birodalom hivatalos nyelve
+HÁTLAP: Latin.
+---
+ID: fold-c2-kartya-024
+LECKE_ID: fold-c2-001
+ELŐLAP: Mozart szülővárosa
+HÁTLAP: Salzburg.
+---
+ID: fold-c2-kartya-025
+LECKE_ID: fold-c2-001
+ELŐLAP: Az ókori Athén politikai rendszere
+HÁTLAP: Demokrácia (a polgárok részvételével).
+---
+ID: fold-c2-kartya-026
+LECKE_ID: fold-c2-001
+ELŐLAP: Arisztotelész mestere
+HÁTLAP: Platón.
+---
+ID: fold-c2-kartya-027
+LECKE_ID: fold-c2-001
+ELŐLAP: A római jog hatása
+HÁTLAP: A modern európai jogrendszerek alapja.
+---
+ID: fold-c2-kartya-028
+LECKE_ID: fold-c2-001
+ELŐLAP: A Magna Carta éve
+HÁTLAP: 1215.
+---
+ID: fold-c2-kartya-029
+LECKE_ID: fold-c2-001
+ELŐLAP: A hatalmi ágak elválasztásának elméletét kifejtő gondolkodó
+HÁTLAP: Montesquieu.
+---
+ID: fold-c2-kartya-030
+LECKE_ID: fold-c2-001
+ELŐLAP: A társadalmi szerződés elméletének szerzője
+HÁTLAP: Rousseau.
+---
+ID: fold-c2-kartya-031
+LECKE_ID: fold-c2-001
+ELŐLAP: Erasmus-program indulási éve
+HÁTLAP: 1987.
+---
+ID: fold-c2-kartya-032
+LECKE_ID: fold-c2-001
+ELŐLAP: Ki vezeti a világörökségi listát?
+HÁTLAP: UNESCO.
+---
+ID: fold-c2-kartya-033
+LECKE_ID: fold-c2-001
+ELŐLAP: Európai műholdas navigációs rendszer
+HÁTLAP: Galileo (EU és ESA).
+---
+ID: fold-c2-kartya-034
+LECKE_ID: fold-c2-001
+ELŐLAP: A modern olimpiai játékok első helyszíne
+HÁTLAP: Athén (1896).
+---
+ID: fold-c2-kartya-035
+LECKE_ID: fold-c2-001
+ELŐLAP: Bologna-folyamat indulási éve
+HÁTLAP: 1999 (egységes felsőoktatási keretrendszer).
+---
+ID: fold-c2-kartya-036
+LECKE_ID: fold-c2-001
+ELŐLAP: Angol nyelvterület legrégebbi egyetemi városa
+HÁTLAP: Oxford.

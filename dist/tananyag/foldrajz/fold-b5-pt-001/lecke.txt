@@ -1,0 +1,33 @@
+ID: fold-b5-pt-001
+CÍM: Portugália
+SZÖVEG:
+# Portugália
+Portugália az Ibériai-félsziget nyugati szélén fekszik, az Atlanti-óceán partján. Területéhez tartoznak az Azori- és a Madeira-szigetek. Fővárosa Lisszabon. Az alábbi hat szempont mentén érdemes áttekinteni.
+
+## 1. Fekvés és határok
+- **Tengerparti állam**: nyugaton és délen az Atlanti-óceán határolja, az ország szárazföldi része Európa legnyugatibb pontjával, a Cabo da Roca-val zárul.
+- **Szárazföldi szomszédja**: egyetlen, Spanyolország. A határ az ország északi és keleti részén húzódik, délen a Guadiana folyó alkotja.
+- **Szigetei**: az Azori-szigetek és Madeira az Atlanti-óceánon fekszenek, politikailag Portugáliához tartoznak.
+
+## 2. Domborzat
+- **Fő domborzati egységek**: a **Serra da Estrela** hegység a központi részen, a **Serra do Gerês** az északi hegyvidéken, az **Alentejo** nagy kiterjedésű síkság és fennsík délen, az **Algarve** sziklás partvidék a legdélebben.
+- **Domborzattípusok**: a Serra da Estrela-ban jégkorszaki eredetű formák (völgyek, cirkuszok), az Algarve-ban mészkőből álló karsztos képződmények és sziklás partok, az Azori-szigeteken vulkáni kúpok és krátertavak.
+- **Legmagasabb csúcs**: a szárazföldön a **Torre** (1993 m) a Serra da Estrela-ban. Az ország legmagasabb pontja a **Pico** (2351 m) az Azori-szigeteken, vulkáni eredetű.
+
+## 3. Éghajlat
+- **Éghajlati övezet és típus**: az ország déli részén, az Algarve-ban és az Alentejo-ban mediterrán, forró és száraz nyárral. Az északi részen óceáni, csapadékosabb és enyhébb éghajlat van. A Serra da Estrela magasabb részein hegyvidéki.
+- **Jellemző szelek**: a **Nortada** nyáron az észak felől fújó, a partvidéket hűsítő szél. A **Leste** forró keleti szél, amely az Alentejo felől érkezik és magas hőmérsékletet hoz.
+
+## 4. Vízrajz
+- **Főbb folyók és torkolatuk**: a **Tejo** (Tajo) Lisszabonon át az Atlanti-óceánba ömlik, a **Douro** Portónál torkollik az Atlanti-óceánba, a **Mondego** Coimbra mellett folyik, a **Guadiana** pedig a déli spanyol–portugál határt alkotja.
+- **Fontosabb tavak**: az **Alqueva-víztározó** a Guadiana-folyón Nyugat-Európa egyik legnagyobb mesterséges tava. Az Azori-szigeteken a **Lagoa das Sete Cidades** krátertó São Miguel szigetén.
+
+## 5. Népesség és városok
+- **Főváros**: **Lisszabon**, a Tejo torkolatánál, az ország nyugati partján. Az ország lakossága kb. 10,5 millió fő.
+- **Fontos városok és kikötők**: **Porto** (a Douro partján, az ország második legnagyobb városa, portói borászattal), **Coimbra** (a Mondego partján, régi egyetemi város), **Braga** (az északi részen), **Faro** (az Algarve fővárosa), valamint a szigeteken **Funchal** (Madeira fővárosa).
+
+## 6. Gazdaság és erőforrások
+- **Energiahordozók**: Portugáliában nincs atomerőmű. A villamosenergia nagy részét megújuló forrásokból, főként szélenergiából és vízenergiából termelik, a napenergia gyorsan nő.
+- **Vezető iparágak**: a parafaipar, az autóipar (az Autoeuropa gyár Palmelában, a Volkswagen üzeme), a textil- és lábbeliipar, valamint az élelmiszeripar.
+- **Mezőgazdaság és halászat**: a parafatölgy és az olívaolaj az Alentejo-ban, a bortermelés a Douro-völgyben (portói bor) és a Minho-vidéken (Vinho Verde). A halászat, különösen a szardínia fogása fontos.
+- **Turizmus**: az Algarve tengerpartjai, Lisszabon és Porto történelmi központja, valamint a szigetek vonzzák a turistákat.

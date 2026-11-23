@@ -1,0 +1,179 @@
+ID: fold-c3-kartya-001
+LECKE_ID: fold-c3-001
+ELŐLAP: Ki a kereskedelempolitika hatásköre az EU-ban?
+HÁTLAP: Kizárólag az EU (kizárólagos hatáskör).
+---
+ID: fold-c3-kartya-002
+LECKE_ID: fold-c3-001
+ELŐLAP: Ki tárgyal a nemzetközi kereskedelmi megállapodásokról az EU nevében?
+HÁTLAP: Az Európai Bizottság.
+---
+ID: fold-c3-kartya-003
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU kereskedelmi vitáinak fóruma
+HÁTLAP: A Kereskedelmi Világszervezet (WTO).
+---
+ID: fold-c3-kartya-004
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU Kína-politikájának háromszintű megjelölése
+HÁTLAP: Partner, gazdasági verseny és rendszerszintű rivális.
+---
+ID: fold-c3-kartya-005
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU és az USA közös katonai szervezete
+HÁTLAP: A NATO.
+---
+ID: fold-c3-kartya-006
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU–USA kereskedelmi és technológiai fóruma (2021)
+HÁTLAP: Transzatlanti Kereskedelmi és Technológiai Tanács (TTC).
+---
+ID: fold-c3-kartya-007
+LECKE_ID: fold-c3-001
+ELŐLAP: Hosszú éveken át húzódó EU–USA vita a WTO előtt
+HÁTLAP: Az Airbus–Boeing vita.
+---
+ID: fold-c3-kartya-008
+LECKE_ID: fold-c3-001
+ELŐLAP: Adatvédelmi rendelet az EU-ban (2018-tól)
+HÁTLAP: GDPR.
+---
+ID: fold-c3-kartya-009
+LECKE_ID: fold-c3-001
+ELŐLAP: Az USA helye az EU befektetéseiben
+HÁTLAP: Az EU egyik legnagyobb befektetési partnere.
+---
+ID: fold-c3-kartya-010
+LECKE_ID: fold-c3-001
+ELŐLAP: Kína helye az EU áruforgalmában
+HÁTLAP: Az EU egyik legnagyobb kereskedelmi partnere.
+---
+ID: fold-c3-kartya-011
+LECKE_ID: fold-c3-001
+ELŐLAP: Kína infrastrukturális kezdeményezése Európában
+HÁTLAP: Egy övezet, egy út (Selyemút).
+---
+ID: fold-c3-kartya-012
+LECKE_ID: fold-c3-001
+ELŐLAP: 2024-ben vámmal sújtott kínai termékcsoport
+HÁTLAP: Elektromos járművek.
+---
+ID: fold-c3-kartya-013
+LECKE_ID: fold-c3-001
+ELŐLAP: Politikai vitatéma Kína és Európa között
+HÁTLAP: Tajvan státusza.
+---
+ID: fold-c3-kartya-014
+LECKE_ID: fold-c3-001
+ELŐLAP: Mire szolgálnak a kiegyenlítő vámok?
+HÁTLAP: Az állami támogatások előnyének ellensúlyozására.
+---
+ID: fold-c3-kartya-015
+LECKE_ID: fold-c3-001
+ELŐLAP: Mikor lépett hatályba az EU–Japán gazdasági partnerségi megállapodás?
+HÁTLAP: 2019 (február 1.).
+---
+ID: fold-c3-kartya-016
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU és Japán politikai együttműködésének alapja
+HÁTLAP: Stratégiai partnerségi megállapodás (2018).
+---
+ID: fold-c3-kartya-017
+LECKE_ID: fold-c3-001
+ELŐLAP: Japán tagsága nemzetközi csoportokban
+HÁTLAP: G7 és G20 (nem BRICS).
+---
+ID: fold-c3-kartya-018
+LECKE_ID: fold-c3-001
+ELŐLAP: Japán fontos exportcikke az EU-ba
+HÁTLAP: Autók.
+---
+ID: fold-c3-kartya-019
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU és Japán közös értékei (példa)
+HÁTLAP: Demokrácia és emberi jogok.
+---
+ID: fold-c3-kartya-020
+LECKE_ID: fold-c3-001
+ELŐLAP: Az eredeti BRICS tagországai
+HÁTLAP: Brazília, Oroszország, India, Kína, Dél-Afrika.
+---
+ID: fold-c3-kartya-021
+LECKE_ID: fold-c3-001
+ELŐLAP: Mikor bővült a BRICS új tagokkal?
+HÁTLAP: 2024 (később Indonézia is).
+---
+ID: fold-c3-kartya-022
+LECKE_ID: fold-c3-001
+ELŐLAP: BRICS-tagország, amely a Mercosur tagja
+HÁTLAP: Brazília.
+---
+ID: fold-c3-kartya-023
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU tárgyal szabadkereskedelmi megállapodásról ezzel a BRICS-országgal
+HÁTLAP: India.
+---
+ID: fold-c3-kartya-024
+LECKE_ID: fold-c3-001
+ELŐLAP: Mely BRICS-ország kereskedelmét korlátozták jelentősen az EU szankciói?
+HÁTLAP: Oroszország.
+---
+ID: fold-c3-kartya-025
+LECKE_ID: fold-c3-001
+ELŐLAP: Mercosur tagjai (példa)
+HÁTLAP: Brazília, Argentína, Paraguay, Uruguay.
+---
+ID: fold-c3-kartya-026
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU–Mercosur tárgyalások jellemzője
+HÁTLAP: Évtizedek óta húzódnak, nehéz egyeztetés.
+---
+ID: fold-c3-kartya-027
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU szerepe a WTO-ban
+HÁTLAP: Önálló tag a tagállamok mellett.
+---
+ID: fold-c3-kartya-028
+LECKE_ID: fold-c3-001
+ELŐLAP: Mi védi a piacot a tisztességtelen dömpingárakkal szemben?
+HÁTLAP: Antidömping vám.
+---
+ID: fold-c3-kartya-029
+LECKE_ID: fold-c3-001
+ELŐLAP: Melyik nemzetközi csoport tagja az EU, Japán és az USA is?
+HÁTLAP: G7.
+---
+ID: fold-c3-kartya-030
+LECKE_ID: fold-c3-001
+ELŐLAP: Román részvétel a közös kereskedelempolitikában
+HÁTLAP: A tagállamként részt vesz benne.
+---
+ID: fold-c3-kartya-031
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU–Kína viszony egyik vitás pontja
+HÁTLAP: Állami támogatások és piacra jutás.
+---
+ID: fold-c3-kartya-032
+LECKE_ID: fold-c3-001
+ELŐLAP: A transzatlanti kapcsolatok közös intézménye (katonai)
+HÁTLAP: NATO.
+---
+ID: fold-c3-kartya-033
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU külső kapcsolataiban a kereskedelmi eszközök egyike
+HÁTLAP: Szabadkereskedelmi megállapodás.
+---
+ID: fold-c3-kartya-034
+LECKE_ID: fold-c3-001
+ELŐLAP: Oroszország elleni uniós intézkedés 2022 után
+HÁTLAP: Szankciók.
+---
+ID: fold-c3-kartya-035
+LECKE_ID: fold-c3-001
+ELŐLAP: Az EU kereskedelmi partnerségének célja Japánnal
+HÁTLAP: Gazdasági és politikai együttműködés erősítése.
+---
+ID: fold-c3-kartya-036
+LECKE_ID: fold-c3-001
+ELŐLAP: Mi a különbség az antidömping és a kiegyenlítő vám között?
+HÁTLAP: Az antidömping az alacsony áron, a kiegyenlítő az állami támogatáson alapuló előnyt ellensúlyozza.

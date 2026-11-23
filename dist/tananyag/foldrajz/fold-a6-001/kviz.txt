@@ -1,0 +1,254 @@
+ID: fold-a6-kviz-001
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Melyik ország fővárosa Chișinău?
+HELYES: Moldova
+ROSSZ1: Ukrajna
+ROSSZ2: Szerbia
+ROSSZ3: Bulgária
+MAGYARÁZAT: Chișinău (Kisinyov) Moldova fővárosa.
+---
+ID: fold-a6-kviz-002
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Moldova Románia keleti szomszédja.
+HELYES: Igaz
+MAGYARÁZAT: Moldova és Románia közös határa Románia keleti részén húzódik.
+---
+ID: fold-a6-kviz-003
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szakadár terület található a Dnyeszter bal partján, Moldovában?
+HELYES: Transznisztria
+ROSSZ1: Krím
+ROSSZ2: Donyec-medence
+ROSSZ3: Abházia
+MAGYARÁZAT: Transznisztria szakadár terület Moldovában, amelyet nemzetközileg nem ismernek el.
+---
+ID: fold-a6-kviz-004
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Moldova uniós tagjelölt ország.
+HELYES: Igaz
+MAGYARÁZAT: Moldova 2022 júniusában kapta meg a tagjelölt státuszt.
+---
+ID: fold-a6-kviz-005
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Moldova hivatalos nyelve a magyar.
+HELYES: Hamis
+MAGYARÁZAT: Moldova hivatalos nyelve a román, amelyet alkotmányosan moldovai néven is említenek.
+---
+ID: fold-a6-kviz-006
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Melyik romániai nagyváros fekszik a magyar határ közelében?
+HELYES: Nagyvárad (Oradea)
+ROSSZ1: Konstanca
+ROSSZ2: Galați
+ROSSZ3: Brassó
+MAGYARÁZAT: Nagyvárad a magyar határhoz közel fekvő romániai nagyváros.
+---
+ID: fold-a6-kviz-007
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A magyar–román határ jogi rendezését az 1996-os alapszerződés szabályozza.
+HELYES: Igaz
+MAGYARÁZAT: A két ország 1996-ban írta alá az alapszerződést, amely rendezte a kétoldalú kapcsolatokat.
+---
+ID: fold-a6-kviz-008
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szerződés után került Erdély Romániához?
+HELYES: trianoni békeszerződés (1920)
+ROSSZ1: bécsi döntés (1940)
+ROSSZ2: párizsi békeszerződés (1947)
+ROSSZ3: lausanne-i békeszerződés (1923)
+MAGYARÁZAT: A trianoni békeszerződés 1920-ban Erdélyt Romániának ítélte.
+---
+ID: fold-a6-kviz-009
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A magyar a legnagyobb nemzeti kisebbség Romániában.
+HELYES: Igaz
+MAGYARÁZAT: A magyarok főként Erdélyben, a Partiumban és a Székelyföldön élnek.
+---
+ID: fold-a6-kviz-010
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Melyik határátkelő köti össze Magyarországot és Romániát Arad közelében?
+HELYES: Nagylak–Nădlac
+ROSSZ1: Letenye
+ROSSZ2: Hegyeshalom
+ROSSZ3: Rév-Komárom
+MAGYARÁZAT: A Nagylak–Nădlac határátkelő a magyar–román határ egyik fontos pontja Arad közelében.
+---
+ID: fold-a6-kviz-011
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A román–szerb határ egy szakasza a Duna mentén húzódik, a Vaskapu-szorosnál.
+HELYES: Igaz
+MAGYARÁZAT: A Vaskapu-szorosnál a Duna alkotja a határt Románia és Szerbia között.
+---
+ID: fold-a6-kviz-012
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Szerbia fővárosa?
+HELYES: Belgrád
+ROSSZ1: Szkopje
+ROSSZ2: Zágráb
+ROSSZ3: Podgorica
+MAGYARÁZAT: Belgrád Szerbia fővárosa, Szkopje Észak-Macedónia, Zágráb Horvátország, Podgorica Montenegró fővárosa.
+---
+ID: fold-a6-kviz-013
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Szerbia az Európai Unió tagja.
+HELYES: Hamis
+MAGYARÁZAT: Szerbia uniós tagjelölt, de még nem tagja az Európai Uniónak.
+---
+ID: fold-a6-kviz-014
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szerbiai tartomány északi részén fekszik a Bánság folytatása?
+HELYES: Vajdaság
+ROSSZ1: Koszovó
+ROSSZ2: Szandzsák
+ROSSZ3: Šumadija
+MAGYARÁZAT: A Bánság északi része Szerbia Vajdaság tartományában folytatódik.
+---
+ID: fold-a6-kviz-015
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A szerbiai Timok-völgyben román kisebbség él.
+HELYES: Igaz
+MAGYARÁZAT: A Timok-völgy Szerbia keleti részén, Románia határ menti térségében található.
+---
+ID: fold-a6-kviz-016
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó alkotja a bolgár–román határ Vidin és Silistra közötti szakaszát?
+HELYES: Duna
+ROSSZ1: Olt
+ROSSZ2: Iskar
+ROSSZ3: Maros
+MAGYARÁZAT: A Duna a Vidin és Silistra közötti szakaszon határolja Romániát és Bulgáriát.
+---
+ID: fold-a6-kviz-017
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Dél-Dobrudzsa 1940-ben Bulgáriához került.
+HELYES: Igaz
+MAGYARÁZAT: 1913-ban Romániához került, 1940-ben a craiovai szerződés alapján Bulgáriához csatolták.
+---
+ID: fold-a6-kviz-018
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Melyik bolgár város fekszik a Duna túloldalán, a giurgiu-i romániai kikötővel szemben?
+HELYES: Ruse
+ROSSZ1: Szófia
+ROSSZ2: Plovdiv
+ROSSZ3: Varna
+MAGYARÁZAT: A Ruse és Giurgiu közötti Duna-híd köti össze Bulgáriát és Romániát.
+---
+ID: fold-a6-kviz-019
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Bulgária fővárosa Szófia.
+HELYES: Igaz
+MAGYARÁZAT: Szófia Bulgária fővárosa és legnagyobb városa.
+---
+ID: fold-a6-kviz-020
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Mi Bulgária legmagasabb csúcsa?
+HELYES: Musala
+ROSSZ1: Moldoveanu
+ROSSZ2: Triglav
+ROSSZ3: Hoverla
+MAGYARÁZAT: A Musala (2925 m) a Rila-hegységben található, Bulgária legmagasabb csúcsa.
+---
+ID: fold-a6-kviz-021
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Bulgária Románia északi szomszédja.
+HELYES: Hamis
+MAGYARÁZAT: Bulgária Románia déli szomszédja, a Duna és a Dobrudzsa határolja.
+---
+ID: fold-a6-kviz-022
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szomszédos ország fekszik Románia északi határán?
+HELYES: Ukrajna
+ROSSZ1: Magyarország
+ROSSZ2: Szerbia
+ROSSZ3: Bulgária
+MAGYARÁZAT: Románia északi és északkeleti határa Ukrajnával közös.
+---
+ID: fold-a6-kviz-023
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az ukrán–román határ egy szakasza a Duna-delta közelében, a Chilia-ágnál húzódik.
+HELYES: Igaz
+MAGYARÁZAT: A Chilia-ág a Duna deltájának ukrán–román határszakasza.
+---
+ID: fold-a6-kviz-024
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Ukrajna az Európai Unió tagja.
+HELYES: Hamis
+MAGYARÁZAT: Ukrajna uniós tagjelölt, de még nem tagja az Európai Uniónak.
+---
+ID: fold-a6-kviz-025
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Melyik ukrajnai város fekszik a történelmi Bukovina területén?
+HELYES: Csernyivci
+ROSSZ1: Kijev
+ROSSZ2: Lemberg
+ROSSZ3: Odessza
+MAGYARÁZAT: Csernyivci a történelmi Bukovina egyik fő városa, Ukrajnában.
+---
+ID: fold-a6-kviz-026
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Mi Ukrajna pénzneme?
+HELYES: hrivnya
+ROSSZ1: rubel
+ROSSZ2: euró
+ROSSZ3: forint
+MAGYARÁZAT: Ukrajna pénzneme a hrivnya.
+---
+ID: fold-a6-kviz-027
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Ukrajna nyugati részén, Kárpátalján magyar kisebbség él.
+HELYES: Igaz
+MAGYARÁZAT: Kárpátalja magyar lakossága Ukrajna nyugati határvidékén él.
+---
+ID: fold-a6-kviz-028
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Mi Moldova pénzneme?
+HELYES: moldovai lej
+ROSSZ1: hrivnya
+ROSSZ2: forint
+ROSSZ3: lev
+MAGYARÁZAT: Moldova pénzneme a moldovai lej.
+---
+ID: fold-a6-kviz-029
+LECKE_ID: fold-a6-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Magyarország pénzneme a forint.
+HELYES: Igaz
+MAGYARÁZAT: A forint Magyarország hivatalos pénzneme.
+---
+ID: fold-a6-kviz-030
+LECKE_ID: fold-a6-001
+TÍPUS: választásos
+KÉRDÉS: Mi Bulgária pénzneme?
+HELYES: lev
+ROSSZ1: hrivnya
+ROSSZ2: lej
+ROSSZ3: forint
+MAGYARÁZAT: Bulgária pénzneme a lev.

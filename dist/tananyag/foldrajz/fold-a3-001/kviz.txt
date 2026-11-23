@@ -1,0 +1,260 @@
+ID: fold-a3-kviz-001
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Hány fejlesztési régióra osztják Romániát statisztikai és uniós célból?
+HELYES: 8
+ROSSZ1: 6
+ROSSZ2: 12
+ROSSZ3: 41
+MAGYARÁZAT: Romániában 8 fejlesztési régió van, ezek nem közigazgatási egységek, hanem statisztikai és támogatási területek.
+---
+ID: fold-a3-kviz-002
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Bukarest municipiuma nem tartozik egyetlen megyéhez sem.
+HELYES: Igaz
+MAGYARÁZAT: Bukarest külön közigazgatási egység, a környező Ilfov megyétől független.
+---
+ID: fold-a3-kviz-003
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik város Hargita megye székhelye?
+HELYES: Csíkszereda
+ROSSZ1: Sepsiszentgyörgy
+ROSSZ2: Marosvásárhely
+ROSSZ3: Kolozsvár
+MAGYARÁZAT: Hargita megye székhelye Csíkszereda, a megye lakosságának többsége magyar.
+---
+ID: fold-a3-kviz-004
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Bukovina teljes egészében Romániában fekszik.
+HELYES: Hamis
+MAGYARÁZAT: Bukovina egy része Romániához, észak-bukovinai része Ukrajnához tartozik.
+---
+ID: fold-a3-kviz-005
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Mekkora Románia lakossága a 2021-es népszámlálás szerint?
+HELYES: kb. 19 millió fő
+ROSSZ1: kb. 12 millió fő
+ROSSZ2: kb. 25 millió fő
+ROSSZ3: kb. 30 millió fő
+MAGYARÁZAT: A 2021-es népszámlálás szerint Románia lakossága kb. 19 millió volt, 1989 óta csökken.
+---
+ID: fold-a3-kviz-006
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia lakossága 1989 óta csökken.
+HELYES: Igaz
+MAGYARÁZAT: A csökkenés fő okai az elvándorlás és az alacsony születésszám.
+---
+ID: fold-a3-kviz-007
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik a legnagyobb nemzeti kisebbség Romániában?
+HELYES: magyar
+ROSSZ1: német
+ROSSZ2: orosz
+ROSSZ3: bolgár
+MAGYARÁZAT: A magyar a legnagyobb kisebbség, főként Erdélyben és a Partiumban él.
+---
+ID: fold-a3-kviz-008
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Hargita és Kovászna megyében a magyarok alkotják a többséget.
+HELYES: Igaz
+MAGYARÁZAT: Hargita és Kovászna a székelyföldi megyék, ahol a magyar lakosság többségben van.
+---
+ID: fold-a3-kviz-009
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Románia lakosságának hozzávetőleg mekkora része él városban?
+HELYES: több mint fele (kb. 54%)
+ROSSZ1: kb. 30%
+ROSSZ2: kb. 80%
+ROSSZ3: kb. 15%
+MAGYARÁZAT: A lakosság több mint fele városokban él, az urbanizáció a 2021-es népszámlálás szerint kb. 54% volt.
+---
+ID: fold-a3-kviz-010
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Románia legnagyobb városa?
+HELYES: Bukarest
+ROSSZ1: Kolozsvár
+ROSSZ2: Iași
+ROSSZ3: Temesvár
+MAGYARÁZAT: Bukarest kb. 1,9 millió lakosával az ország legnagyobb városa és központja.
+---
+ID: fold-a3-kviz-011
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Erdély legnagyobb városa?
+HELYES: Kolozsvár
+ROSSZ1: Brassó
+ROSSZ2: Nagyszeben
+ROSSZ3: Temesvár
+MAGYARÁZAT: Kolozsvár (Cluj-Napoca) Erdély legnagyobb városa, Temesvár a Bánságban fekszik.
+---
+ID: fold-a3-kviz-012
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Temesvár a Bánság legnagyobb városa.
+HELYES: Igaz
+MAGYARÁZAT: Temesvár a Bánság regionális központja és legnagyobb városa.
+---
+ID: fold-a3-kviz-013
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik a Duna legnagyobb romániai kikötővárosa?
+HELYES: Galați
+ROSSZ1: Brăila
+ROSSZ2: Giurgiu
+ROSSZ3: Tulcea
+MAGYARÁZAT: Galați a Duna egyik legfontosabb romániai kikötője, kohászati központ is.
+---
+ID: fold-a3-kviz-014
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik településen található a Dacia gyártóüzeme?
+HELYES: Mioveni
+ROSSZ1: Brassó
+ROSSZ2: Temesvár
+ROSSZ3: Iași
+MAGYARÁZAT: A Dacia gyára Mioveni településen, Argeș megyében működik.
+---
+ID: fold-a3-kviz-015
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az autóipar Románia egyik legfontosabb exportágazata.
+HELYES: Igaz
+MAGYARÁZAT: Az autógyártás a román export egyik legnagyobb tétele.
+---
+ID: fold-a3-kviz-016
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A textil- és lábbeliipar Romániában hagyományos ágazat.
+HELYES: Igaz
+MAGYARÁZAT: A textil- és lábbeliipar évtizedek óta fontos munkaadó az országban.
+---
+ID: fold-a3-kviz-017
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik erdélyi város az informatikai ágazat egyik legfontosabb központja?
+HELYES: Kolozsvár
+ROSSZ1: Nagyvárad
+ROSSZ2: Brassó
+ROSSZ3: Sepsiszentgyörgy
+MAGYARÁZAT: Kolozsvár Erdély egyik legfontosabb informatikai és egyetemi központja.
+---
+ID: fold-a3-kviz-018
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik növénnyel Románia az Európai Unió egyik legnagyobb termelője?
+HELYES: napraforgó
+ROSSZ1: gyapot
+ROSSZ2: cukornád
+ROSSZ3: kávé
+MAGYARÁZAT: Románia napraforgótermelése és napraforgóolaj-export tekintetében az EU élvonalába tartozik.
+---
+ID: fold-a3-kviz-019
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A csernozjom talajú síkságokon főként gabonát és kukoricát termesztenek.
+HELYES: Igaz
+MAGYARÁZAT: A termékeny csernozjom talaj kiváló a gabona- és kukoricatermesztéshez.
+---
+ID: fold-a3-kviz-020
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tájegységhez tartozik a Cotnari borvidék?
+HELYES: Moldva
+ROSSZ1: Havasalföld
+ROSSZ2: Bánság
+ROSSZ3: Dobrudzsa
+MAGYARÁZAT: A Cotnari borvidék Moldvában, Iași megyében található.
+---
+ID: fold-a3-kviz-021
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A romániai mezőgazdasági birtokok többsége kistermelő.
+HELYES: Igaz
+MAGYARÁZAT: A kis méretű családi gazdaságok nagy számban vannak jelen.
+---
+ID: fold-a3-kviz-022
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik ágazat adja a legnagyobb részt a román GDP-ből?
+HELYES: szolgáltatások
+ROSSZ1: mezőgazdaság
+ROSSZ2: bányászat
+ROSSZ3: halászat
+MAGYARÁZAT: A szolgáltatások, köztük a kereskedelem és az üzleti szolgáltatások adják a GDP legnagyobb részét.
+---
+ID: fold-a3-kviz-023
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A turizmus fontos bevételi forrás a Fekete-tengeri parton és a Kárpátokban.
+HELYES: Igaz
+MAGYARÁZAT: A tengerpart, a hegyvidék, a Duna-delta és az erdélyi várak is vonzzák a turistákat.
+---
+ID: fold-a3-kviz-024
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik város volt 2023-ban Európa kulturális fővárosa Romániából?
+HELYES: Temesvár
+ROSSZ1: Brassó
+ROSSZ2: Konstanca
+ROSSZ3: Iași
+MAGYARÁZAT: Temesvár 2023-ban Európa kulturális fővárosa volt.
+---
+ID: fold-a3-kviz-025
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Mi a bukaresti nemzetközi repülőtér neve?
+HELYES: Henri Coandă (Otopeni)
+ROSSZ1: Ferenc Liszt (Budapest)
+ROSSZ2: Václav Havel (Prága)
+ROSSZ3: Schiphol (Amszterdam)
+MAGYARÁZAT: A bukaresti nemzetközi repülőtér a Henri Coandă, Otopeni településen.
+---
+ID: fold-a3-kviz-026
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az A2-es autópálya Bukarestet és Konstancát köti össze.
+HELYES: Igaz
+MAGYARÁZAT: Az A2 Bukarest és a Fekete-tengeri Konstanca között fut.
+---
+ID: fold-a3-kviz-027
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó mentén fut Románia egyik fő vízi közlekedési útvonala?
+HELYES: Duna
+ROSSZ1: Tisza
+ROSSZ2: Prut
+ROSSZ3: Maros
+MAGYARÁZAT: A Duna a legfontosabb romániai vízi közlekedési útvonal, a Duna-kikötők a teherszállítást szolgálják.
+---
+ID: fold-a3-kviz-028
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Duna romániai szakasza lehetővé teszi a teherszállítást hajókkal.
+HELYES: Igaz
+MAGYARÁZAT: A Duna hajózható, és Galați, Brăila, Tulcea kikötői a teherforgalom fontos pontjai.
+---
+ID: fold-a3-kviz-029
+LECKE_ID: fold-a3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az országban élő magyarok többsége Erdélyben és a Partiumban él.
+HELYES: Igaz
+MAGYARÁZAT: A romániai magyarság zöme Erdélyben és a Partiumban, a székelyföldi megyékben él.
+---
+ID: fold-a3-kviz-030
+LECKE_ID: fold-a3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik erdélyi város magyar neve Nagyszeben?
+HELYES: Sibiu
+ROSSZ1: Oradea
+ROSSZ2: Târgu Mureș
+ROSSZ3: Timișoara
+MAGYARÁZAT: A Nagyszeben román neve Sibiu, Erdély egyik fontos kulturális központja.

@@ -1,0 +1,179 @@
+ID: fold-a3-kartya-001
+LECKE_ID: fold-a3-001
+ELŐLAP: Románia közigazgatási egységei
+HÁTLAP: 41 megye (județ) és Bukarest municipiuma.
+---
+ID: fold-a3-kartya-002
+LECKE_ID: fold-a3-001
+ELŐLAP: Fejlesztési régiók száma
+HÁTLAP: 8 (statisztikai és uniós célú egységek).
+---
+ID: fold-a3-kartya-003
+LECKE_ID: fold-a3-001
+ELŐLAP: Bukarest közigazgatási státusza
+HÁTLAP: Municipium, nem tartozik egyetlen megyéhez sem.
+---
+ID: fold-a3-kartya-004
+LECKE_ID: fold-a3-001
+ELŐLAP: Románia lakossága (2021)
+HÁTLAP: Kb. 19 millió fő.
+---
+ID: fold-a3-kartya-005
+LECKE_ID: fold-a3-001
+ELŐLAP: Mióta csökken Románia lakossága?
+HÁTLAP: 1989 óta, az elvándorlás és az alacsony születésszám miatt.
+---
+ID: fold-a3-kartya-006
+LECKE_ID: fold-a3-001
+ELŐLAP: Románia legnagyobb nemzeti kisebbsége
+HÁTLAP: A magyar, főként Erdélyben és a Partiumban.
+---
+ID: fold-a3-kartya-007
+LECKE_ID: fold-a3-001
+ELŐLAP: Melyik két megyében többségben a magyar lakosság?
+HÁTLAP: Hargita és Kovászna.
+---
+ID: fold-a3-kartya-008
+LECKE_ID: fold-a3-001
+ELŐLAP: Városi lakosság aránya Romániában
+HÁTLAP: Több mint fele (kb. 54%).
+---
+ID: fold-a3-kartya-009
+LECKE_ID: fold-a3-001
+ELŐLAP: Románia legnagyobb városa
+HÁTLAP: Bukarest, kb. 1,9 millió lakos.
+---
+ID: fold-a3-kartya-010
+LECKE_ID: fold-a3-001
+ELŐLAP: Erdély legnagyobb városa
+HÁTLAP: Kolozsvár (Cluj-Napoca).
+---
+ID: fold-a3-kartya-011
+LECKE_ID: fold-a3-001
+ELŐLAP: A Bánság legnagyobb városa
+HÁTLAP: Temesvár (Timișoara).
+---
+ID: fold-a3-kartya-012
+LECKE_ID: fold-a3-001
+ELŐLAP: Iași magyar neve
+HÁTLAP: Jászvásár.
+---
+ID: fold-a3-kartya-013
+LECKE_ID: fold-a3-001
+ELŐLAP: A Duna legnagyobb romániai kikötővárosa
+HÁTLAP: Galați.
+---
+ID: fold-a3-kartya-014
+LECKE_ID: fold-a3-001
+ELŐLAP: Dacia gyártóüzeme
+HÁTLAP: Mioveni (Argeș megye).
+---
+ID: fold-a3-kartya-015
+LECKE_ID: fold-a3-001
+ELŐLAP: Románia fő exportágazata
+HÁTLAP: Az autóipar.
+---
+ID: fold-a3-kartya-016
+LECKE_ID: fold-a3-001
+ELŐLAP: Erdélyi informatikai központ
+HÁTLAP: Kolozsvár (Temesvár mellett).
+---
+ID: fold-a3-kartya-017
+LECKE_ID: fold-a3-001
+ELŐLAP: Hagyományos könnyűipari ágazatok
+HÁTLAP: A textil- és lábbeliipar.
+---
+ID: fold-a3-kartya-018
+LECKE_ID: fold-a3-001
+ELŐLAP: Mely növénnyel Románia az EU egyik legnagyobb termelője?
+HÁTLAP: Napraforgó.
+---
+ID: fold-a3-kartya-019
+LECKE_ID: fold-a3-001
+ELŐLAP: A csernozjom síkságok fő növényei
+HÁTLAP: Gabona és kukorica.
+---
+ID: fold-a3-kartya-020
+LECKE_ID: fold-a3-001
+ELŐLAP: Cotnari borvidék
+HÁTLAP: Moldva (Iași megye).
+---
+ID: fold-a3-kartya-021
+LECKE_ID: fold-a3-001
+ELŐLAP: Dobrudzsa híres szőlőtermesztő vidéke
+HÁTLAP: Murfatlar.
+---
+ID: fold-a3-kartya-022
+LECKE_ID: fold-a3-001
+ELŐLAP: A romániai birtokok jellemzője
+HÁTLAP: A kistermelés dominál.
+---
+ID: fold-a3-kartya-023
+LECKE_ID: fold-a3-001
+ELŐLAP: A GDP legnagyobb ágazata
+HÁTLAP: A szolgáltatások.
+---
+ID: fold-a3-kartya-024
+LECKE_ID: fold-a3-001
+ELŐLAP: Fontos turisztikai területek
+HÁTLAP: A Fekete-tengeri part, a Kárpátok, a Duna-delta, az erdélyi várak.
+---
+ID: fold-a3-kartya-025
+LECKE_ID: fold-a3-001
+ELŐLAP: Bukarest nemzetközi repülőtere
+HÁTLAP: Henri Coandă (Otopeni).
+---
+ID: fold-a3-kartya-026
+LECKE_ID: fold-a3-001
+ELŐLAP: Az A2-es autópálya útvonala
+HÁTLAP: Bukarest–Konstanca.
+---
+ID: fold-a3-kartya-027
+LECKE_ID: fold-a3-001
+ELŐLAP: Az A1-es autópálya útvonala (kezdete)
+HÁTLAP: Bukarest–Pitești.
+---
+ID: fold-a3-kartya-028
+LECKE_ID: fold-a3-001
+ELŐLAP: Fő vízi közlekedési útvonal
+HÁTLAP: A Duna.
+---
+ID: fold-a3-kartya-029
+LECKE_ID: fold-a3-001
+ELŐLAP: Legfontosabb tengeri kikötő
+HÁTLAP: Konstanca, a tengeri teherforgalom központja.
+---
+ID: fold-a3-kartya-030
+LECKE_ID: fold-a3-001
+ELŐLAP: Hol él a legtöbb magyar Romániában?
+HÁTLAP: Erdélyben és a Partiumban.
+---
+ID: fold-a3-kartya-031
+LECKE_ID: fold-a3-001
+ELŐLAP: Temesvár 2023-ban
+HÁTLAP: Európa kulturális fővárosa.
+---
+ID: fold-a3-kartya-032
+LECKE_ID: fold-a3-001
+ELŐLAP: Nagyszeben román neve
+HÁTLAP: Sibiu.
+---
+ID: fold-a3-kartya-033
+LECKE_ID: fold-a3-001
+ELŐLAP: Marosvásárhely román neve
+HÁTLAP: Târgu Mureș.
+---
+ID: fold-a3-kartya-034
+LECKE_ID: fold-a3-001
+ELŐLAP: Brassó román neve
+HÁTLAP: Brașov.
+---
+ID: fold-a3-kartya-035
+LECKE_ID: fold-a3-001
+ELŐLAP: Kolozsvár román neve
+HÁTLAP: Cluj-Napoca.
+---
+ID: fold-a3-kartya-036
+LECKE_ID: fold-a3-001
+ELŐLAP: Milyen a román gazdaság szerkezete?
+HÁTLAP: A szolgáltatások dominálnak, az ipart az autóipar vezeti.

@@ -1,0 +1,254 @@
+ID: fold-b5-uk-kviz-001
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Egyesült Királyságnak egyetlen szárazföldi határa van, Írország felé.
+HELYES: Igaz
+MAGYARÁZAT: Észak-Írország és az Ír Köztársaság között húzódik az egyetlen szárazföldi határ.
+---
+ID: fold-b5-uk-kviz-002
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tenger választja el Nagy-Britanniát Franciaországtól?
+HELYES: La Manche (Csatorna)
+ROSSZ1: Ír-tenger
+ROSSZ2: Északi-tenger
+ROSSZ3: Balti-tenger
+MAGYARÁZAT: A La Manche tengerszoros választja el Nagy-Britanniát Franciaországtól. Az Ír-tenger Írország, az Északi-tenger a kontinens és Skócia között van.
+---
+ID: fold-b5-uk-kviz-003
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Ír-tenger Nagy-Britanniát és Írországot választja el egymástól.
+HELYES: Igaz
+MAGYARÁZAT: Az Ír-tenger a két nagy sziget között húzódik nyugaton.
+---
+ID: fold-b5-uk-kviz-004
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nem az Egyesült Királyság nemzete?
+HELYES: Írország
+ROSSZ1: Skócia
+ROSSZ2: Wales
+ROSSZ3: Anglia
+MAGYARÁZAT: Az Egyesült Királyság nemzetei Anglia, Skócia, Wales és Észak-Írország. Írország független köztársaság.
+---
+ID: fold-b5-uk-kviz-005
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Északi-tenger az Egyesült Királyság keleti partjait mossa.
+HELYES: Igaz
+MAGYARÁZAT: Az ország keleti partját az Északi-tenger határolja, Skóciától Angliáig.
+---
+ID: fold-b5-uk-kviz-006
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Mi Anglia legmagasabb csúcsa?
+HELYES: Scafell Pike
+ROSSZ1: Snowdon
+ROSSZ2: Ben Nevis
+ROSSZ3: Cheviot
+MAGYARÁZAT: A Scafell Pike 978 m magas, a Lake District-ben található. A Snowdon Walesben, a Ben Nevis Skóciában van.
+---
+ID: fold-b5-uk-kviz-007
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Lake District-ben jégkorszaki eredetű völgyek és tavak találhatók.
+HELYES: Igaz
+MAGYARÁZAT: A gleccserek U alakú völgyeket és tavakat hagytak a hegyvidéken.
+---
+ID: fold-b5-uk-kviz-008
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Melyik hegység húzódik Anglia gerinceként?
+HELYES: Pennini-hegység
+ROSSZ1: Cambriai-hegység
+ROSSZ2: Skót-felföld
+ROSSZ3: Mendip-hegység
+MAGYARÁZAT: A Pennini-hegység Anglia gerince. A Cambriai-hegység Walesben, a Skót-felföld Skóciában, a Mendip-hegység Somersetben van.
+---
+ID: fold-b5-uk-kviz-009
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Giant's Causeway Észak-Írországban vulkáni eredetű bazaltoszlopokból áll.
+HELYES: Igaz
+MAGYARÁZAT: A Giant's Causeway a vulkáni lávából kihűlt, szabályos bazaltoszlopok természeti csodája.
+---
+ID: fold-b5-uk-kviz-010
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Melyik karsztos képződmény található a Mendip-hegységben?
+HELYES: Cheddar-szurdok
+ROSSZ1: Loch Ness
+ROSSZ2: Ben Nevis
+ROSSZ3: Snowdon
+MAGYARÁZAT: A Cheddar-szurdok mészkőben kialakult karsztos szurdok a Mendip-hegységben.
+---
+ID: fold-b5-uk-kviz-011
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Milyen éghajlattípus jellemzi az Egyesült Királyságot?
+HELYES: mérsékelt óceáni
+ROSSZ1: sarkvidéki
+ROSSZ2: mediterrán
+ROSSZ3: száraz kontinentális
+MAGYARÁZAT: Az enyhe telek, a hűvös nyarak és a gyakori csapadék a mérsékelt óceáni éghajlat jellemzői.
+---
+ID: fold-b5-uk-kviz-012
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Golf-áramlat enyhíti az Egyesült Királyság éghajlatát.
+HELYES: Igaz
+MAGYARÁZAT: Az Atlanti-óceán meleg áramlata enyhébbé teszi az ország telét a szélességi fokához képest.
+---
+ID: fold-b5-uk-kviz-013
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szélirány uralkodik leggyakrabban az Egyesült Királyságban?
+HELYES: nyugati és délnyugati szelek
+ROSSZ1: keleti szelek
+ROSSZ2: Sirocco
+ROSSZ3: Mistral
+MAGYARÁZAT: Az Atlanti-óceán felől érkező nyugati és délnyugati szelek a leggyakoribbak. A Sirocco és a Mistral más európai tájak szele.
+---
+ID: fold-b5-uk-kviz-014
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Skócia hegyvidéki részei hidegebbek és csapadékosabbak, mint Anglia déli része.
+HELYES: Igaz
+MAGYARÁZAT: A magasság és az északi fekvés miatt a skót hegyvidék hűvösebb és csapadékosabb.
+---
+ID: fold-b5-uk-kviz-015
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Délkelet-Anglia az ország legszárazabb és legmelegebb része.
+HELYES: Igaz
+MAGYARÁZAT: Délkelet-Anglia kevesebb csapadékot kap, és a legmelegebb nyarak itt fordulnak elő.
+---
+ID: fold-b5-uk-kviz-016
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Mi az Egyesült Királyság leghosszabb folyója?
+HELYES: Severn
+ROSSZ1: Temze
+ROSSZ2: Trent
+ROSSZ3: Tay
+MAGYARÁZAT: A Severn a Bristoli-csatornába ömlik, az ország leghosszabb folyója. A Temze Londonon át folyik, a Tay Skóciában van.
+---
+ID: fold-b5-uk-kviz-017
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Temze Londonon át folyik, és az Északi-tengerbe torkollik.
+HELYES: Igaz
+MAGYARÁZAT: A Temze a Thames-torkolatnál ömlik az Északi-tengerbe, London a folyó partján fekszik.
+---
+ID: fold-b5-uk-kviz-018
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Melyik skóciai tó nevéhez fűződik a legendás szörny?
+HELYES: Loch Ness
+ROSSZ1: Loch Lomond
+ROSSZ2: Windermere
+ROSSZ3: Bala-tó
+MAGYARÁZAT: A Loch Ness a legendás Nessie-ről híres skót tó. A Loch Lomond Skóciában van, de nincs hozzá kapcsolódó szörnylegenda, a Windermere Angliában, a Bala-tó Walesben.
+---
+ID: fold-b5-uk-kviz-019
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Windermere Anglia legnagyobb természetes tava.
+HELYES: Igaz
+MAGYARÁZAT: A Windermere a Lake District természetes tava, Anglia legnagyobb ilyen tava.
+---
+ID: fold-b5-uk-kviz-020
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Skócia leghosszabb folyója?
+HELYES: Tay
+ROSSZ1: Clyde
+ROSSZ2: Forth
+ROSSZ3: Dee
+MAGYARÁZAT: A Tay Skócia leghosszabb folyója. A Clyde Glasgow-n át folyik, a Forth Edinburgh közelében torkollik.
+---
+ID: fold-b5-uk-kviz-021
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Melyik az Egyesült Királyság fővárosa?
+HELYES: London
+ROSSZ1: Edinburgh
+ROSSZ2: Cardiff
+ROSSZ3: Belfast
+MAGYARÁZAT: London az Egyesült Királyság fővárosa, a Temze partján. Edinburgh Skócia, Cardiff Wales, Belfast Észak-Írország fővárosa.
+---
+ID: fold-b5-uk-kviz-022
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Edinburgh Skócia fővárosa.
+HELYES: Igaz
+MAGYARÁZAT: Edinburgh a skót tartomány székhelye és fővárosa.
+---
+ID: fold-b5-uk-kviz-023
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Mersey-parti kikötőváros, a Beatles szülővárosa?
+HELYES: Liverpool
+ROSSZ1: Manchester
+ROSSZ2: Bristol
+ROSSZ3: Hull
+MAGYARÁZAT: Liverpool a Mersey partján fekvő kikötőváros, a Beatles szülővárosa.
+---
+ID: fold-b5-uk-kviz-024
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: London után Birmingham az Egyesült Királyság legnagyobb városa.
+HELYES: Igaz
+MAGYARÁZAT: Birmingham a második legnépesebb város az országban, London után.
+---
+ID: fold-b5-uk-kviz-025
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Wales fővárosa?
+HELYES: Cardiff
+ROSSZ1: Swansea
+ROSSZ2: Newport
+ROSSZ3: Belfast
+MAGYARÁZAT: Cardiff Wales fővárosa. Swansea és Newport más walesi városok, Belfast Észak-Írországban van.
+---
+ID: fold-b5-uk-kviz-026
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: London pénzügyi szolgáltatásai világszinten is jelentősek.
+HELYES: Igaz
+MAGYARÁZAT: A City of London a világ egyik vezető pénzügyi központja.
+---
+ID: fold-b5-uk-kviz-027
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Mikor zárták be az Egyesült Királyság utolsó széntüzelésű erőművét?
+HELYES: 2024
+ROSSZ1: 2015
+ROSSZ2: 2000
+ROSSZ3: 2030
+MAGYARÁZAT: Az utolsó széntüzelésű erőmű 2024 őszén zárt be, így az ország kivezette a szenet az áramtermelésből.
+---
+ID: fold-b5-uk-kviz-028
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Északi-tengeri olaj- és gázkitermelés fontos ágazat az Egyesült Királyságban.
+HELYES: Igaz
+MAGYARÁZAT: Az Északi-tengeri mezők évtizedekig az ország energiaellátásának fontos részei voltak, bár a kitermelés csökken.
+---
+ID: fold-b5-uk-kviz-029
+LECKE_ID: fold-b5-uk-001
+TÍPUS: választásos
+KÉRDÉS: Melyik híres fesztivál zajlik minden nyáron Edinburgh-ban?
+HELYES: Edinburgh Festival
+ROSSZ1: Glastonbury
+ROSSZ2: Notting Hill Carnival
+ROSSZ3: Hay Festival
+MAGYARÁZAT: Az edinburghi fesztivál világhírű kulturális esemény. A Glastonbury Angliában, a Notting Hill Carnival Londonban, a Hay Festival Walesben van.
+---
+ID: fold-b5-uk-kviz-030
+LECKE_ID: fold-b5-uk-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Észak-Írország fővárosa Belfast.
+HELYES: Igaz
+MAGYARÁZAT: Belfast Észak-Írország fővárosa és legnagyobb városa.

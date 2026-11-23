@@ -1,0 +1,254 @@
+ID: fold-c1-kviz-001
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Mikor érte el a Föld népessége a 8 milliárd főt?
+HELYES: 2022
+ROSSZ1: 1999
+ROSSZ2: 2010
+ROSSZ3: 2030
+MAGYARÁZAT: 2022 novemberében érte el a világ népessége a 8 milliárd főt az ENSZ becslése szerint.
+---
+ID: fold-c1-kviz-002
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évszázadban nőtt a Föld népessége a legnagyobb mértékben?
+HELYES: 20. század
+ROSSZ1: 15. század
+ROSSZ2: 17. század
+ROSSZ3: 18. század
+MAGYARÁZAT: A 20. században a népesség kb. 1,6 milliárdról 6 milliárdra nőtt, ez a legnagyobb abszolút növekedés.
+---
+ID: fold-c1-kviz-003
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A világ népességnövekedése jelenleg gyorsul.
+HELYES: Hamis
+MAGYARÁZAT: A növekedés üteme az 1960–70-es évek csúcsa óta lassul, a születésszám csökkenése miatt.
+---
+ID: fold-c1-kviz-004
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Mi a neve annak a folyamatnak, amelyben a magas születési és halálozási arány után mindkettő alacsonyra csökken?
+HELYES: demográfiai átmenet
+ROSSZ1: urbanizáció
+ROSSZ2: deindusztrializáció
+ROSSZ3: migráció
+MAGYARÁZAT: A demográfiai átmenet a népesség szerkezetének fokozatos átalakulása, Európában már lezárult.
+---
+ID: fold-c1-kviz-005
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Európa lakossága az elöregedés miatt több országban csökken.
+HELYES: Igaz
+MAGYARÁZAT: Az alacsony születésszám és a magas átlagéletkor miatt több európai országban csökken a népesség.
+---
+ID: fold-c1-kviz-006
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A világ népességének jelentős része éhezik vagy alultáplált.
+HELYES: Igaz
+MAGYARÁZAT: Becslések szerint kb. 700–800 millió ember éhezik vagy alultáplált.
+---
+ID: fold-c1-kviz-007
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Az élelmiszer-termelés becsült hányada mekkora része pazarlódik el?
+HELYES: egyharmada
+ROSSZ1: egytizede
+ROSSZ2: fele
+ROSSZ3: kétharmada
+MAGYARÁZAT: Az FAO becslése szerint a megtermelt élelmiszer kb. egyharmada elveszik vagy elpazarlódik.
+---
+ID: fold-c1-kviz-008
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az élelmiszerárakat kizárólag a termelési költségek határozzák meg.
+HELYES: Hamis
+MAGYARÁZAT: Az árakra hatással van az energia, az időjárás, a kereslet, a háborúk és a kereskedelmi útvonalak is.
+---
+ID: fold-c1-kviz-009
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nemzetközi szervezet készít évente jelentést a világ éhezéséről?
+HELYES: FAO
+ROSSZ1: WTO
+ROSSZ2: IMF
+ROSSZ3: UNESCO
+MAGYARÁZAT: Az ENSZ Élelmezési és Mezőgazdasági Szervezete (FAO) évente értékeli a világ élelmezési helyzetét. A WTO a kereskedelem, az IMF a pénzügyek, az UNESCO a kultúra és oktatás szervezete.
+---
+ID: fold-c1-kviz-010
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az ukrajnai háború 2022-ben megzavarta a világ gabonakereskedelmét.
+HELYES: Igaz
+MAGYARÁZAT: Ukrajna fontos gabonaexportőr volt, a háború miatt a szállítási útvonalak és az árak is változtak.
+---
+ID: fold-c1-kviz-011
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az üvegházhatású gázok kibocsátásának növekedése a globális felmelegedés fő oka.
+HELYES: Igaz
+MAGYARÁZAT: A szén-dioxid és más üvegházhatású gázok a légkörben elnyelik a hőt, ezért melegszik a Föld.
+---
+ID: fold-c1-kviz-012
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Mi a Párizsi Megállapodás (2015) egyik fő hőmérsékleti célja?
+HELYES: 1,5 °C
+ROSSZ1: 3 °C
+ROSSZ2: 0,5 °C
+ROSSZ3: 5 °C
+MAGYARÁZAT: A megállapodás szerint törekedni kell az átlaghőmérséklet-emelkedés 1,5 °C-ra korlátozására, és mindenképp jóval 2 °C alatt kell maradni.
+---
+ID: fold-c1-kviz-013
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Európa gyorsabban melegszik, mint a globális átlag.
+HELYES: Igaz
+MAGYARÁZAT: Európában a hőmérséklet-emelkedés a globális átlagnál nagyobb, ezért a kontinens különösen érintett.
+---
+ID: fold-c1-kviz-014
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik üvegházhatású gáz kibocsátása a legnagyobb mennyiségű az emberi tevékenységből?
+HELYES: szén-dioxid
+ROSSZ1: metán
+ROSSZ2: dinitrogén-oxid
+ROSSZ3: nitrogén
+MAGYARÁZAT: A szén-dioxid a legnagyobb mennyiségben kibocsátott üvegházhatású gáz. A nitrogén nem üvegházhatású gáz, a metán és a dinitrogén-oxid kisebb mennyiségben van jelen.
+---
+ID: fold-c1-kviz-015
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A tengerszint emelkedését részben az olvadó jégtakaró és a víz hőtágulása okozza.
+HELYES: Igaz
+MAGYARÁZAT: A melegedő víz térfogata nő, az olvadó jég pedig új vizet ad az óceánoknak.
+---
+ID: fold-c1-kviz-016
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Föld szárazföldi területének kb. 40%-a száraz területnek számít.
+HELYES: Igaz
+MAGYARÁZAT: A száraz területek (sivatagok, sztyeppék, félsivatagok) a szárazföld kb. 40%-át teszik ki.
+---
+ID: fold-c1-kviz-017
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tó zsugorodása a legismertebb példa az elsivatagosodásra Közép-Ázsiában?
+HELYES: Aral-tenger
+ROSSZ1: Bajkál-tó
+ROSSZ2: Tanganyika-tó
+ROSSZ3: Viktória-tó
+MAGYARÁZAT: Az Aral-tenger zsugorodását a folyók vízelvonása okozta, ami a térség környezeti katasztrófája lett.
+---
+ID: fold-c1-kviz-018
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Száhel-övezet elsivatagosodása Afrikában jelentős probléma.
+HELYES: Igaz
+MAGYARÁZAT: A Száhel-övezet a Szahara déli pereme, ahol a száraz időszakok és a talajromlás komoly élelmezési gondokat okoz.
+---
+ID: fold-c1-kviz-019
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik emberi tevékenység járul hozzá leginkább a talaj elsivatagosodásához?
+HELYES: túllegeltetés
+ROSSZ1: tengeri halászat
+ROSSZ2: űrkutatás
+ROSSZ3: városi közlekedés
+MAGYARÁZAT: A túllegeltetés kiszárítja és kimeríti a talajt, a növényzet eltűnik. A többi felsorolt tevékenység nem okoz közvetlenül ilyen talajromlást.
+---
+ID: fold-c1-kviz-020
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Dél-Európában (például Spanyolországban és Görögországban) fennáll az elsivatagosodás veszélye.
+HELYES: Igaz
+MAGYARÁZAT: A Földközi-tenger térségének száraz nyarai és a túlzott vízhasználat miatt több déli területen nő a kockázat.
+---
+ID: fold-c1-kviz-021
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Becslések szerint hány milliárd embernek nincs biztonságosan kezelt ivóvíze?
+HELYES: 2,2
+ROSSZ1: 0,5
+ROSSZ2: 5
+ROSSZ3: 10
+MAGYARÁZAT: A WHO és az UNICEF becslése szerint kb. 2,2 milliárd embernek nincs biztonságosan kezelt ivóvíze.
+---
+ID: fold-c1-kviz-022
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik ágazat használja fel a világ édesvíz-felhasználásának legnagyobb részét?
+HELYES: mezőgazdaság
+ROSSZ1: háztartások
+ROSSZ2: ipar
+ROSSZ3: turizmus
+MAGYARÁZAT: A mezőgazdaság, különösen az öntözés, az édesvíz-felhasználás kb. 70%-át adja. A háztartások és az ipar ezt követik.
+---
+ID: fold-c1-kviz-023
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A talajvízkészletek túlzott kiaknázása számos régióban problémát okoz.
+HELYES: Igaz
+MAGYARÁZAT: Ha a talajvíz gyorsabban fogy, mint ahogy utánpótlódik, a kutak kiszáradnak és a talaj süllyedhet.
+---
+ID: fold-c1-kviz-024
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Hány százaléka a Föld vízkészletének sós víz?
+HELYES: kb. 97%
+ROSSZ1: kb. 30%
+ROSSZ2: kb. 50%
+ROSSZ3: kb. 10%
+MAGYARÁZAT: A Föld vízkészletének nagy része, kb. 97%-a sós víz az óceánokban, az édesvíz kb. 3%.
+---
+ID: fold-c1-kviz-025
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Közel-Keleten és Észak-Afrikában az ivóvízhiány különösen súlyos.
+HELYES: Igaz
+MAGYARÁZAT: A száraz éghajlat és a túlzott vízkivétel miatt ezek a térségek a világ legvízhiányosabb részei közé tartoznak.
+---
+ID: fold-c1-kviz-026
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A jövedelmi különbségek az országok között jelentősek.
+HELYES: Igaz
+MAGYARÁZAT: A fejlett és a legkevésbé fejlett országok jövedelme között óriási a különbség.
+---
+ID: fold-c1-kviz-027
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik indexszel méri az ENSZ Fejlesztési Programja (UNDP) az emberi fejlettséget?
+HELYES: emberi fejlettségi index (HDI)
+ROSSZ1: GDP-deflátor
+ROSSZ2: Dow Jones-index
+ROSSZ3: Richter-skála
+MAGYARÁZAT: A HDI az egészséget, a műveltséget és a jövedelmet együtt méri. A többi felsorolt mutató más területen használatos.
+---
+ID: fold-c1-kviz-028
+LECKE_ID: fold-c1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Szub-Szaharai Afrikában magas a szegénységi arány.
+HELYES: Igaz
+MAGYARÁZAT: A térség számos országa a legkevésbé fejlettek közé tartozik, sok ember él mélyszegénységben.
+---
+ID: fold-c1-kviz-029
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Mi a rövidítése a legkevésbé fejlett országok ENSZ-csoportjának?
+HELYES: LDC
+ROSSZ1: OECD
+ROSSZ2: EU
+ROSSZ3: NATO
+MAGYARÁZAT: Az LDC (Least Developed Countries) az ENSZ legkevésbé fejlett országainak listája. Az OECD fejlett országok szervezete, az EU és a NATO politikai-katonai szövetség.
+---
+ID: fold-c1-kviz-030
+LECKE_ID: fold-c1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évtől él a világ népességének többsége városokban?
+HELYES: 2007
+ROSSZ1: 1950
+ROSSZ2: 1990
+ROSSZ3: 2020
+MAGYARÁZAT: 2007-ben érte el az ENSZ becslése szerint a világ népességének fele a városi lakosságot, azóta ez az arány nő.

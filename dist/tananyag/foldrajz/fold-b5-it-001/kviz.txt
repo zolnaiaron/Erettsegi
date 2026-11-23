@@ -1,0 +1,257 @@
+ID: fold-b5-it-kviz-001
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Olaszországnak közös szárazföldi határa van Franciaországgal.
+HELYES: Igaz
+MAGYARÁZAT: Az olasz–francia határ az Alpokon húzódik, a Mont Blanc térségében is.
+---
+ID: fold-b5-it-kviz-002
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tengerrel határos Olaszország nyugati partja?
+HELYES: Tirrén-tenger
+ROSSZ1: Adriai-tenger
+ROSSZ2: Égei-tenger
+ROSSZ3: Balti-tenger
+MAGYARÁZAT: Olaszország nyugati partjait a Tirrén-tenger mossa, az Adriai-tenger a keleti oldalon van.
+---
+ID: fold-b5-it-kviz-003
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Olaszország keleti partjait az Adriai-tenger mossa.
+HELYES: Igaz
+MAGYARÁZAT: A félsziget keleti partjait az Adriai-tenger határolja.
+---
+ID: fold-b5-it-kviz-004
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik önálló állam fekszik Róma területén belül?
+HELYES: Vatikán
+ROSSZ1: San Marino
+ROSSZ2: Monaco
+ROSSZ3: Andorra
+MAGYARÁZAT: A Vatikán Róma területén belül fekvő enkláve. San Marino Olaszország északi részén, Monaco Franciaország délkeleti partján, Andorra a Pireneusokban található.
+---
+ID: fold-b5-it-kviz-005
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Olaszország északon Svájccal, Ausztriával és Szlovéniával határos.
+HELYES: Igaz
+MAGYARÁZAT: Az ország északi határai az Alpok mentén húzódnak ezekkel az országokkal.
+---
+ID: fold-b5-it-kviz-006
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Olaszország legmagasabb aktív vulkánja?
+HELYES: Etna
+ROSSZ1: Vezúv
+ROSSZ2: Stromboli
+ROSSZ3: Campi Flegrei
+MAGYARÁZAT: Az Etna Szicíliában, 3357 m magas, Európa legnagyobb aktív vulkánja. A többi felsorolt vulkán alacsonyabb.
+---
+ID: fold-b5-it-kviz-007
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Appenninek Olaszország gerincét alkotják.
+HELYES: Igaz
+MAGYARÁZAT: Az Appenninek a félsziget hosszában húzódó hegyláncok.
+---
+ID: fold-b5-it-kviz-008
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik síkság húzódik Velence és Milánó között?
+HELYES: Pó-síkság
+ROSSZ1: Apuliai-fennsík
+ROSSZ2: Szicíliai-hegység
+ROSSZ3: Dolomitok
+MAGYARÁZAT: A Pó-síkság Olaszország legnagyobb síksága, a Pó folyó szeli át. A többi felsorolt képződmény fennsík vagy hegység.
+---
+ID: fold-b5-it-kviz-009
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Dolomitok az Alpok keleti részén, Olaszországban találhatók.
+HELYES: Igaz
+MAGYARÁZAT: A Dolomitok sziklás csúcsai Észak-Olaszország keleti részén, az Alpokban emelkednek.
+---
+ID: fold-b5-it-kviz-010
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik karsztos vidék található Trieszt környékén?
+HELYES: Karszt (Carso)
+ROSSZ1: Pó-síkság
+ROSSZ2: Vezúv-környék
+ROSSZ3: Szicília
+MAGYARÁZAT: A Karszt karsztos mészkőfennsík Trieszt környékén, Szlovénia határán.
+---
+ID: fold-b5-it-kviz-011
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Milyen éghajlattípus jellemzi Olaszország déli részét?
+HELYES: mediterrán
+ROSSZ1: sarkvidéki
+ROSSZ2: száraz kontinentális
+ROSSZ3: tundra
+MAGYARÁZAT: A déli részeken forró, száraz nyár és enyhe, csapadékos tél jellemző.
+---
+ID: fold-b5-it-kviz-012
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Alpok miatt Olaszország északi részén hegyvidéki éghajlat is uralkodik.
+HELYES: Igaz
+MAGYARÁZAT: A magasabb alpesi területeken hűvösebb és csapadékosabb az éghajlat.
+---
+ID: fold-b5-it-kviz-013
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik forró, afrikai eredetű szél éri el Szicíliát és Dél-Olaszországot?
+HELYES: Sirocco
+ROSSZ1: Bora
+ROSSZ2: Maestrale
+ROSSZ3: Mistral
+MAGYARÁZAT: A Sirocco Afrika felől, a Szaharából érkező forró, száraz szél. A Bora és a Maestrale hideg, a Mistral Franciaország szele.
+---
+ID: fold-b5-it-kviz-014
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik hideg északkeleti szél jellemző Triesztnél, az Adriai-tenger partján?
+HELYES: Bora
+ROSSZ1: Sirocco
+ROSSZ2: Mistral
+ROSSZ3: Khamsin
+MAGYARÁZAT: A Bora hideg, erős északkeleti szél, amely Trieszt környékén gyakori.
+---
+ID: fold-b5-it-kviz-015
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Dél-Olaszországban a nyári csapadék mennyisége általában alacsony.
+HELYES: Igaz
+MAGYARÁZAT: A mediterrán éghajlat nyara száraz, a csapadék főként télen hullik.
+---
+ID: fold-b5-it-kviz-016
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Mi Olaszország leghosszabb folyója?
+HELYES: Pó
+ROSSZ1: Tiber
+ROSSZ2: Adige
+ROSSZ3: Arno
+MAGYARÁZAT: A Pó Olaszország leghosszabb folyója, a Pó-síkságon át az Adriai-tengerbe ömlik.
+---
+ID: fold-b5-it-kviz-017
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Tiber Rómán át folyik.
+HELYES: Igaz
+MAGYARÁZAT: A Tiber a római városon keresztül folyik, és a Tirrén-tengerbe torkollik.
+---
+ID: fold-b5-it-kviz-018
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó folyik át Firenzén?
+HELYES: Arno
+ROSSZ1: Tiber
+ROSSZ2: Pó
+ROSSZ3: Adige
+MAGYARÁZAT: Firenzét az Arno szeli át, a Tirrén-tengerbe ömlik Pisa közelében.
+---
+ID: fold-b5-it-kviz-019
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Garda-tó Olaszország legnagyobb tava.
+HELYES: Igaz
+MAGYARÁZAT: A Garda-tó az ország legnagyobb természetes tava, az észak-olaszországi Alpok lábánál.
+---
+ID: fold-b5-it-kviz-020
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tó található Milánó közelében?
+HELYES: Como-tó
+ROSSZ1: Genfi-tó
+ROSSZ2: Bodeni-tó
+ROSSZ3: Balaton
+MAGYARÁZAT: A Como-tó Milánó közelében fekvő alpesi tó. A Genfi-tó Franciaország és Svájc határán, a Bodeni-tó Németország, Svájc és Ausztria között található.
+---
+ID: fold-b5-it-kviz-021
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Olaszország fővárosa?
+HELYES: Róma
+ROSSZ1: Milánó
+ROSSZ2: Nápoly
+ROSSZ3: Torino
+MAGYARÁZAT: Róma Olaszország fővárosa, a Tiber partján fekszik.
+---
+ID: fold-b5-it-kviz-022
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Milánó Olaszország pénzügyi és divatközpontja.
+HELYES: Igaz
+MAGYARÁZAT: Milánó a bankok, a tőzsde és a divatipar központja, a Pó-síkságon fekszik.
+---
+ID: fold-b5-it-kviz-023
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nagy kikötőváros fekszik a Tirrén-tenger partján, Vezúv közelében?
+HELYES: Nápoly
+ROSSZ1: Velence
+ROSSZ2: Trieszt
+ROSSZ3: Bari
+MAGYARÁZAT: Nápoly a Tirrén-tenger partján fekszik, a Vezúv közelében. A többi felsorolt város az Adriai-tengeren van.
+---
+ID: fold-b5-it-kviz-024
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Velence lagúnákra épült város.
+HELYES: Igaz
+MAGYARÁZAT: Velence az Adriai-tenger lagúnáin épült, csatornák hálózata szeli át.
+---
+ID: fold-b5-it-kviz-025
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik sziget fővárosa Palermo?
+HELYES: Szicília
+ROSSZ1: Szardínia
+ROSSZ2: Korzika
+ROSSZ3: Elba
+MAGYARÁZAT: Palermo Szicília fővárosa. Szardínia fővárosa Cagliari, Korzika Franciaországhoz tartozik.
+---
+ID: fold-b5-it-kviz-026
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Olaszországban nincs működő atomerőmű.
+HELYES: Igaz
+MAGYARÁZAT: Az 1987-es népszavazás után az atomenergia használatát kivezették, az országban nincs működő atomerőmű.
+---
+ID: fold-b5-it-kviz-027
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik toszkánai térség geotermikus erőművéről ismert?
+HELYES: Larderello
+ROSSZ1: Pó-völgy
+ROSSZ2: Apuliai-fennsík
+ROSSZ3: Garda-tó
+MAGYARÁZAT: Larderello Toszkánában található, ahol a világ egyik legrégebbi geotermikus erőműve működik.
+---
+ID: fold-b5-it-kviz-028
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Olaszország híres olívaolajáról és borairól.
+HELYES: Igaz
+MAGYARÁZAT: Az olívaolaj és a bor fontos mezőgazdasági termékei Olaszországnak, Toszkána és Piemont különösen híres.
+---
+ID: fold-b5-it-kviz-029
+LECKE_ID: fold-b5-it-001
+TÍPUS: választásos
+KÉRDÉS: Melyik híres autógyártó székhelye Maranello?
+HELYES: Ferrari
+ROSSZ1: Fiat
+ROSSZ2: Lamborghini
+ROSSZ3: Maserati
+MAGYARÁZAT: A Ferrari Maranellóban, a Fiat Torinóban, a Lamborghini Sant'Agata Bolognese-ban, a Maserati Modenában székel.
+---
+ID: fold-b5-it-kviz-030
+LECKE_ID: fold-b5-it-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Olaszországban a világon az egyik legtöbb UNESCO világörökségi helyszín található.
+HELYES: Igaz
+MAGYARÁZAT: Olaszország a világ országai közül a legtöbb UNESCO világörökségi helyszínnel rendelkezik, köztük Róma, Velence és Firenze történelmi központjaival.

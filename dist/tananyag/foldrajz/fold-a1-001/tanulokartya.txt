@@ -1,0 +1,180 @@
+ID: fold-a1-kartya-001
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia területe
+HÁTLAP: kb. 238 397 km², több mint kétszerese Magyarországénak.
+---
+ID: fold-a1-kartya-002
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia fővárosa
+HÁTLAP: Bukarest (București).
+---
+ID: fold-a1-kartya-003
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia hivatalos nyelve
+HÁTLAP: román.
+---
+ID: fold-a1-kartya-004
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia szélességi fokai
+HÁTLAP: 43°37' és 48°15' É között.
+---
+ID: fold-a1-kartya-005
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia hosszúsági fokai
+HÁTLAP: 20°15' és 29°45' K között.
+---
+ID: fold-a1-kartya-006
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia helyi ideje Magyarországhoz képest
+HÁTLAP: Egy órával később van (UTC+2, Magyarország UTC+1).
+---
+ID: fold-a1-kartya-007
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia legmagasabb csúcsa
+HÁTLAP: Moldoveanu, 2544 m, a Fogarasi-havasokban.
+---
+ID: fold-a1-kartya-008
+LECKE_ID: fold-a1-001
+ELŐLAP: Erdélyi-medence helye
+HÁTLAP: A Kárpátok ívén belül, Románia középső részén.
+---
+ID: fold-a1-kartya-009
+LECKE_ID: fold-a1-001
+ELŐLAP: Havasalföld
+HÁTLAP: Románia déli síksága, a Kárpátoktól délre, a Dunáig.
+---
+ID: fold-a1-kartya-010
+LECKE_ID: fold-a1-001
+ELŐLAP: Moldvai-fennsík
+HÁTLAP: Románia keleti tájegysége, a Prut és a Moldovai Köztársaság felé.
+---
+ID: fold-a1-kartya-011
+LECKE_ID: fold-a1-001
+ELŐLAP: Dobrudzsa
+HÁTLAP: Románia délkeleti tája a Duna és a Fekete-tenger között.
+---
+ID: fold-a1-kartya-012
+LECKE_ID: fold-a1-001
+ELŐLAP: Bánság
+HÁTLAP: Románia nyugati-délnyugati tája, Szerbia felé.
+---
+ID: fold-a1-kartya-013
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia szárazföldi szomszédainak száma
+HÁTLAP: 5.
+---
+ID: fold-a1-kartya-014
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia szárazföldi szomszédai
+HÁTLAP: Ukrajna, Moldova, Magyarország, Szerbia, Bulgária.
+---
+ID: fold-a1-kartya-015
+LECKE_ID: fold-a1-001
+ELŐLAP: Magyar–román határ hossza
+HÁTLAP: kb. 450 km.
+---
+ID: fold-a1-kartya-016
+LECKE_ID: fold-a1-001
+ELŐLAP: Melyik folyó határolja Romániát és Bulgáriát?
+HÁTLAP: A Duna (a Vidin–Silistra szakaszon).
+---
+ID: fold-a1-kartya-017
+LECKE_ID: fold-a1-001
+ELŐLAP: Melyik folyó alkotja a román–moldovai határ egy részét?
+HÁTLAP: A Prut.
+---
+ID: fold-a1-kartya-018
+LECKE_ID: fold-a1-001
+ELŐLAP: Román–szerb határ fő folyója
+HÁTLAP: A Duna, a Vaskapu-szoros térségében.
+---
+ID: fold-a1-kartya-019
+LECKE_ID: fold-a1-001
+ELŐLAP: Dobrudzsa déli szomszédja
+HÁTLAP: Bulgária.
+---
+ID: fold-a1-kartya-020
+LECKE_ID: fold-a1-001
+ELŐLAP: Melyik román tájegység határos a Moldovai Köztársasággal?
+HÁTLAP: Moldva (Moldvai-fennsík).
+---
+ID: fold-a1-kartya-021
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia Fekete-tengeri partvonala
+HÁTLAP: kb. 225 km.
+---
+ID: fold-a1-kartya-022
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia legnagyobb tengeri kikötője
+HÁTLAP: Constanța.
+---
+ID: fold-a1-kartya-023
+LECKE_ID: fold-a1-001
+ELŐLAP: Határos-e Romániával Horvátország?
+HÁTLAP: Nem; Románia nem határos Horvátországgal és Szlovákiával.
+---
+ID: fold-a1-kartya-024
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia EU-csatlakozásának éve
+HÁTLAP: 2007 (Bulgáriával együtt).
+---
+ID: fold-a1-kartya-025
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia NATO-csatlakozásának éve
+HÁTLAP: 2004.
+---
+ID: fold-a1-kartya-026
+LECKE_ID: fold-a1-001
+ELŐLAP: Mikor szűnt meg a szárazföldi határellenőrzés a schengeni határokon?
+HÁTLAP: 2025. január 1.
+---
+ID: fold-a1-kartya-027
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia pénzneme
+HÁTLAP: Román lej (RON), nem az euró.
+---
+ID: fold-a1-kartya-028
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia közigazgatási beosztása
+HÁTLAP: 41 megye (județ) és Bukarest municipium.
+---
+ID: fold-a1-kartya-029
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia lakossága
+HÁTLAP: kb. 19 millió fő (2021: 19,05 millió).
+---
+ID: fold-a1-kartya-030
+LECKE_ID: fold-a1-001
+ELŐLAP: Európa területe
+HÁTLAP: kb. 10 millió km².
+---
+ID: fold-a1-kartya-031
+LECKE_ID: fold-a1-001
+ELŐLAP: Európa hagyományos keleti határa
+HÁTLAP: Az Urál-hegység.
+---
+ID: fold-a1-kartya-032
+LECKE_ID: fold-a1-001
+ELŐLAP: Mennyi a Duna hossza Romániában?
+HÁTLAP: Több mint 1000 km.
+---
+ID: fold-a1-kartya-033
+LECKE_ID: fold-a1-001
+ELŐLAP: Mi a Duna-delta jellemzője?
+HÁTLAP: Európa második legnagyobb folyódeltája.
+---
+ID: fold-a1-kartya-034
+LECKE_ID: fold-a1-001
+ELŐLAP: Duna-delta – nemzetközi státusz
+HÁTLAP: 1991 óta UNESCO világörökségi terület.
+---
+ID: fold-a1-kartya-035
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia és az EU külső határa
+HÁTLAP: Románia az EU keleti külső határának része (Ukrajna, Moldova felé).
+---
+ID: fold-a1-kartya-036
+LECKE_ID: fold-a1-001
+ELŐLAP: Románia tengeri határa
+HÁTLAP: A Fekete-tenger.
+

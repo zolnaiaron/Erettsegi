@@ -1,0 +1,179 @@
+ID: fold-b5-pt-kartya-001
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália szárazföldi szomszédainak száma
+HÁTLAP: 1 (Spanyolország).
+---
+ID: fold-b5-pt-kartya-002
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália nyugati és déli tengere
+HÁTLAP: Atlanti-óceán.
+---
+ID: fold-b5-pt-kartya-003
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Azori- és Madeira-szigetek helye
+HÁTLAP: Az Atlanti-óceánon, Portugáliához tartoznak.
+---
+ID: fold-b5-pt-kartya-004
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Európa legnyugatibb szárazföldi pontja Portugáliában
+HÁTLAP: Cabo da Roca.
+---
+ID: fold-b5-pt-kartya-005
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Spanyol–portugál határ déli folyója
+HÁTLAP: Guadiana.
+---
+ID: fold-b5-pt-kartya-006
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália legdélebbi tája
+HÁTLAP: Algarve.
+---
+ID: fold-b5-pt-kartya-007
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália legmagasabb szárazföldi csúcsa
+HÁTLAP: Torre, 1993 m (Serra da Estrela).
+---
+ID: fold-b5-pt-kartya-008
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália legmagasabb csúcsa (vulkáni)
+HÁTLAP: Pico, 2351 m (Azori-szigetek).
+---
+ID: fold-b5-pt-kartya-009
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Nagy síkság és fennsík Portugália déli részén
+HÁTLAP: Alentejo.
+---
+ID: fold-b5-pt-kartya-010
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Jégkorszaki formák Portugáliában
+HÁTLAP: Serra da Estrela (völgyek, cirkuszok).
+---
+ID: fold-b5-pt-kartya-011
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Karsztos mészkőképződmények vidéke
+HÁTLAP: Algarve.
+---
+ID: fold-b5-pt-kartya-012
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália északi hegyvidéke
+HÁTLAP: Serra do Gerês.
+---
+ID: fold-b5-pt-kartya-013
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Algarve éghajlata
+HÁTLAP: Mediterrán.
+---
+ID: fold-b5-pt-kartya-014
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Észak-Portugália éghajlata
+HÁTLAP: Óceáni (csapadékosabb, enyhébb).
+---
+ID: fold-b5-pt-kartya-015
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Nyáron észak felől fújó partmenti szél
+HÁTLAP: Nortada.
+---
+ID: fold-b5-pt-kartya-016
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Forró keleti szél Portugáliában
+HÁTLAP: Leste.
+---
+ID: fold-b5-pt-kartya-017
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Alentejo nyara
+HÁTLAP: Forró és száraz.
+---
+ID: fold-b5-pt-kartya-018
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália éghajlati övezete
+HÁTLAP: Mérsékelt övi.
+---
+ID: fold-b5-pt-kartya-019
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Lisszabonon átfolyó folyó
+HÁTLAP: Tejo (Tajo), az Atlanti-óceánba ömlik.
+---
+ID: fold-b5-pt-kartya-020
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portónál torkolló folyó
+HÁTLAP: Douro.
+---
+ID: fold-b5-pt-kartya-021
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Coimbra folyója
+HÁTLAP: Mondego.
+---
+ID: fold-b5-pt-kartya-022
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Déli határfolyó Spanyolország és Portugália között
+HÁTLAP: Guadiana.
+---
+ID: fold-b5-pt-kartya-023
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Nyugat-Európa egyik legnagyobb mesterséges tava
+HÁTLAP: Alqueva-víztározó (a Guadiana-folyón).
+---
+ID: fold-b5-pt-kartya-024
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Krátertó São Miguel szigetén
+HÁTLAP: Lagoa das Sete Cidades (Azori-szigetek).
+---
+ID: fold-b5-pt-kartya-025
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália fővárosa
+HÁTLAP: Lisszabon (a Tejo torkolatánál).
+---
+ID: fold-b5-pt-kartya-026
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália második legnagyobb városa
+HÁTLAP: Porto (a Douro partján).
+---
+ID: fold-b5-pt-kartya-027
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Régi egyetemi város a Mondego partján
+HÁTLAP: Coimbra.
+---
+ID: fold-b5-pt-kartya-028
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Az Algarve fővárosa
+HÁTLAP: Faro.
+---
+ID: fold-b5-pt-kartya-029
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Madeira fővárosa
+HÁTLAP: Funchal.
+---
+ID: fold-b5-pt-kartya-030
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália lakossága
+HÁTLAP: Kb. 10,5 millió fő.
+---
+ID: fold-b5-pt-kartya-031
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália vezető exportja a parafa mellett
+HÁTLAP: Parafa – a világ legnagyobb parafatermelője.
+---
+ID: fold-b5-pt-kartya-032
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Autógyár Palmelában
+HÁTLAP: Autoeuropa (Volkswagen).
+---
+ID: fold-b5-pt-kartya-033
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Van-e működő atomerőmű Portugáliában?
+HÁTLAP: Nincs.
+---
+ID: fold-b5-pt-kartya-034
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Bortípus a Douro-völgyből
+HÁTLAP: Portói bor.
+---
+ID: fold-b5-pt-kartya-035
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Északi (Minho) bortípus
+HÁTLAP: Vinho Verde.
+---
+ID: fold-b5-pt-kartya-036
+LECKE_ID: fold-b5-pt-001
+ELŐLAP: Portugália fontos halászati terméke
+HÁTLAP: Szardínia.

@@ -1,0 +1,39 @@
+ID: fold-c4-001
+CÍM: Globalizáció, multinacionális vállalatok és kulturális hatások
+SZÖVEG:
+# Globalizáció, multinacionális vállalatok és kulturális hatások
+A globalizáció a gazdasági, politikai, kulturális és technológiai kapcsolatok világméretű összefonódását jelenti. A folyamat legfontosabb szereplői a multinacionális vállalatok, hatásai pedig a mindennapi életben, a fogyasztásban és a kultúrában is érzékelhetők. Európa és Románia is része ennek a folyamatnak.
+
+## A globalizáció fogalma és dimenziói
+- A globalizáció a gazdasági (kereskedelem, pénzügy), a politikai (nemzetközi intézmények), a kulturális és a technológiai dimenzióban is megjelenik.
+- Az áruk mellett a tőke, a munkaerő, az információ és a szolgáltatások mozgása is globális.
+- A technológiai fejlődés, különösen az internet elterjedése gyorsította fel a folyamatot a 20. század végétől.
+
+## Nemzetközi kereskedelem és globális értékláncok
+- A globális értéklánc azt jelenti, hogy egy termék alkatrészei és szakaszai különböző országokban készülnek, és a végső összeszerelés egy másik helyen történik.
+- A **Kereskedelmi Világszervezet (WTO)** 1995-ben kezdte meg működését, ez intézményesítette a gazdasági globalizációt.
+- A szabadkereskedelmi megállapodások csökkentik a vámokat és az egyéb kereskedelmi akadályokat. Az **IMF** a nemzetközi pénzügyi stabilitást támogatja.
+- A kereskedelem növekedése sok ország fejlődését segítette, de nem minden országban és nem minden társadalmi csoportban járt egyformán előnyökkel.
+
+## Multinacionális vállalatok
+- A multinacionális vállalat több országban működő leányvállalatokkal rendelkezik, és globálisan irányítja a termelését, a kutatását és a marketingjét.
+- Példák: a **Nestlé** (Svájc, élelmiszer), a **Volkswagen** (Németország, autóipar), az **IKEA** (Svédország, bútor), a **Shell** (energia).
+- A közvetlen külföldi tőkebefektetés (**FDI**, Foreign Direct Investment) a multinacionális vállalatok legfontosabb eszköze a külföldi piacokra való belépésre.
+- A vállalatok a helyi munkaerő-piacot, az adópolitikát és a környezeti szabályozást is befolyásolhatják, ezért szabályozásuk az EU-ban is fontos kérdés.
+
+## Európai és romániai példák
+- A **Dacia** márkát ma a francia **Renault-csoport** birtokolja, gyártása Mioveniben (Argeș megye) folyik.
+- A **Ford** craiovai gyára autógyártási tevékenységet folytat Romániában.
+- A román energiaipar egyik nagy szereplője, az **OMV Petrom** az osztrák OMV-csoporthoz tartozik.
+- A külföldi befektetések jelentős része multinacionális vállalatoktól származik, ezek munkahelyeket és technológiát hoznak az országba.
+
+## Kulturális hatások
+- Az angol nyelv a nemzetközi kommunikáció fő nyelvévé vált, a popkultúra és a média is globális.
+- A **kulturális homogenizáció** a helyi kultúrák egységesülését jelenti a globális termékek hatására, például a McDonald's vagy a Netflix elterjedésével.
+- A **kulturális hibridizáció** az a folyamat, amikor a globális és a helyi kultúrák keverednek, és új formák jönnek létre.
+- Az UNESCO 2005-ös egyezménye a kulturális sokféleség védelmét szolgálja a globális piaci nyomással szemben.
+
+## Kritikák és védelmi eszközök
+- A globalizációt kritizálják a munkahelyek áthelyezése, a környezeti terhelés és a jövedelmi egyenlőtlenségek növekedése miatt.
+- Az EU a helyi termékek eredetét védi az oltalom alá helyezett eredetmegjelölésekkel (**PDO** és **PGI**). Ilyen például a Parmigiano Reggiano sajt és a Champagne pezsgő.
+- Az ENSZ fenntartható fejlesztési céljai (SDG) a globális egyenlőtlenségek csökkentését tűzik ki célul.

@@ -1,0 +1,33 @@
+ID: fold-b5-fr-001
+CÍM: Franciaország
+SZÖVEG:
+# Franciaország
+Franciaország Nyugat-Európa legnagyobb területű uniós tagállama. Az alábbi hat szempont mentén érdemes áttekinteni.
+
+## 1. Fekvés és határok
+- **Tengerparti állam**: nyugaton az Atlanti-óceán (a Biszkaji-öböl partjával), északnyugaton a La Manche (Csatorna), délkeleten a Földközi-tenger partjával.
+- **Szárazföldi szomszédai**: Belgium, Luxemburg, Németország, Svájc, Olaszország, Monaco, Andorra és Spanyolország.
+- Nem határos Ausztriával és Lengyelországgal.
+
+## 2. Domborzat
+- **Fő domborzati egységek**: a Közép-francia-középhegység (Massif Central), az Alpok délkeleten, a Pireneusok délen, a Vogézek és a Jura keleten, valamint a Párizsi-medence és az Aquitániai-medence a belső részeken.
+- **Domborzattípusok**: az Alpokban gleccserek és glaciális formák (például a Mer de Glace), a Közép-francia-középhegységben vulkáni kúpok (Auvergne) és karsztos fennsíkok (például a Causses).
+- **Legmagasabb csúcs**: a **Mont Blanc** (4808 m), az Alpokban, a francia–olasz határon.
+
+## 3. Éghajlat
+- **Éghajlati övezet és típus**: nyugaton óceáni, délkeleten mediterrán, az Alpokban és a Pireneusokban hegyvidéki, keleten mérsékelt kontinentális hatású.
+- **Jellemző szelek**: a **Mistral** hideg, száraz északnyugati szél a Rhône-völgyben a Földközi-tenger felé, a **Tramontane** Languedoc északi szele, a **Bise** hideg északkeleti szél a keleti részeken.
+
+## 4. Vízrajz
+- **Főbb folyók és torkolatuk**: a **Loire** (az ország leghosszabb folyója) az Atlanti-óceánba, a **Szajna** (Seine) a La Manche-öbölbe, a **Rhône** a Camargue-deltánál a Földközi-tengerbe, a **Garonne** pedig a Gironde-öbölbe ömlik.
+- **Fontosabb tavak**: a **Genfi-tó** Svájccal közösen, az **Annecy-tó** az Alpokban.
+
+## 5. Népesség és városok
+- **Főváros**: **Párizs**, az ország észak-közép részén, a Szajna partján. Az ország lakossága kb. 68 millió fő.
+- **Fontos városok és kikötők**: **Marseille** (a legnagyobb francia kikötőváros, a Földközi-tengeren), **Lyon** (a Rhône és a Saône összefolyásánál), **Toulouse** (a repülőipar központja), valamint **Bordeaux**, **Strasbourg** és **Nizza**.
+
+## 6. Gazdaság és erőforrások
+- **Energiahordozók**: a villamosenergia-termelés nagy részét az atomenergia adja, az Alpokban és a Pireneusokban vízerőművek működnek, a szél- és napenergia egyre nő.
+- **Vezető iparágak**: a repülőgépipar (Airbus, Toulouse), az autóipar (Renault, Peugeot), a vegyipar és a gyógyszeripar, a divat- és luxusipar Párizsban.
+- **Mezőgazdaság**: a búza, a szőlő és a bortermelés (Bordeaux, Burgundia, Champagne), valamint a tejtermelés az északi részeken, a mediterrán gyümölcs- és zöldségtermesztés délen.
+- **Turizmus**: a világ egyik legnagyobb turisztikai célpontja Párizs, a Côte d'Azur, az Alpok és a Loire-völgyi kastélyok miatt.

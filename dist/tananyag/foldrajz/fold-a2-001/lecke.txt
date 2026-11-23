@@ -1,0 +1,48 @@
+ID: fold-a2-001
+CÍM: Románia természetföldrajza: domborzat, éghajlat, vízrajz, élővilág, talajok, erőforrások
+SZÖVEG:
+# Románia természetföldrajza
+Románia természeti adottságait a hegységek, a dombságok és a síkságok váltakozása határozza meg. A Kárpátok ívének belsejében és a Duna-medencében fekszik, éghajlata mérsékelt övi kontinentális, vízrajzát pedig a Duna és a Fekete-tenger határozza meg.
+
+## Domborzat
+- A **Kárpátok** ív alakban húzódnak át az országon. Három részük van: a **Keleti-Kárpátok**, a **Déli-Kárpátok** és a **Nyugati-Kárpátok**, utóbbihoz tartozik az Erdélyi-érchegység.
+- Románia legmagasabb csúcsai a **Déli-Kárpátokban** találhatók, például a Moldoveanu (2544 m) és a Retyezát (2509 m).
+- A hegyvidékek közé ékelődik az **Erdélyi-medence**, amely dombos, medence jellegű térszín.
+- A Déli-Kárpátoktól délre terül el a **Havasalföld**, az ország nagy kiterjedésű síksága.
+- Keleten a **Moldvai-fennsík**, délkeleten a **Dobrudzsa** fennsíkos vidéke található, ez utóbbi a Duna és a Fekete-tenger között húzódik.
+
+## Éghajlat
+- Románia éghajlata **mérsékelt övi kontinentális**, hideg telekkel és meleg nyarakkal.
+- A hegységekben hűvösebb és csapadékosabb az idő, a hó is tovább megmarad, mint a síkságokon.
+- A **Fekete-tenger** partján a tenger mérséklő hatása érvényesül, az ország legszárazabb tája viszont a Dobrudzsa.
+
+## Vízrajz
+- A Kárpátok lejtőiről érkező folyók többsége a Duna felé folyik. Fontos folyók: az **Olt**, a **Maros** (Mureș), a **Szeret** (Siret) és a **Prut**.
+- A Maros Magyarországon, Szeged közelében a Tiszába ömlik.
+- A Prut és a Szeret a Duna mellékfolyói.
+
+## A Duna
+- A Duna Romániában több mint 1000 km hosszan folyik, és a Vaskapu-szorosnál lép be az országba Szerbia felől.
+- A **Vaskapu** vízerőművei a Duna romániai szakaszán épültek.
+- A folyó deltájánál három főágra szakad: a Chilia-, a Sulina- és a Sfântu Gheorghe-ágra. A **Duna-delta** Európa második legnagyobb folyódeltája, és 1991 óta UNESCO világörökségi terület.
+- A Duna-delta vize édesebb, mint a tengeré, a torkolatvidék nádasokkal és tavakkal tarkított.
+
+## A Fekete-tenger
+- A Fekete-tenger sótartalma alacsonyabb az óceánokénál: kb. 18–22 ‰, míg a világóceánok vize kb. 35 ‰ sós.
+- A tenger mélyebb rétegeiben oxigénhiány van, ezért ott nincs élet.
+- A romániai partvonal hossza kb. 225 km. Itt található Constanța, Mangalia és Mamaia, a fő tengerparti üdülőhely.
+- A parti tavak közül a **Techirghiol** sósvizű, iszapos gyógytó.
+
+## Élővilág és talajok
+- A Kárpátok erdőövezete magasság szerint változik: alul tölgyesek és bükkösök, feljebb fenyvesek, a legmagasabb részeken havasi rétek.
+- A hegyvidéki erdőkben barna medve, hiúz és szarvas él.
+- A Duna-deltában nádasok és vízimadarak élnek, köztük a dalmát pelikán.
+- A síkságok talaja a termékeny **csernozjom**, a hegyvidéki erdők talaja barna erdőtalaj, a folyóvölgyekben öntéstalaj található.
+
+## Erőforrások
+- **Kőolaj és földgáz**: a hagyományos kőolajtermelés központja Ploiești, a földgázt Erdélyben és a Fekete-tenger tengeri mezőin termelik.
+- **Vízenergia**: a Vaskapu vízerőművei a Dunán.
+- **Szélenergia**: a Dobrudzsa szélerőműveiről ismert.
+- **Só**: az erdélyi sóbányák (Praid, Turda) évszázados hagyományra épülnek.
+- **Szén**: Románia szénkészletének nagy része barnaszén (lignit), ezt a Zsil-völgyben bányásszák.
+- **Erdők**: a Kárpátok erdei fontos faanyagforrások.

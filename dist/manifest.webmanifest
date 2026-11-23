@@ -1,0 +1,17 @@
+{
+  "name": "Érettségi 2027",
+  "short_name": "Érettségi 2027",
+  "description": "Felkészülés az érettségire 2027-ben.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#e7d5b8",
+  "theme_color": "#e7d5b8",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

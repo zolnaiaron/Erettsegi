@@ -1,0 +1,32 @@
+ID: fold-b5-at-001
+CÍM: Ausztria
+SZÖVEG:
+# Ausztria
+Ausztria Közép-Európa szárazföldi állama, az ország területének nagy része az Alpokban fekszik. Fővárosa Bécs. Az alábbi hat szempont mentén érdemes áttekinteni.
+
+## 1. Fekvés és határok
+- **Szárazföldi állam**: nincs tengerpartja, a Földközi-tengerhez és az Adriai-tengerhez sem fér hozzá közvetlenül.
+- **Szomszédai**: nyolc ország. Nyugaton Svájc és Liechtenstein, északnyugaton Németország, északon Csehország és Szlovákia, keleten Magyarország, délkeleten Szlovénia, délen Olaszország.
+
+## 2. Domborzat
+- **Fő domborzati egységek**: az ország déli és nyugati részét a **Keleti-Alpok** foglalja el, a Tauern-hegység, az Ötztali-Alpok és az Északi mészkő-Alpok. Keleten a **Kisalföld** és a Burgenland síkságai húzódnak a Pannon-medence felé.
+- **Domborzattípusok**: a Großglockner térségében a **Pasterze** gleccser, a Dachstein-fennsík karsztos mészkőképződményei és barlangjai, a Stájer-vulkánvidék kis vulkáni képződményei.
+- **Legmagasabb csúcs**: a **Großglockner** (3798 m), a Hohe Tauern hegységben.
+
+## 3. Éghajlat
+- **Éghajlati övezet és típus**: mérsékelt övi. A hegyvidéken alpesi éghajlat, hűvös nyarakkal és hosszú, havas telekkel. A keleti részeken kontinentális, szárazabb, melegebb nyarakkal. A nyugati tartományokban (Vorarlberg) óceáni hatás érvényesül, csapadékosabban.
+- **Jellemző szél**: a **Föhn** meleg, lefelé áramló szél az alpesi völgyekben, amely hirtelen olvasztja a havat.
+
+## 4. Vízrajz
+- **Főbb folyók és torkolatuk**: a **Duna** nyugat–keleti irányban szeli át az országot, Bécs mellett folyik, a Fekete-tengerbe ömlik. Az **Inn** Innsbruck mellett folyik, és Passaunál ömlik a Dunába. A **Mur** Graz mellett folyik, a Dráva felé tart. A **Dráva** Karintia területén folyik.
+- **Fontosabb tavak**: a **Fertő-tó** (Neusiedler See) Ausztria és Magyarország közös tava, Közép-Európa egyik legnagyobb sztyeptava. A **Wolfgangsee** a Salzkammergut üdülőtava.
+
+## 5. Népesség és városok
+- **Főváros**: **Bécs**, a Duna partján, az ország északkeleti részén. Az ország lakossága kb. 9 millió fő.
+- **Fontos városok**: **Graz** (Stájerország fővárosa, az ország második legnagyobb városa), **Linz** (Duna menti ipari város), **Salzburg** (Mozart szülővárosa, a Salzach partján), **Innsbruck** (Tirol fővárosa, az Inn völgyében).
+
+## 6. Gazdaság és erőforrások
+- **Energiahordozók**: a villamosenergia nagy részét vízerőművek adják. Atomerőmű nincs, az 1978-as népszavazás után az atomenergia használatától elálltak.
+- **Vezető iparágak**: a gépgyártás, az acélipar (Linz, a voestalpine), az elektronikai ipar, a vegyipar és a papíripar.
+- **Mezőgazdaság**: a tejtermelés és szarvasmarha-tenyésztés az Alpok lejtőin, a gabona és a szőlő (Wachau, Burgenland) a keleti síkságokon.
+- **Turizmus**: a síterepek (például Kitzbühel Tirolban), az alpesi tájak, Bécs kulturális örökségei és a salzburgi nevezetességek. A történelmi sóbányászat helye Hallstatt.

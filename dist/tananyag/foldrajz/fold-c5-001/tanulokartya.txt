@@ -1,0 +1,179 @@
+ID: fold-c5-kartya-001
+LECKE_ID: fold-c5-001
+ELŐLAP: Az EU népessége (kb.)
+HÁTLAP: 450 millió fő.
+---
+ID: fold-c5-kartya-002
+LECKE_ID: fold-c5-001
+ELŐLAP: Népesség-helyettesítési szint (teljes termékenységi arány)
+HÁTLAP: 2,1.
+---
+ID: fold-c5-kartya-003
+LECKE_ID: fold-c5-001
+ELŐLAP: Mi jellemzi az EU demográfiai helyzetét?
+HÁTLAP: Elöregedés és alacsony termékenység.
+---
+ID: fold-c5-kartya-004
+LECKE_ID: fold-c5-001
+ELŐLAP: Demográfiai fenntarthatóság egyik politikai eszköze
+HÁTLAP: Családtámogatási rendszer.
+---
+ID: fold-c5-kartya-005
+LECKE_ID: fold-c5-001
+ELŐLAP: Az EU termékenységi aránya (kb.)
+HÁTLAP: 1,5 (a helyettesítési szint alatt).
+---
+ID: fold-c5-kartya-006
+LECKE_ID: fold-c5-001
+ELŐLAP: Az EU klímasemlegességi célja
+HÁTLAP: 2050.
+---
+ID: fold-c5-kartya-007
+LECKE_ID: fold-c5-001
+ELŐLAP: Az EU klímaterve (2019)
+HÁTLAP: Európai Zöld Megállapodás (Green Deal).
+---
+ID: fold-c5-kartya-008
+LECKE_ID: fold-c5-001
+ELŐLAP: Mióta működik az EU kibocsátáskereskedelmi rendszere (ETS)?
+HÁTLAP: 2005 óta.
+---
+ID: fold-c5-kartya-009
+LECKE_ID: fold-c5-001
+ELŐLAP: Határkiigazító karbonadó az EU-ban
+HÁTLAP: CBAM.
+---
+ID: fold-c5-kartya-010
+LECKE_ID: fold-c5-001
+ELŐLAP: Szénbányászati térségek átállását támogató uniós alap
+HÁTLAP: Igazságos Átmeneti Alap.
+---
+ID: fold-c5-kartya-011
+LECKE_ID: fold-c5-001
+ELŐLAP: Az EU mesterséges intelligenciát szabályozó rendelete
+HÁTLAP: AI-rendelet (AI Act).
+---
+ID: fold-c5-kartya-012
+LECKE_ID: fold-c5-001
+ELŐLAP: Nagy online platformok versenyjogi szabályozása
+HÁTLAP: Digitális Piacokról szóló rendelet (DMA).
+---
+ID: fold-c5-kartya-013
+LECKE_ID: fold-c5-001
+ELŐLAP: GDPR alkalmazásának kezdete
+HÁTLAP: 2018.
+---
+ID: fold-c5-kartya-014
+LECKE_ID: fold-c5-001
+ELŐLAP: EU 2030-ig szóló digitális célkitűzései
+HÁTLAP: Digitális évtized (Digital Decade).
+---
+ID: fold-c5-kartya-015
+LECKE_ID: fold-c5-001
+ELŐLAP: Az EU-s digitális szabályozás célcsoportja
+HÁTLAP: A nagy technológiai platformok is.
+---
+ID: fold-c5-kartya-016
+LECKE_ID: fold-c5-001
+ELŐLAP: Az EU jövőjéről szóló vita formája (2021–2022)
+HÁTLAP: Európa-konferencia.
+---
+ID: fold-c5-kartya-017
+LECKE_ID: fold-c5-001
+ELŐLAP: EU biztonság- és védelempolitikai irányvonal (2022)
+HÁTLAP: Stratégiai Iránytű.
+---
+ID: fold-c5-kartya-018
+LECKE_ID: fold-c5-001
+ELŐLAP: Mely két ország tagjelölt 2022-től?
+HÁTLAP: Ukrajna és Moldova.
+---
+ID: fold-c5-kartya-019
+LECKE_ID: fold-c5-001
+ELŐLAP: Tagállami védelmi együttműködési keret (2017)
+HÁTLAP: PESCO.
+---
+ID: fold-c5-kartya-020
+LECKE_ID: fold-c5-001
+ELŐLAP: Többsebességes Európa
+HÁTLAP: Eltérő integrációs mélység a tagállamok között.
+---
+ID: fold-c5-kartya-021
+LECKE_ID: fold-c5-001
+ELŐLAP: Mitől függ a nyugdíjrendszer fenntarthatósága?
+HÁTLAP: Az idős népesség és a dolgozók arányától.
+---
+ID: fold-c5-kartya-022
+LECKE_ID: fold-c5-001
+ELŐLAP: Nyugdíjrendszer, ahol a dolgozók befizetése fedezi a nyugdíjasokat
+HÁTLAP: Felosztó-kirovó rendszer.
+---
+ID: fold-c5-kartya-023
+LECKE_ID: fold-c5-001
+ELŐLAP: Nyugdíjrendszer, ahol a befizetések befektetésekből gyarapodnak
+HÁTLAP: Tőkefedezeti rendszer.
+---
+ID: fold-c5-kartya-024
+LECKE_ID: fold-c5-001
+ELŐLAP: Foglalkoztatást és készségfejlesztést támogató uniós alap
+HÁTLAP: Európai Szociális Alap (ESZA).
+---
+ID: fold-c5-kartya-025
+LECKE_ID: fold-c5-001
+ELŐLAP: A népességcsökkenés munkaerőre gyakorolt hatása
+HÁTLAP: Munkaerőhiányt okoz.
+---
+ID: fold-c5-kartya-026
+LECKE_ID: fold-c5-001
+ELŐLAP: Mióta csökken Románia lakossága?
+HÁTLAP: 1990 óta.
+---
+ID: fold-c5-kartya-027
+LECKE_ID: fold-c5-001
+ELŐLAP: Románia népességcsökkenésének fő oka
+HÁTLAP: Elvándorlás.
+---
+ID: fold-c5-kartya-028
+LECKE_ID: fold-c5-001
+ELŐLAP: Román Helyreállítási Terv (PNRR) két fő átállási iránya
+HÁTLAP: Zöld és digitális átállás.
+---
+ID: fold-c5-kartya-029
+LECKE_ID: fold-c5-001
+ELŐLAP: Az ETS fő célja
+HÁTLAP: A kibocsátások csökkentése piaci eszközökkel.
+---
+ID: fold-c5-kartya-030
+LECKE_ID: fold-c5-001
+ELŐLAP: Digitális átállás hatása a vidéki térségekre
+HÁTLAP: Munkalehetőséget teremthet, ha az infrastruktúra fejlődik.
+---
+ID: fold-c5-kartya-031
+LECKE_ID: fold-c5-001
+ELŐLAP: Az Európai Zöld Megállapodás (Green Deal) évszáma
+HÁTLAP: 2019.
+---
+ID: fold-c5-kartya-032
+LECKE_ID: fold-c5-001
+ELŐLAP: A Stratégiai Iránytű évszáma
+HÁTLAP: 2022.
+---
+ID: fold-c5-kartya-033
+LECKE_ID: fold-c5-001
+ELŐLAP: Az EU-ban alkalmazott digitális adatvédelmi szabály
+HÁTLAP: GDPR.
+---
+ID: fold-c5-kartya-034
+LECKE_ID: fold-c5-001
+ELŐLAP: A határkiigazító karbonadó (CBAM) célja
+HÁTLAP: Az uniós vállalatok ne kerüljenek hátrányba a magas kibocsátású importtal szemben.
+---
+ID: fold-c5-kartya-035
+LECKE_ID: fold-c5-001
+ELŐLAP: Az elöregedés egyik következménye az EU-ban
+HÁTLAP: Nyomás a nyugdíj- és egészségügyi rendszerekre.
+---
+ID: fold-c5-kartya-036
+LECKE_ID: fold-c5-001
+ELŐLAP: Az EU-jövőkép egyik vitatott kérdése
+HÁTLAP: Egységes vagy többsebességes integráció.

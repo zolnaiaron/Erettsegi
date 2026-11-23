@@ -1,0 +1,179 @@
+ID: fold-b5-it-kartya-001
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország szárazföldi szomszédainak száma
+HÁTLAP: 4 (Franciaország, Svájc, Ausztria, Szlovénia).
+---
+ID: fold-b5-it-kartya-002
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország nyugati tengere
+HÁTLAP: Tirrén-tenger.
+---
+ID: fold-b5-it-kartya-003
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország keleti tengere
+HÁTLAP: Adriai-tenger.
+---
+ID: fold-b5-it-kartya-004
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Vatikán helye
+HÁTLAP: Róma területén belül, enkláve.
+---
+ID: fold-b5-it-kartya-005
+LECKE_ID: fold-b5-it-001
+ELŐLAP: San Marino helye
+HÁTLAP: Olaszország területén belül, enkláve.
+---
+ID: fold-b5-it-kartya-006
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország északi szomszédai
+HÁTLAP: Svájc, Ausztria, Szlovénia (nyugaton Franciaország).
+---
+ID: fold-b5-it-kartya-007
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország legmagasabb aktív vulkánja
+HÁTLAP: Etna (Szicília), 3357 m.
+---
+ID: fold-b5-it-kartya-008
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország gerince
+HÁTLAP: Appenninek.
+---
+ID: fold-b5-it-kartya-009
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Velence és Milánó közötti síkság
+HÁTLAP: Pó-síkság.
+---
+ID: fold-b5-it-kartya-010
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Dolomitok helye
+HÁTLAP: Az Alpok keleti részén, Olaszországban.
+---
+ID: fold-b5-it-kartya-011
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Karsztos vidék Trieszt környékén
+HÁTLAP: Karszt (Carso).
+---
+ID: fold-b5-it-kartya-012
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Nápoly közelében működő aktív vulkán
+HÁTLAP: Vezúv.
+---
+ID: fold-b5-it-kartya-013
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Dél-Olaszország éghajlata
+HÁTLAP: Mediterrán.
+---
+ID: fold-b5-it-kartya-014
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Afrikából érkező forró szél Szicíliában
+HÁTLAP: Sirocco.
+---
+ID: fold-b5-it-kartya-015
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Triesztnél fújó hideg északkeleti szél
+HÁTLAP: Bora.
+---
+ID: fold-b5-it-kartya-016
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Szardínia térségének hideg északnyugati szele
+HÁTLAP: Maestrale.
+---
+ID: fold-b5-it-kartya-017
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország északi éghajlata
+HÁTLAP: Mérsékelt, az Alpok hatására hegyvidéki elemekkel.
+---
+ID: fold-b5-it-kartya-018
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Dél-Olaszország nyári csapadéka
+HÁTLAP: Általában alacsony.
+---
+ID: fold-b5-it-kartya-019
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország leghosszabb folyója
+HÁTLAP: Pó (az Adriai-tengerbe ömlik).
+---
+ID: fold-b5-it-kartya-020
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Rómán átfolyó folyó
+HÁTLAP: Tiber (a Tirrén-tengerbe ömlik).
+---
+ID: fold-b5-it-kartya-021
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Firenze folyója
+HÁTLAP: Arno.
+---
+ID: fold-b5-it-kartya-022
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország legnagyobb tava
+HÁTLAP: Garda-tó.
+---
+ID: fold-b5-it-kartya-023
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Milánó közelében fekvő tó
+HÁTLAP: Como-tó.
+---
+ID: fold-b5-it-kartya-024
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Verona folyója, amely az Adriai-tengerbe ömlik
+HÁTLAP: Adige.
+---
+ID: fold-b5-it-kartya-025
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország fővárosa
+HÁTLAP: Róma (a Tiber partján).
+---
+ID: fold-b5-it-kartya-026
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország pénzügyi és divatközpontja
+HÁTLAP: Milánó.
+---
+ID: fold-b5-it-kartya-027
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Tirrén-tenger partján fekvő nagy kikötőváros
+HÁTLAP: Nápoly.
+---
+ID: fold-b5-it-kartya-028
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Velence jellemzője
+HÁTLAP: Lagúnákra épült város.
+---
+ID: fold-b5-it-kartya-029
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Szicília fővárosa
+HÁTLAP: Palermo.
+---
+ID: fold-b5-it-kartya-030
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország lakossága
+HÁTLAP: Kb. 59 millió fő.
+---
+ID: fold-b5-it-kartya-031
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Olaszország atomenergia-politikája
+HÁTLAP: Nincs működő atomerőmű (1987-es népszavazás után kivezették).
+---
+ID: fold-b5-it-kartya-032
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Híres geotermikus erőmű Toszkánában
+HÁTLAP: Larderello.
+---
+ID: fold-b5-it-kartya-033
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Ferrari székhelye
+HÁTLAP: Maranello.
+---
+ID: fold-b5-it-kartya-034
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Fiat székhelye
+HÁTLAP: Torino.
+---
+ID: fold-b5-it-kartya-035
+LECKE_ID: fold-b5-it-001
+ELŐLAP: UNESCO-helyszínek száma Olaszországban (a világon)
+HÁTLAP: Az egyik legtöbb a világon.
+---
+ID: fold-b5-it-kartya-036
+LECKE_ID: fold-b5-it-001
+ELŐLAP: Rizstermelő térség Olaszországban
+HÁTLAP: A Pó-síkság (Lombardia, Piemont).

@@ -1,0 +1,257 @@
+ID: fold-b5-pt-kviz-001
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Portugáliának csak egy szárazföldi szomszédja van, Spanyolország.
+HELYES: Igaz
+MAGYARÁZAT: Portugália egyetlen szárazföldi határa a spanyol határ, az ország többi oldalát tenger határolja.
+---
+ID: fold-b5-pt-kviz-002
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik óceán határolja Portugália nyugati és déli partjait?
+HELYES: Atlanti-óceán
+ROSSZ1: Indiai-óceán
+ROSSZ2: Csendes-óceán
+ROSSZ3: Földközi-tenger
+MAGYARÁZAT: Portugália nyugati és déli partjait az Atlanti-óceán mossa. Az Algarve déli partja is az óceán része.
+---
+ID: fold-b5-pt-kviz-003
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Azori- és a Madeira-szigetek az Atlanti-óceánon fekszenek, és Portugáliához tartoznak.
+HELYES: Igaz
+MAGYARÁZAT: Mindkét szigetcsoport az Atlanti-óceánon fekszik, politikailag Portugália része.
+---
+ID: fold-b5-pt-kviz-004
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Európa szárazföldjének legnyugatibb pontja Portugáliában?
+HELYES: Cabo da Roca
+ROSSZ1: Cabo de Finisterre
+ROSSZ2: Land's End
+ROSSZ3: Cabo de Gata
+MAGYARÁZAT: A Cabo da Roca Portugáliában található, Európa szárazföldi legnyugatibb pontja. A Cabo de Finisterre Spanyolországban, a Land's End Nagy-Britanniában, a Cabo de Gata szintén Spanyolországban van.
+---
+ID: fold-b5-pt-kviz-005
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A spanyol–portugál határ déli részét a Guadiana folyó alkotja.
+HELYES: Igaz
+MAGYARÁZAT: A Guadiana az Algarve és Andalúzia közötti határfolyó, az Atlanti-óceánba ömlik.
+---
+ID: fold-b5-pt-kviz-006
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Mi Portugália legmagasabb szárazföldi csúcsa?
+HELYES: Torre
+ROSSZ1: Pico
+ROSSZ2: Mulhacén
+ROSSZ3: Aneto
+MAGYARÁZAT: A Torre 1993 m magas, a Serra da Estrela hegységben. A Pico az Azori-szigeteken van, a Mulhacén Spanyolországban, az Aneto a Pireneusokban.
+---
+ID: fold-b5-pt-kviz-007
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Algarve mészkőből álló karsztos képződményeket is tartalmaz.
+HELYES: Igaz
+MAGYARÁZAT: Az Algarve mészkőfennsíkján karsztos formák, barlangok és sziklás tengerparti szakaszok találhatók.
+---
+ID: fold-b5-pt-kviz-008
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nagy kiterjedésű síkság található Portugália déli részén?
+HELYES: Alentejo
+ROSSZ1: Minho
+ROSSZ2: Trás-os-Montes
+ROSSZ3: Douro-völgy
+MAGYARÁZAT: Az Alentejo az ország délkeleti részén elterülő nagy síkság és fennsík. A többi felsorolt térség északi hegyvidéki vagy völgyes terület.
+---
+ID: fold-b5-pt-kviz-009
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Serra da Estrela-ban jégkorszaki eredetű formák találhatók.
+HELYES: Igaz
+MAGYARÁZAT: A hegység magas részein glaciális völgyek és cirkuszok láthatók, a jégkorszaki gleccserek nyomai.
+---
+ID: fold-b5-pt-kviz-010
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Mi Portugália legmagasabb pontja, amely vulkáni eredetű?
+HELYES: Pico
+ROSSZ1: Torre
+ROSSZ2: Mulhacén
+ROSSZ3: Aneto
+MAGYARÁZAT: A Pico 2351 m magas vulkán az Azori-szigeteken, ez az ország legmagasabb pontja. A többi felsorolt csúcs nem vulkáni és nem Portugáliában van.
+---
+ID: fold-b5-pt-kviz-011
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Milyen éghajlattípus jellemzi az Algarve-ot?
+HELYES: mediterrán
+ROSSZ1: sarkvidéki
+ROSSZ2: trópusi
+ROSSZ3: tundra
+MAGYARÁZAT: Az Algarve forró, száraz nyarú mediterrán éghajlatú térség.
+---
+ID: fold-b5-pt-kviz-012
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Portugália északi részén csapadékosabb, óceáni éghajlat uralkodik.
+HELYES: Igaz
+MAGYARÁZAT: Az északi vidékek az Atlanti-óceán közelsége miatt enyhébbek és csapadékosabbak.
+---
+ID: fold-b5-pt-kviz-013
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szél fúj nyáron, észak felől, a portugál tengerparton?
+HELYES: Nortada
+ROSSZ1: Levante
+ROSSZ2: Sirocco
+ROSSZ3: Mistral
+MAGYARÁZAT: A Nortada nyáron az észak felől érkező, hűvösítő szél a partvidéken. A Levante Spanyolország keleti szele, a Sirocco afrikai, a Mistral francia szél.
+---
+ID: fold-b5-pt-kviz-014
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Alentejo nyara forró és száraz.
+HELYES: Igaz
+MAGYARÁZAT: Az Alentejo a belső, tengertől távolabbi részen forró és száraz nyarakat tapasztal.
+---
+ID: fold-b5-pt-kviz-015
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik forró keleti szél éri el gyakran Portugáliát?
+HELYES: Leste
+ROSSZ1: Nortada
+ROSSZ2: Bora
+ROSSZ3: Tramontana
+MAGYARÁZAT: A Leste forró keleti szél, amely a szárazföldről érkezik és magas hőmérsékletet hoz. A Nortada északi, a Bora és a Tramontana más tájak hideg szele.
+---
+ID: fold-b5-pt-kviz-016
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó folyik át Lisszabonon?
+HELYES: Tejo (Tajo)
+ROSSZ1: Douro
+ROSSZ2: Guadiana
+ROSSZ3: Mondego
+MAGYARÁZAT: A Tejo Lisszabonon át az Atlanti-óceánba ömlik. A Douro Portónál, a Guadiana a déli határon, a Mondego Coimbránál folyik.
+---
+ID: fold-b5-pt-kviz-017
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Douro Portónál torkollik az Atlanti-óceánba.
+HELYES: Igaz
+MAGYARÁZAT: A Douro Porto városánál ömlik az Atlanti-óceánba, a folyó völgye a portói borvidék.
+---
+ID: fold-b5-pt-kviz-018
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó alkotja Portugália és Spanyolország határának déli részét?
+HELYES: Guadiana
+ROSSZ1: Tejo
+ROSSZ2: Douro
+ROSSZ3: Mondego
+MAGYARÁZAT: A Guadiana alkotja a déli spanyol–portugál határt, és az Atlanti-óceánba torkollik.
+---
+ID: fold-b5-pt-kviz-019
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Alqueva-víztározó Nyugat-Európa egyik legnagyobb mesterséges tava.
+HELYES: Igaz
+MAGYARÁZAT: Az Alqueva-gát a Guadiana folyón épült, a víztározó Nyugat-Európa legnagyobb mesterséges tava.
+---
+ID: fold-b5-pt-kviz-020
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó folyik Coimbra mellett?
+HELYES: Mondego
+ROSSZ1: Tejo
+ROSSZ2: Guadiana
+ROSSZ3: Douro
+MAGYARÁZAT: A Mondego Coimbra városán át folyik. A többi felsorolt folyó más városok mellett van.
+---
+ID: fold-b5-pt-kviz-021
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Portugália fővárosa?
+HELYES: Lisszabon
+ROSSZ1: Porto
+ROSSZ2: Coimbra
+ROSSZ3: Faro
+MAGYARÁZAT: Lisszabon Portugália fővárosa, a Tejo torkolatánál. Porto az ország második legnagyobb városa, Coimbra egyetemi város, Faro az Algarve fővárosa.
+---
+ID: fold-b5-pt-kviz-022
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Porto Portugália második legnagyobb városa.
+HELYES: Igaz
+MAGYARÁZAT: Porto a Douro partján fekszik, és az ország második legnagyobb városa Lisszabon után.
+---
+ID: fold-b5-pt-kviz-023
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik régi egyetemi város fekszik a Mondego partján?
+HELYES: Coimbra
+ROSSZ1: Braga
+ROSSZ2: Faro
+ROSSZ3: Évora
+MAGYARÁZAT: Coimbra a Mondego partján fekvő régi egyetemi város. Braga az északi részen, Faro az Algarve-ban, Évora az Alentejo-ban található.
+---
+ID: fold-b5-pt-kviz-024
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Faro az Algarve fővárosa.
+HELYES: Igaz
+MAGYARÁZAT: Faro az Algarve tartomány székhelye, a régió igazgatási központja.
+---
+ID: fold-b5-pt-kviz-025
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Madeira fővárosa?
+HELYES: Funchal
+ROSSZ1: Ponta Delgada
+ROSSZ2: Angra do Heroísmo
+ROSSZ3: Horta
+MAGYARÁZAT: Funchal Madeira szigetének fővárosa. Ponta Delgada São Miguel, Angra do Heroísmo Terceira, Horta Faial szigetének székhelye az Azori-szigeteken.
+---
+ID: fold-b5-pt-kviz-026
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Portugália a világ legnagyobb parafatermelője.
+HELYES: Igaz
+MAGYARÁZAT: A parafa a parafatölgy kérgéből készül, és Portugália a világ legnagyobb termelője ezen a téren.
+---
+ID: fold-b5-pt-kviz-027
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nagy autóipari gyár működik Palmelában?
+HELYES: Autoeuropa
+ROSSZ1: SEAT
+ROSSZ2: Renault
+ROSSZ3: Ford
+MAGYARÁZAT: Az Autoeuropa a Volkswagen portugál gyára Palmelában, Lisszabon közelében. A többi felsorolt márka más országokban gyárt.
+---
+ID: fold-b5-pt-kviz-028
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Portugáliában nincs működő atomerőmű.
+HELYES: Igaz
+MAGYARÁZAT: Portugália nem termel atomenergiát, a villamosenergia nagy részét megújuló forrásokból állítja elő.
+---
+ID: fold-b5-pt-kviz-029
+LECKE_ID: fold-b5-pt-001
+TÍPUS: választásos
+KÉRDÉS: Melyik világhírű bortípus származik a Douro-völgyből?
+HELYES: portói bor
+ROSSZ1: Vinho Verde
+ROSSZ2: Chianti
+ROSSZ3: Rioja
+MAGYARÁZAT: A portói bor a Douro-völgyben termett szőlőből készül. A Vinho Verde az északi Minho-vidék bora, a Chianti Olaszország, a Rioja Spanyolország bora.
+---
+ID: fold-b5-pt-kviz-030
+LECKE_ID: fold-b5-pt-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A halászat, különösen a szardínia fogása, fontos ágazat Portugáliában.
+HELYES: Igaz
+MAGYARÁZAT: A szardínia Portugália egyik legfontosabb halászati terméke, a parti kikötők gazdaságának része.

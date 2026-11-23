@@ -1,0 +1,34 @@
+ID: fold-b5-uk-001
+CÍM: Egyesült Királyság
+SZÖVEG:
+# Egyesült Királyság
+Az Egyesült Királyság Nyugat-Európa szigetországa, négy nemzetből áll: Anglia, Skócia, Wales és Észak-Írország. Fővárosa London. Az Európai Uniónak 2020 óta nem tagja. Az alábbi hat szempont mentén érdemes áttekinteni.
+
+## 1. Fekvés és határok
+- **Tengerparti állam**: az egész ország tengerparti, a Brit-szigeteken fekszik. Keleten az Északi-tenger, délen a La Manche (Csatorna), nyugaton az Ír-tenger és az Atlanti-óceán határolja.
+- **Szárazföldi határa**: egyetlen szárazföldi határa van, Észak-Írország és Írország (Ír Köztársaság) között.
+- A Franciaországtól a La Manche választja el, a legszűkebb pontján alig harminc kilométeres a tengerszoros.
+
+## 2. Domborzat
+- **Fő domborzati egységek**: a Skót-felföld (Highlands) Skócia északi részén, a Skót-alföld és a Déli-felföld, Anglia gerincét adó Pennini-hegység, a Lake District hegyvidéke Angliában, és Wales hegyes vidéke.
+- **Domborzattípusok**: a Skót-felföldön és a Lake District-ben jégkorszaki eredetű formák (U-alakú völgyek, tavak, cirkuszok). A Mendip-hegységben karsztos mészkőképződmények, például a Cheddar-szurdok találhatók. Észak-Írországban a **Giant's Causeway** vulkáni eredetű bazaltoszlopokból áll.
+- **Legmagasabb csúcs**: a **Ben Nevis** (1345 m), a Skót-felföldön. Angliában a **Scafell Pike** (978 m), Walesben a **Snowdon** (1085 m) a legmagasabb.
+
+## 3. Éghajlat
+- **Éghajlati övezet és típus**: mérsékelt övi, mérsékelt óceáni éghajlat, enyhe telekkel, mérsékelten hűvös nyarakkal és gyakori csapadékkal.
+- **Jellemző szelek**: a nyugati és délnyugati szelek dominálnak, a Golf-áramlat hatására az ország nyugati részei enyhébbek a kontinens azonos szélességi fokain fekvő részeinél.
+- Az ország legszárazabb és legmelegebb része a délkeleti Anglia, míg Skócia hegyvidéki részei hidegebbek és csapadékosabbak.
+
+## 4. Vízrajz
+- **Főbb folyók és torkolatuk**: a **Severn** az ország leghosszabb folyója, a Bristoli-csatornába ömlik. A **Temze** Londonon át folyik és az Északi-tengerbe torkollik. Skóciában a **Tay** a leghosszabb folyó.
+- **Fontosabb tavak**: a **Loch Ness** (Skóciában, a legendás szörnyről híres), a **Loch Lomond** Skócia legnagyobb területű tava, a **Windermere** pedig Anglia legnagyobb természetes tava a Lake District-ben.
+
+## 5. Népesség és városok
+- **Főváros**: **London**, a Temze partján, az ország délkeleti részén. Az Egyesült Királyság lakossága kb. 68 millió fő.
+- **Fontos városok és kikötők**: **Birmingham** (London után a legnagyobb város), **Manchester** (az ipari forradalom egyik központja), **Liverpool** (a Mersey partján fekvő kikötőváros), **Edinburgh** (Skócia fővárosa), **Glasgow** (Skócia legnépesebb városa), **Cardiff** (Wales fővárosa) és **Belfast** (Észak-Írország fővárosa).
+
+## 6. Gazdaság és erőforrások
+- **Energiahordozók**: az Északi-tengeri olaj- és gázkitermelés régóta fontos, de csökken. A szénerőműveket 2024-ben zárták be. A tengeri szélerőművek terén az ország világszinten is élen jár, az atomenergia (például a Sizewell B erőmű) szintén fontos.
+- **Vezető iparágak**: a pénzügyi szolgáltatások Londonban, a kreatív iparágak (film, zene, játékipar), a gyógyszeripar (például GSK, AstraZeneca), valamint a repülőgép-hajtóműgyártás (Rolls-Royce, Derby).
+- **Mezőgazdaság**: a juhtenyésztés Walesben és a skót felföldön, a gabonatermesztés (árpa, búza) Anglia keleti részén, a tejtermelés nyugaton.
+- **Turizmus**: London nevezetességei, az edinburghi fesztivál, a Lake District tájai és a wiltshire-i Stonehenge, amely UNESCO világörökségi helyszín.

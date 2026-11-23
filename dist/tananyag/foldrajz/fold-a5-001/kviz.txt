@@ -1,0 +1,254 @@
+ID: fold-a5-kviz-001
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik országon NEM húzódik át a Kárpátok íve?
+HELYES: Németország
+ROSSZ1: Ukrajna
+ROSSZ2: Románia
+ROSSZ3: Szlovákia
+MAGYARÁZAT: A Kárpátok Csehország, Szlovákia, Lengyelország, Ukrajna, Magyarország, Románia és Szerbia területén húzódik, Németországban nem.
+---
+ID: fold-a5-kviz-002
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kárpátok ívének belsejében fekszik a Kárpát-medence.
+HELYES: Igaz
+MAGYARÁZAT: A Kárpát-medence (Pannon-medence) a Kárpátok íve által körülvett medence.
+---
+ID: fold-a5-kviz-003
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Mi a Kárpátok legmagasabb csúcsa?
+HELYES: Gerlachi-csúcs
+ROSSZ1: Moldoveanu
+ROSSZ2: Kékes
+ROSSZ3: Retyezát
+MAGYARÁZAT: A szlovákiai Gerlachi-csúcs 2655 m magas, a Kárpátok legmagasabb pontja.
+---
+ID: fold-a5-kviz-004
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kékes Magyarország legmagasabb pontja, a Mátrában, és a Kárpátok része.
+HELYES: Igaz
+MAGYARÁZAT: A Kékes a Mátrában található, az Északi-középhegység része, amely a Nyugati-Kárpátokhoz tartozik.
+---
+ID: fold-a5-kviz-005
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik részéhez tartozik a Hargita-hegység?
+HELYES: Keleti-Kárpátok
+ROSSZ1: Déli-Kárpátok
+ROSSZ2: Nyugati-Kárpátok
+ROSSZ3: Bánsági-hegység
+MAGYARÁZAT: A Hargita a Keleti-Kárpátok romániai szakaszán, Hargita és Kovászna megye területén fekszik.
+---
+ID: fold-a5-kviz-006
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Déli-Kárpátok legmagasabb csúcsai Szlovákiában vannak.
+HELYES: Hamis
+MAGYARÁZAT: A Déli-Kárpátok legmagasabb csúcsai Romániában találhatók, például a Moldoveanu.
+---
+ID: fold-a5-kviz-007
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Milyen kőzetekből áll a Kárpátok belső, kristályos magja?
+HELYES: metamorf és magmás kőzetekből
+ROSSZ1: vulkáni tufából
+ROSSZ2: homokkőből
+ROSSZ3: sóból
+MAGYARÁZAT: A kristályos mag metamorf és magmás kőzetekből épül fel.
+---
+ID: fold-a5-kviz-008
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Hargita, a Gurghiu és a Călimani vulkáni eredetű hegységek.
+HELYES: Igaz
+MAGYARÁZAT: A Keleti-Kárpátok e részei egykori vulkáni tevékenység eredményei.
+---
+ID: fold-a5-kviz-009
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Milyen geológiai folyamat hozta létre a Kárpátokat?
+HELYES: alpi hegységképződés
+ROSSZ1: kaledóniai hegységképződés
+ROSSZ2: variszkuszi hegységképződés
+ROSSZ3: hasadékvölgyi süllyedés
+MAGYARÁZAT: A Kárpátok az alpi hegységképződés során gyűrődtek fel.
+---
+ID: fold-a5-kviz-010
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A flis üledékes kőzetes övezet a Keleti-Kárpátok külső szakaszán található.
+HELYES: Igaz
+MAGYARÁZAT: A flis a Kárpátok külső, üledékes öve, a Keleti-Kárpátok külső részén.
+---
+ID: fold-a5-kviz-011
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nagy folyó ered a Kárpátokban, és a Balti-tengerbe ömlik?
+HELYES: Visztula
+ROSSZ1: Duna
+ROSSZ2: Dnyeszter
+ROSSZ3: Tisza
+MAGYARÁZAT: A Visztula Lengyelországon át a Balti-tengerbe ömlik.
+---
+ID: fold-a5-kviz-012
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kárpátokból eredő folyók mind a Fekete-tengerbe ömlenek.
+HELYES: Hamis
+MAGYARÁZAT: A Visztula a Balti-tengerbe ömlik, a Dnyeszter és a Duna a Fekete-tengerbe.
+---
+ID: fold-a5-kviz-013
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik fafaj jellemzi a Kárpátok magasabb, hűvösebb övét?
+HELYES: fenyő
+ROSSZ1: tölgy
+ROSSZ2: akác
+ROSSZ3: platán
+MAGYARÁZAT: A lucfenyvesek a Kárpátok hűvösebb, magasabb régióinak jellemző erdei.
+---
+ID: fold-a5-kviz-014
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kárpátok magasabb fekvésű részein törpefenyő nő.
+HELYES: Igaz
+MAGYARÁZAT: A törpefenyő a szubalpin övezet jellemző növénye.
+---
+ID: fold-a5-kviz-015
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szarvasféle jellemző a Kárpátok magas, sziklás vidékeire?
+HELYES: zerge
+ROSSZ1: őz
+ROSSZ2: dámvad
+ROSSZ3: rénszarvas
+MAGYARÁZAT: A zerge a magas hegyi sziklákon él.
+---
+ID: fold-a5-kviz-016
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kárpátok ősbükkösei részben UNESCO világörökségi területek.
+HELYES: Igaz
+MAGYARÁZAT: A Kárpátok ősbükkösei közül több terület szerepel az UNESCO világörökségi listáján.
+---
+ID: fold-a5-kviz-017
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nemzeti park található Szlovákia területén, a Tátrában?
+HELYES: Tátrai Nemzeti Park
+ROSSZ1: Retyezát Nemzeti Park
+ROSSZ2: Piatra Craiului Nemzeti Park
+ROSSZ3: Bieszczady Nemzeti Park
+MAGYARÁZAT: A Tátrai Nemzeti Park a szlovák oldalon található, a Bieszczady Lengyelországban fekszik.
+---
+ID: fold-a5-kviz-018
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kárpátok erdei fontos szerepet töltenek be a vízgazdálkodásban.
+HELYES: Igaz
+MAGYARÁZAT: Az erdők szabályozzák a lefolyást, csökkentik az árvízveszélyt és védik a talajt.
+---
+ID: fold-a5-kviz-019
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Mi volt a Kárpátok hegyi közösségeinek hagyományos megélhetési formája?
+HELYES: pásztorkodás
+ROSSZ1: halászat
+ROSSZ2: rizstermesztés
+ROSSZ3: szőlőművelés
+MAGYARÁZAT: A pásztorkodás, a juhászat és a transzhumancia a hegyi gazdálkodás hagyományos formái voltak.
+---
+ID: fold-a5-kviz-020
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kárpátokban arany- és rézérc-lelőhelyek is találhatók.
+HELYES: Igaz
+MAGYARÁZAT: Erdély területén hagyományosan aranyat és rézércet bányásztak.
+---
+ID: fold-a5-kviz-021
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik erdélyi település sóbányájáról ismert?
+HELYES: Torda
+ROSSZ1: Brassó
+ROSSZ2: Nagyszeben
+ROSSZ3: Sepsiszentgyörgy
+MAGYARÁZAT: A tordai sóbánya évszázados hagyományra tekint vissza.
+---
+ID: fold-a5-kviz-022
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az éghajlatváltozás a Kárpátok magasabb régióinak ökoszisztémáját is érinti.
+HELYES: Igaz
+MAGYARÁZAT: A hegyvidéki élőhelyek érzékenyek a hőmérséklet és a csapadék változására.
+---
+ID: fold-a5-kviz-023
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tevékenység veszélyezteti leginkább a Kárpátok vadon élő állatvilágát?
+HELYES: orvvadászat
+ROSSZ1: természetvédelmi program
+ROSSZ2: ökoturizmus
+ROSSZ3: erdőtelepítés
+MAGYARÁZAT: Az orvvadászat csökkenti a nagyragadozók és a nagytestű állatok állományát.
+---
+ID: fold-a5-kviz-024
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kárpátok turizmusa semmilyen környezeti terhelést nem okoz.
+HELYES: Hamis
+MAGYARÁZAT: A turizmus, a sípályák és az infrastruktúra-fejlesztés jelentős terhelést jelent az élőhelyekre.
+---
+ID: fold-a5-kviz-025
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik síterület található Brassó közelében?
+HELYES: Poiana Brașov
+ROSSZ1: Zakopane
+ROSSZ2: Bukovel
+ROSSZ3: Jasná
+MAGYARÁZAT: A Poiana Brașov Brassó közelében fekvő romániai síközpont.
+---
+ID: fold-a5-kviz-026
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az utak és a sípályák fejlesztése feldarabolhatja a hegyvidéki élőhelyeket.
+HELYES: Igaz
+MAGYARÁZAT: Az infrastruktúra szétválasztja az élőhelyeket, így nehezebb a vadon élő állatok vándorlása.
+---
+ID: fold-a5-kviz-027
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik hegység fekszik Szlovákia és Lengyelország határán?
+HELYES: Tátra
+ROSSZ1: Retyezát
+ROSSZ2: Máramarosi-havasok
+ROSSZ3: Hargita
+MAGYARÁZAT: A Tátra a szlovák–lengyel határ menti hegység.
+---
+ID: fold-a5-kviz-028
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A romániai Kárpátokból eredő folyók többsége a Dunába ömlik.
+HELYES: Igaz
+MAGYARÁZAT: A Maros, az Olt, a Szeret és a Prut is a Duna vízgyűjtőjéhez tartozik.
+---
+ID: fold-a5-kviz-029
+LECKE_ID: fold-a5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik medencét veszi körül a Kárpátok íve?
+HELYES: Kárpát-medence (Pannon-medence)
+ROSSZ1: Balkán-medence
+ROSSZ2: Eurázsiai-síkság
+ROSSZ3: Pó-síkság
+MAGYARÁZAT: A Kárpátok íve a Kárpát-medencét, más néven Pannon-medencét öleli körül.
+---
+ID: fold-a5-kviz-030
+LECKE_ID: fold-a5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kárpátok szlovákiai és ukrajnai szakaszai is a hegységrendszer részei.
+HELYES: Igaz
+MAGYARÁZAT: A hegységrendszer ívének minden szakasza a Kárpátok része, az országhatárokon átívelve.

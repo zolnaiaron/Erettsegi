@@ -1,0 +1,179 @@
+ID: fold-c4-kartya-001
+LECKE_ID: fold-c4-001
+ELŐLAP: A globalizáció lényege
+HÁTLAP: A gazdasági, kulturális és technológiai kapcsolatok világméretű összefonódása.
+---
+ID: fold-c4-kartya-002
+LECKE_ID: fold-c4-001
+ELŐLAP: A 20. század végi globalizáció fő gyorsítója
+HÁTLAP: Az internet.
+---
+ID: fold-c4-kartya-003
+LECKE_ID: fold-c4-001
+ELŐLAP: Mely szervezet intézményesítette a gazdasági globalizációt 1995-ben?
+HÁTLAP: WTO (Kereskedelmi Világszervezet).
+---
+ID: fold-c4-kartya-004
+LECKE_ID: fold-c4-001
+ELŐLAP: Mit jelent a globális értéklánc?
+HÁTLAP: A termék különböző szakaszai különböző országokban készülnek.
+---
+ID: fold-c4-kartya-005
+LECKE_ID: fold-c4-001
+ELŐLAP: Mit csökkentenek a szabadkereskedelmi megállapodások?
+HÁTLAP: A vámokat és az egyéb kereskedelmi akadályokat.
+---
+ID: fold-c4-kartya-006
+LECKE_ID: fold-c4-001
+ELŐLAP: Nemzetközi pénzügyi stabilitást támogató intézmény
+HÁTLAP: IMF.
+---
+ID: fold-c4-kartya-007
+LECKE_ID: fold-c4-001
+ELŐLAP: Több országban működő leányvállalatokkal rendelkező vállalat
+HÁTLAP: Multinacionális vállalat.
+---
+ID: fold-c4-kartya-008
+LECKE_ID: fold-c4-001
+ELŐLAP: Svájci élelmiszeripari multinacionális vállalat
+HÁTLAP: Nestlé.
+---
+ID: fold-c4-kartya-009
+LECKE_ID: fold-c4-001
+ELŐLAP: A közvetlen külföldi tőkebefektetés angol rövidítése
+HÁTLAP: FDI.
+---
+ID: fold-c4-kartya-010
+LECKE_ID: fold-c4-001
+ELŐLAP: Svéd bútorlánc
+HÁTLAP: IKEA.
+---
+ID: fold-c4-kartya-011
+LECKE_ID: fold-c4-001
+ELŐLAP: Mit befolyásolhatnak a multinacionális vállalatok a befogadó országban?
+HÁTLAP: A helyi munkaerő-piacot és az adópolitikát.
+---
+ID: fold-c4-kartya-012
+LECKE_ID: fold-c4-001
+ELŐLAP: Német autógyártó multinacionális vállalat (példa)
+HÁTLAP: Volkswagen.
+---
+ID: fold-c4-kartya-013
+LECKE_ID: fold-c4-001
+ELŐLAP: A Dacia márka tulajdonosa
+HÁTLAP: Renault-csoport.
+---
+ID: fold-c4-kartya-014
+LECKE_ID: fold-c4-001
+ELŐLAP: Dacia gyár Romániában
+HÁTLAP: Mioveni (Argeș megye).
+---
+ID: fold-c4-kartya-015
+LECKE_ID: fold-c4-001
+ELŐLAP: Ford gyár Romániában
+HÁTLAP: Craiova.
+---
+ID: fold-c4-kartya-016
+LECKE_ID: fold-c4-001
+ELŐLAP: Az OMV Petrom anyavállalata
+HÁTLAP: Az osztrák OMV-csoport.
+---
+ID: fold-c4-kartya-017
+LECKE_ID: fold-c4-001
+ELŐLAP: Mi a jelentősége a multinacionális vállalatoknak a romániai befektetéseknél?
+HÁTLAP: Technológiát és munkahelyeket hoznak az országba.
+---
+ID: fold-c4-kartya-018
+LECKE_ID: fold-c4-001
+ELŐLAP: Az angol nyelv szerepe a globalizációban
+HÁTLAP: A nemzetközi kommunikáció fő nyelve.
+---
+ID: fold-c4-kartya-019
+LECKE_ID: fold-c4-001
+ELŐLAP: Kulturális sokféleség védelméről szóló UNESCO-egyezmény éve
+HÁTLAP: 2005.
+---
+ID: fold-c4-kartya-020
+LECKE_ID: fold-c4-001
+ELŐLAP: A kultúrák egységesülése a globális termékek hatására
+HÁTLAP: Kulturális homogenizáció.
+---
+ID: fold-c4-kartya-021
+LECKE_ID: fold-c4-001
+ELŐLAP: A globális és a helyi kultúrák keveredése
+HÁTLAP: Kulturális hibridizáció.
+---
+ID: fold-c4-kartya-022
+LECKE_ID: fold-c4-001
+ELŐLAP: Globális streaming-szolgáltatás (példa)
+HÁTLAP: Netflix.
+---
+ID: fold-c4-kartya-023
+LECKE_ID: fold-c4-001
+ELŐLAP: Miért kritizálják a globalizációt?
+HÁTLAP: Munkahelyek áthelyezése és környezeti terhelés miatt.
+---
+ID: fold-c4-kartya-024
+LECKE_ID: fold-c4-001
+ELŐLAP: Uniós rendszer a helyi termékek eredetének védelmére
+HÁTLAP: PDO és PGI.
+---
+ID: fold-c4-kartya-025
+LECKE_ID: fold-c4-001
+ELŐLAP: Példa uniós eredetmegjelölésű sajtra
+HÁTLAP: Parmigiano Reggiano.
+---
+ID: fold-c4-kartya-026
+LECKE_ID: fold-c4-001
+ELŐLAP: Példa uniós eredetmegjelölésű pezsgőre
+HÁTLAP: Champagne.
+---
+ID: fold-c4-kartya-027
+LECKE_ID: fold-c4-001
+ELŐLAP: Mely szervezet fogalmazta meg a fenntartható fejlesztési célokat (SDG)?
+HÁTLAP: ENSZ (2015).
+---
+ID: fold-c4-kartya-028
+LECKE_ID: fold-c4-001
+ELŐLAP: Mit szabályoz az EU a multinacionális vállalatokkal kapcsolatban?
+HÁTLAP: Versenyjogi és adózási szabályokat.
+---
+ID: fold-c4-kartya-029
+LECKE_ID: fold-c4-001
+ELŐLAP: Mi a különbség a homogenizáció és a hibridizáció között?
+HÁTLAP: Homogenizáció: egységesülés; hibridizáció: új formák keveredéssel.
+---
+ID: fold-c4-kartya-030
+LECKE_ID: fold-c4-001
+ELŐLAP: Mit jelent az OMV Petrom Romániában?
+HÁTLAP: Nagy energiaipari vállalat, az osztrák OMV tulajdonában.
+---
+ID: fold-c4-kartya-031
+LECKE_ID: fold-c4-001
+ELŐLAP: Mit jelent a PGI-jelölés?
+HÁTLAP: Oltalom alá helyezett földrajzi jelzés (a termék egy helyhez kötődik).
+---
+ID: fold-c4-kartya-032
+LECKE_ID: fold-c4-001
+ELŐLAP: Az UNESCO kulturális egyezményének célja
+HÁTLAP: A kulturális sokféleség védelme.
+---
+ID: fold-c4-kartya-033
+LECKE_ID: fold-c4-001
+ELŐLAP: Globalizációs példa a gyorsételek világából
+HÁTLAP: McDonald's.
+---
+ID: fold-c4-kartya-034
+LECKE_ID: fold-c4-001
+ELŐLAP: Mi jellemzi a globális értékláncot a költségek szempontjából?
+HÁTLAP: A termelési lépések olcsóbb helyekre oszlanak.
+---
+ID: fold-c4-kartya-035
+LECKE_ID: fold-c4-001
+ELŐLAP: A WTO működése kezdetének éve
+HÁTLAP: 1995.
+---
+ID: fold-c4-kartya-036
+LECKE_ID: fold-c4-001
+ELŐLAP: A PDO és a PGI közös célja
+HÁTLAP: A termék földrajzi eredetének és minőségének védelme.

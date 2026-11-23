@@ -1,0 +1,85 @@
+ID: fold-a1-001
+CÍM: Románia az európai térben: fekvés, határok, kiterjedés
+---
+ID: fold-a2-001
+CÍM: Románia természetföldrajza: domborzat, éghajlat, vízrajz, élővilág, talajok, erőforrások
+
+---
+ID: fold-a3-001
+CÍM: Románia társadalmi és gazdasági földrajza: politikai térkép, népesség, városhálózat, ipar, mezőgazdaság, szolgáltatások, közlekedés
+
+ID: fold-a5-001
+CÍM: A Kárpátok hegységrendszere: kiemelt esettanulmány
+---
+
+ID: fold-a6-001
+CÍM: Románia szomszédai: Ukrajna, Moldova, Magyarország, Szerbia, Bulgária
+---
+
+ID: fold-b1-001
+CÍM: Az Európai Unió kialakulása: ESZAK, EGK, Maastricht, bővítések
+---
+
+ID: fold-b2-001
+CÍM: Az EU arculata: egységes piac, eurózóna, schengeni övezet, regionális különbségek
+---
+
+ID: fold-b3-001
+CÍM: Románia az Európai Unióban: geopolitikai helyzet és integráció
+---
+
+ID: fold-b4-001
+CÍM: Energia az EU-ban és Romániában: fosszilis függés, megújulók, atomenergia, energiabiztonság
+---
+
+ID: fold-b5-at-001
+CÍM: Ausztria
+---
+
+ID: fold-b5-fr-001
+CÍM: Franciaország
+---
+
+ID: fold-b5-de-001
+CÍM: Németország
+---
+
+ID: fold-b5-it-001
+CÍM: Olaszország
+---
+
+ID: fold-b5-uk-001
+CÍM: Egyesült Királyság
+---
+
+ID: fold-b5-es-001
+CÍM: Spanyolország
+---
+
+ID: fold-b5-pt-001
+CÍM: Portugália
+---
+
+ID: fold-b5-gr-001
+CÍM: Görögország
+---
+
+ID: fold-c1-001
+CÍM: Globális kihívások a kortárs világban: népességrobbanás, élelmezési válság, éghajlatváltozás, elsivatagosodás, ivóvízhiány, egyenlőtlen fejlődés
+---
+
+ID: fold-c2-001
+CÍM: Európa történelmi, technológiai, tudományos és kulturális szerepe
+---
+
+ID: fold-c3-001
+CÍM: EU-kapcsolatok az USA-val, Kínával, Japánnal és a BRICS-országokkal
+---
+
+ID: fold-c4-001
+CÍM: Globalizáció, multinacionális vállalatok és kulturális hatások
+---
+
+ID: fold-c5-001
+CÍM: Demográfiai fenntarthatóság, zöld átállás, digitalizáció, EU-jövőkép
+---

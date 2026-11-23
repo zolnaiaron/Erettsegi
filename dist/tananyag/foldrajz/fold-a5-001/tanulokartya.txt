@@ -1,0 +1,179 @@
+ID: fold-a5-kartya-001
+LECKE_ID: fold-a5-001
+ELŐLAP: A Kárpátok hossza
+HÁTLAP: Kb. 1300 km ívben.
+---
+ID: fold-a5-kartya-002
+LECKE_ID: fold-a5-001
+ELŐLAP: Országok, amelyeken húzódik a Kárpátok
+HÁTLAP: Csehország, Szlovákia, Lengyelország, Ukrajna, Magyarország, Románia, Szerbia.
+---
+ID: fold-a5-kartya-003
+LECKE_ID: fold-a5-001
+ELŐLAP: Melyik ország területén NEM húzódik a Kárpátok íve?
+HÁTLAP: Németország.
+---
+ID: fold-a5-kartya-004
+LECKE_ID: fold-a5-001
+ELŐLAP: A Kárpátok legmagasabb csúcsa
+HÁTLAP: Gerlachi-csúcs (Szlovákia), 2655 m.
+---
+ID: fold-a5-kartya-005
+LECKE_ID: fold-a5-001
+ELŐLAP: Románia legmagasabb Kárpátok-csúcsa
+HÁTLAP: Moldoveanu, 2544 m.
+---
+ID: fold-a5-kartya-006
+LECKE_ID: fold-a5-001
+ELŐLAP: A Hargita-hegység helye
+HÁTLAP: Keleti-Kárpátok.
+---
+ID: fold-a5-kartya-007
+LECKE_ID: fold-a5-001
+ELŐLAP: Nyugati-Kárpátok romániai része
+HÁTLAP: Erdélyi-érchegység (Apuseni-hegység).
+---
+ID: fold-a5-kartya-008
+LECKE_ID: fold-a5-001
+ELŐLAP: Keleti-Kárpátok romániai részei
+HÁTLAP: Máramarosi-havasok, Bukovinai-hegység, Hargita, Călimani.
+---
+ID: fold-a5-kartya-009
+LECKE_ID: fold-a5-001
+ELŐLAP: Déli-Kárpátok romániai részei
+HÁTLAP: Retyezát, Fogarasi-havasok, Parâng.
+---
+ID: fold-a5-kartya-010
+LECKE_ID: fold-a5-001
+ELŐLAP: A Kárpátok magyarországi része
+HÁTLAP: Az Északi-középhegység (Mátra, Bükk).
+---
+ID: fold-a5-kartya-011
+LECKE_ID: fold-a5-001
+ELŐLAP: Magyarország legmagasabb pontja
+HÁTLAP: Kékes, a Mátrában, 1014 m.
+---
+ID: fold-a5-kartya-012
+LECKE_ID: fold-a5-001
+ELŐLAP: A Kárpátok belső, kristályos magja
+HÁTLAP: Metamorf és magmás kőzetekből áll.
+---
+ID: fold-a5-kartya-013
+LECKE_ID: fold-a5-001
+ELŐLAP: Vulkáni eredetű romániai hegységek
+HÁTLAP: Hargita, Gurghiu, Călimani.
+---
+ID: fold-a5-kartya-014
+LECKE_ID: fold-a5-001
+ELŐLAP: A Kárpátok keletkezésének folyamata
+HÁTLAP: Alpi hegységképződés.
+---
+ID: fold-a5-kartya-015
+LECKE_ID: fold-a5-001
+ELŐLAP: Flis
+HÁTLAP: Üledékes kőzetes külső öv a Keleti-Kárpátokban.
+---
+ID: fold-a5-kartya-016
+LECKE_ID: fold-a5-001
+ELŐLAP: Visztula
+HÁTLAP: A Kárpátokból eredő folyó, a Balti-tengerbe ömlik.
+---
+ID: fold-a5-kartya-017
+LECKE_ID: fold-a5-001
+ELŐLAP: Dnyeszter
+HÁTLAP: A Kárpátokból eredő folyó, a Fekete-tengerbe ömlik.
+---
+ID: fold-a5-kartya-018
+LECKE_ID: fold-a5-001
+ELŐLAP: A magasság hatása az éghajlatra
+HÁTLAP: Csökken a hőmérséklet, nő a csapadék.
+---
+ID: fold-a5-kartya-019
+LECKE_ID: fold-a5-001
+ELŐLAP: A Kárpátok erdőövei alulról felfelé
+HÁTLAP: Tölgyes, bükkös, lucfenyves, törpefenyő, alpesi gyep.
+---
+ID: fold-a5-kartya-020
+LECKE_ID: fold-a5-001
+ELŐLAP: A Kárpátok nagyragadozói
+HÁTLAP: Barna medve, farkas, hiúz.
+---
+ID: fold-a5-kartya-021
+LECKE_ID: fold-a5-001
+ELŐLAP: Zerge
+HÁTLAP: Magas, sziklás hegyvidéki szarvasféle.
+---
+ID: fold-a5-kartya-022
+LECKE_ID: fold-a5-001
+ELŐLAP: UNESCO-védelem a Kárpátokban
+HÁTLAP: A Kárpátok ősbükkösei részben világörökségi területek.
+---
+ID: fold-a5-kartya-023
+LECKE_ID: fold-a5-001
+ELŐLAP: Hagyományos hegyi megélhetés
+HÁTLAP: Pásztorkodás (juhászat, transzhumancia).
+---
+ID: fold-a5-kartya-024
+LECKE_ID: fold-a5-001
+ELŐLAP: Erdélyi ércbányászat
+HÁTLAP: Arany és réz.
+---
+ID: fold-a5-kartya-025
+LECKE_ID: fold-a5-001
+ELŐLAP: Erdélyi sóbányát is működtető település
+HÁTLAP: Torda (Turda).
+---
+ID: fold-a5-kartya-026
+LECKE_ID: fold-a5-001
+ELŐLAP: A Tátra nemzeti parkjának országa
+HÁTLAP: Szlovákia.
+---
+ID: fold-a5-kartya-027
+LECKE_ID: fold-a5-001
+ELŐLAP: Poiana Brașov
+HÁTLAP: Brassó melletti síközpont.
+---
+ID: fold-a5-kartya-028
+LECKE_ID: fold-a5-001
+ELŐLAP: A Kárpátok legfőbb környezeti veszélye
+HÁTLAP: Illegális fakitermelés és orvvadászat.
+---
+ID: fold-a5-kartya-029
+LECKE_ID: fold-a5-001
+ELŐLAP: Az infrastruktúra hatása az élőhelyekre
+HÁTLAP: Feldarabolja az élőhelyeket.
+---
+ID: fold-a5-kartya-030
+LECKE_ID: fold-a5-001
+ELŐLAP: Romániai nemzeti parkok a Kárpátokban
+HÁTLAP: Retyezát, Piatra Craiului, Ceahlău.
+---
+ID: fold-a5-kartya-031
+LECKE_ID: fold-a5-001
+ELŐLAP: Kárpát-medence más neve
+HÁTLAP: Pannon-medence.
+---
+ID: fold-a5-kartya-032
+LECKE_ID: fold-a5-001
+ELŐLAP: Hargita román neve
+HÁTLAP: Harghita.
+---
+ID: fold-a5-kartya-033
+LECKE_ID: fold-a5-001
+ELŐLAP: Gyergyói-havasok román neve
+HÁTLAP: Munții Giurgeului (Gurghiu).
+---
+ID: fold-a5-kartya-034
+LECKE_ID: fold-a5-001
+ELŐLAP: Călimani magyar neve
+HÁTLAP: Kelemen-havasok.
+---
+ID: fold-a5-kartya-035
+LECKE_ID: fold-a5-001
+ELŐLAP: Fogarasi-havasok román neve
+HÁTLAP: Munții Făgărașului.
+---
+ID: fold-a5-kartya-036
+LECKE_ID: fold-a5-001
+ELŐLAP: Máramarosi-havasok román neve
+HÁTLAP: Munții Maramureșului.

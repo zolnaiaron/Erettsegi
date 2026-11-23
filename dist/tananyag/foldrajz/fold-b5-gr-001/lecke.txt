@@ -1,0 +1,33 @@
+ID: fold-b5-gr-001
+CÍM: Görögország
+SZÖVEG:
+# Görögország
+Görögország a Balkán-félsziget déli részén fekszik, a Földközi-tenger keleti medencéjében. Területének jelentős része szigetekből áll. Fővárosa Athén. Az alábbi hat szempont mentén érdemes áttekinteni.
+
+## 1. Fekvés és határok
+- **Tengerparti állam**: keleten az Égei-tenger, nyugaton az Ión-tenger, délen a Líbiai-tenger partjával. Hosszú, tagolt partvonala van a szigetek miatt.
+- **Szárazföldi szomszédai**: négy ország. Északon Albánia, Észak-Macedónia és Bulgária, északkeleten Törökország. A görög–török határt az Evrosz (Meriç) folyó alkotja.
+- **Szigetei**: Kréta a legnagyobb, a Dodekanészosz szigetei közül Rodosz, az Ión-tengeri szigetek közül Korfu, az Égei-tengeri Cikládok, köztük Théra (Santorini).
+
+## 2. Domborzat
+- **Fő domborzati egységek**: az északnyugati **Pindosz**-hegység, a középső **Parnasszosz**, a Peloponnészosz hegyei (**Taigetosz**), valamint a **Thesszáliai-síkság**, a legnagyobb síkság.
+- **Domborzattípusok**: nagy kiterjedésű karsztos mészkőképződmények, az Égei-tengeri vulkáni ív szigetein vulkáni kúpok és kalderák (például Théra).
+- **Legmagasabb csúcs**: az **Olümposz** (2917 m), amely a görög mitológia szerint az istenek lakhelye volt.
+
+## 3. Éghajlat
+- **Éghajlati övezet és típus**: mediterrán, forró, száraz nyárral és enyhe, csapadékosabb telekkel. Észak-Görögország belső részein kontinentális hatás érvényesül, hidegebb telekkel.
+- **Jellemző szelek**: a **Meltemi** erős északi szél nyáron az Égei-tengeren, a **Sirocco** afrikai eredetű forró, száraz szél, amely a déli szigeteket is eléri.
+
+## 4. Vízrajz
+- **Főbb folyók és torkolatuk**: az **Aliákmon** teljes egészében görög területen folyik, a Termai-öbölbe ömlik. Az **Axios** (Vardar) Észak-Macedóniából érkezik és Szalonika térségében ömlik a tengerbe. Az **Evrosz** a görög–török határon, az Égei-tengerbe torkollik. Az **Acheloos** az Ión-tengerbe ömlik.
+- **Fontosabb tavak**: a **Trichonida-tó** Görögország legnagyobb természetes tava, a **Préspa-tó** Görögország, Albánia és Észak-Macedónia közös tava.
+
+## 5. Népesség és városok
+- **Főváros**: **Athén**, az ország délkeleti részén, Attika tartományban. Az ország lakossága kb. 10,4 millió fő.
+- **Fontos városok és kikötők**: **Szalonika** (Görögország második legnagyobb városa, a Termai-öbölnél fekvő kikötő), **Patras** (a Peloponnészosz északi kikötője), **Iráklion** (Kréta fővárosa), **Larissa** (Thesszália központja).
+
+## 6. Gazdaság és erőforrások
+- **Energiahordozók**: a lignit (barnaszén) Nyugat-Macedóniában, Ptolemaida környékén fontos, a szénkivezetést 2028-ra tervezik. A megújuló energia, főként a szél- és napenergia gyorsan nő. Az energiaimport jelentős.
+- **Vezető iparágak**: a hajózás, Görögország kereskedelmi flottája a világ egyik legnagyobb. Emellett az élelmiszeripar, a textilipar és az építőanyag-gyártás.
+- **Mezőgazdaság**: az olívaolaj, a feta sajt, a gyümölcs- és zöldségtermesztés, Thesszáliában a gabona és a gyapot.
+- **Turizmus**: a szigetek, a tengerpartok és az ókori görög emlékek (Athén, Akropolisz) miatt évente több tízmillió turista érkezik. A turizmus az egyik legfontosabb gazdasági ágazat.

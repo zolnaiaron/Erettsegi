@@ -1,0 +1,257 @@
+ID: fold-a2-kviz-001
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik hegységrész adja Románia legmagasabb csúcsait?
+HELYES: Déli-Kárpátok
+ROSSZ1: Alpok
+ROSSZ2: Balkán-hegység
+ROSSZ3: Dinári-hegység
+MAGYARÁZAT: A Moldoveanu és a Retyezát, Románia legmagasabb csúcsai a Déli-Kárpátokban találhatók.
+---
+ID: fold-a2-kviz-002
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Fogarasi-havasok a Keleti-Kárpátokhoz tartoznak.
+HELYES: Hamis
+MAGYARÁZAT: A Fogarasi-havasok a Déli-Kárpátok részei.
+---
+ID: fold-a2-kviz-003
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nagy kiterjedésű síkság fekszik a Déli-Kárpátoktól délre?
+HELYES: Havasalföld
+ROSSZ1: Moldvai-fennsík
+ROSSZ2: Dobrudzsa
+ROSSZ3: Erdélyi-medence
+MAGYARÁZAT: A Havasalföld Románia nagy kiterjedésű síksága, a Moldvai-fennsík és a Dobrudzsa fennsíkos vidék.
+---
+ID: fold-a2-kviz-004
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Erdélyi-érchegység a Nyugati-Kárpátok része.
+HELYES: Igaz
+MAGYARÁZAT: A Nyugati-Kárpátokhoz tartozik az Erdélyi-érchegység, más néven Apuseni-hegység.
+---
+ID: fold-a2-kviz-005
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Milyen térszín jellemzi Dobrudzsát?
+HELYES: fennsíkos dombvidék
+ROSSZ1: magashegység
+ROSSZ2: hatalmas lápvidék
+ROSSZ3: gleccserekkel borított völgyvidék
+MAGYARÁZAT: A Dobrudzsa fennsíkos dombvidék, amely a Duna és a Fekete-tenger között húzódik.
+---
+ID: fold-a2-kviz-006
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia legmagasabb csúcsai a Keleti-Kárpátok ívében vannak.
+HELYES: Hamis
+MAGYARÁZAT: Románia legmagasabb csúcsai a Déli-Kárpátokban találhatók.
+---
+ID: fold-a2-kviz-007
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik talajtípus jellemző a romániai síkságokra?
+HELYES: csernozjom
+ROSSZ1: podzol
+ROSSZ2: lápi talaj
+ROSSZ3: szikes talaj
+MAGYARÁZAT: A csernozjom sötét, humuszban gazdag, nagyon termékeny talaj, a síkságokon jellemző.
+---
+ID: fold-a2-kviz-008
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kárpátok hegyvidéki erdeiben barna medve és hiúz él.
+HELYES: Igaz
+MAGYARÁZAT: A romániai Kárpátok erdeiben a barna medve és a hiúz is előfordul.
+---
+ID: fold-a2-kviz-009
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Milyen éghajlattípusba tartozik Románia?
+HELYES: mérsékelt övi kontinentális
+ROSSZ1: trópusi monszun
+ROSSZ2: sarkvidéki
+ROSSZ3: sivatagi
+MAGYARÁZAT: Románia éghajlata mérsékelt övi kontinentális, hideg telekkel és meleg nyarakkal.
+---
+ID: fold-a2-kviz-010
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Fekete-tenger partján az éghajlat mérsékeltebb, mint a belső síkságokon.
+HELYES: Igaz
+MAGYARÁZAT: A tenger mérséklő hatása miatt a tengerparton kiegyenlítettebb az éghajlat.
+---
+ID: fold-a2-kviz-011
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tájegység a legszárazabb Romániában?
+HELYES: Dobrudzsa
+ROSSZ1: Erdélyi-medence
+ROSSZ2: Déli-Kárpátok
+ROSSZ3: Bukovina
+MAGYARÁZAT: A Dobrudzsa a legszárazabb romániai táj, a Fekete-tenger közelsége ellenére is kevés a csapadék.
+---
+ID: fold-a2-kviz-012
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A hegyvidékeken a hó tovább megmarad, mint a síkságokon.
+HELYES: Igaz
+MAGYARÁZAT: A magasabb területeken hűvösebb az idő, ezért a hó hosszabb ideig megmarad.
+---
+ID: fold-a2-kviz-013
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Hány főágra szakad a Duna a deltánál?
+HELYES: három
+ROSSZ1: egy
+ROSSZ2: öt
+ROSSZ3: nyolc
+MAGYARÁZAT: A Duna a Chilia-, a Sulina- és a Sfântu Gheorghe-ágra szakad.
+---
+ID: fold-a2-kviz-014
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Duna-delta a Duna torkolatvidéke, ahol a folyó több ágra szakad.
+HELYES: Igaz
+MAGYARÁZAT: A Duna-delta a folyó Fekete-tengerbe ömlő torkolatvidéke, több ágra szakadva.
+---
+ID: fold-a2-kviz-015
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik romániai folyó torkollik a Tiszába?
+HELYES: Maros
+ROSSZ1: Olt
+ROSSZ2: Prut
+ROSSZ3: Szeret
+MAGYARÁZAT: A Maros Magyarországon, Szeged közelében ömlik a Tiszába.
+---
+ID: fold-a2-kviz-016
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Prut a Duna mellékfolyója.
+HELYES: Igaz
+MAGYARÁZAT: A Prut a Duna bal oldali mellékfolyója, és a Románia–Moldova határ egy részét alkotja.
+---
+ID: fold-a2-kviz-017
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Hol található a Razelm-tó?
+HELYES: a Duna-deltában
+ROSSZ1: az Erdélyi-medencében
+ROSSZ2: a Havasalföldön
+ROSSZ3: a Bánságban
+MAGYARÁZAT: A Razelm-tó a Duna-delta területén fekszik, és Románia legnagyobb tavai közé tartozik.
+---
+ID: fold-a2-kviz-018
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Duna-delta vize sósabb, mint a Fekete-tengeré.
+HELYES: Hamis
+MAGYARÁZAT: A Duna édesvize hígítja a deltavidéket, így a víz édesebb, mint a tengeré.
+---
+ID: fold-a2-kviz-019
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Hogyan viszonyul a Fekete-tenger sótartalma a világóceánokéhoz?
+HELYES: alacsonyabb
+ROSSZ1: magasabb
+ROSSZ2: ugyanakkora
+ROSSZ3: sokkal magasabb
+MAGYARÁZAT: A Fekete-tenger vize kb. 18–22 ‰ sós, a világóceánoké kb. 35 ‰.
+---
+ID: fold-a2-kviz-020
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Fekete-tenger mélyebb rétegeiben oxigénhiány van.
+HELYES: Igaz
+MAGYARÁZAT: A tenger mélyebb vízrétegei oxigénszegények, ezért ott nincs élet.
+---
+ID: fold-a2-kviz-021
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szoroson keresztül jut ki a Fekete-tenger vize a Márvány-tengerbe?
+HELYES: Boszporusz
+ROSSZ1: Gibraltári-szoros
+ROSSZ2: Otrantói-szoros
+ROSSZ3: Szuezi-csatorna
+MAGYARÁZAT: A Boszporusz köti össze a Fekete-tengert a Márvány-tengerrel, Isztambul mellett.
+---
+ID: fold-a2-kviz-022
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Techirghiol sósvizű, iszapos gyógytó a román tengerparton.
+HELYES: Igaz
+MAGYARÁZAT: A Techirghiol sós vizű tó, iszapját gyógyászati célra használják.
+---
+ID: fold-a2-kviz-023
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik város nevéhez köthető Románia hagyományos kőolajtermelése?
+HELYES: Ploiești
+ROSSZ1: Constanța
+ROSSZ2: Brassó
+ROSSZ3: Temesvár
+MAGYARÁZAT: Ploiești környéke Románia hagyományos kőolajtermelő központja.
+---
+ID: fold-a2-kviz-024
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Vaskapu vízerőművei a Dunán működnek.
+HELYES: Igaz
+MAGYARÁZAT: A Vaskapu vízerőművei a Duna romániai–szerbiai szakaszán épültek.
+---
+ID: fold-a2-kviz-025
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tájegység ismert szélerőműveiről?
+HELYES: Dobrudzsa
+ROSSZ1: Erdélyi-medence
+ROSSZ2: Moldvai-fennsík
+ROSSZ3: Bánság
+MAGYARÁZAT: A Dobrudzsa szélben gazdag, ezért itt épültek Románia jelentős szélerőművei.
+---
+ID: fold-a2-kviz-026
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Erdélyben hagyományosan sóbányászat folyik, például Praidon és Turdán.
+HELYES: Igaz
+MAGYARÁZAT: A praidi és a turdai sóbányák évszázados hagyományra épülnek.
+---
+ID: fold-a2-kviz-027
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Románia szénkészletének nagy része melyik szénfajta?
+HELYES: barnaszén (lignit)
+ROSSZ1: antracit
+ROSSZ2: kokszolható kőszén
+ROSSZ3: tőzeg
+MAGYARÁZAT: Románia szénkészletének nagy része barnaszén, amelyet többek között a Zsil-völgyben bányásznak.
+---
+ID: fold-a2-kviz-028
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik vízimadár jellemző a Duna-deltára?
+HELYES: dalmát pelikán
+ROSSZ1: kolibri
+ROSSZ2: pingvin
+ROSSZ3: strucc
+MAGYARÁZAT: A dalmát pelikán a Duna-delta egyik jellegzetes madara.
+---
+ID: fold-a2-kviz-029
+LECKE_ID: fold-a2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Kárpátok erdőövezete a magassággal változik.
+HELYES: Igaz
+MAGYARÁZAT: Alul tölgyesek és bükkösök, feljebb fenyvesek, a legmagasabb részeken havasi rétek találhatók.
+---
+ID: fold-a2-kviz-030
+LECKE_ID: fold-a2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik fafaj uralja a Kárpátok közepes magasságú lombos erdeit?
+HELYES: bükk
+ROSSZ1: nyír
+ROSSZ2: éger
+ROSSZ3: akác
+MAGYARÁZAT: A bükkösök a Kárpátok közepes magasságú lombos erdeinek jellemző fafaja.

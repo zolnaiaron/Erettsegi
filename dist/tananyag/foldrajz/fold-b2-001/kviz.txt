@@ -1,0 +1,254 @@
+ID: fold-b2-kviz-001
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az egységes piacon belül a tagállamok közötti kereskedelmet általában nem terhelik vámok.
+HELYES: Igaz
+MAGYARÁZAT: A tagállamok között nincsenek belső vámok, és közös külső vámtarifát alkalmaznak.
+---
+ID: fold-b2-kviz-002
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Mi a vámunió lényege?
+HELYES: a tagállamok közötti vámok eltörlése és közös külső vámtarifa
+ROSSZ1: minden tagállam saját külső vámtarifát állapít meg
+ROSSZ2: a vámok csak a mezőgazdasági termékekre vonatkoznak
+ROSSZ3: a vámok a tagállamok közötti szolgáltatásokra vonatkoznak
+MAGYARÁZAT: A vámunióban nincsenek belső vámok, és a külső határokon azonos vámtarifát alkalmaznak.
+---
+ID: fold-b2-kviz-003
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az egységes piac fő célja a kereskedelmi akadályok csökkentése.
+HELYES: Igaz
+MAGYARÁZAT: Az egységes piac célja, hogy az áruk, szolgáltatások, tőke és személyek akadálytalanul mozogjanak.
+---
+ID: fold-b2-kviz-004
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szerződés teremtette meg az egységes piac jogi alapját?
+HELYES: Egységes Európai Okmány
+ROSSZ1: maastrichti szerződés
+ROSSZ2: római szerződések
+ROSSZ3: lisszaboni szerződés
+MAGYARÁZAT: Az 1986-ban aláírt Egységes Európai Okmány teremtette meg az egységes piac jogi alapját.
+---
+ID: fold-b2-kviz-005
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az euró bevezetése minden EU-tagállam számára azonnal kötelező.
+HELYES: Hamis
+MAGYARÁZAT: Az euró bevezetésére a tagállamok csak akkor térhetnek át, ha teljesítik a konvergenciakritériumokat, és ez nem azonnali kötelezettség.
+---
+ID: fold-b2-kviz-006
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik EU-tagállam nem használja az eurót?
+HELYES: Magyarország
+ROSSZ1: Németország
+ROSSZ2: Franciaország
+ROSSZ3: Olaszország
+MAGYARÁZAT: Magyarország a forintot használja, Németország, Franciaország és Olaszország az eurózóna tagja.
+---
+ID: fold-b2-kviz-007
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az eurózóna tagjai Magyarország és Románia.
+HELYES: Hamis
+MAGYARÁZAT: Sem Magyarország, sem Románia nem tagja az eurózónának.
+---
+ID: fold-b2-kviz-008
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik ország csatlakozott legutoljára az eurózónához 2023-ban?
+HELYES: Horvátország
+ROSSZ1: Szlovénia
+ROSSZ2: Szlovákia
+ROSSZ3: Ciprus
+MAGYARÁZAT: Horvátország 2023. január 1-jétől használja az eurót.
+---
+ID: fold-b2-kviz-009
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az eurózóna monetáris politikáját az Európai Központi Bank irányítja.
+HELYES: Igaz
+MAGYARÁZAT: Az EKB székhelye Frankfurt, és az euró kamat- és pénzügyi politikáját ő határozza meg.
+---
+ID: fold-b2-kviz-010
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szervezet irányítja az eurózóna közös monetáris politikáját?
+HELYES: Európai Központi Bank
+ROSSZ1: Európai Bizottság
+ROSSZ2: Európai Számvevőszék
+ROSSZ3: Európai Parlament
+MAGYARÁZAT: Az Európai Központi Bank irányítja az euró pénzügyi politikáját.
+---
+ID: fold-b2-kviz-011
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Norvégia és Svájc nem EU-tag, mégis a schengeni övezet része.
+HELYES: Igaz
+MAGYARÁZAT: Az EU-n kívüli Norvégia és Svájc is részt vesz a schengeni együttműködésben.
+---
+ID: fold-b2-kviz-012
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik EU-tagállam nem tagja a schengeni övezetnek?
+HELYES: Írország
+ROSSZ1: Franciaország
+ROSSZ2: Németország
+ROSSZ3: Lengyelország
+MAGYARÁZAT: Írország nem része a schengeni övezetnek, az összes többi felsorolt ország igen.
+---
+ID: fold-b2-kviz-013
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia légi és tengeri határain 2024. március 31-én szűnt meg a személyi határellenőrzés a schengeni övezetben.
+HELYES: Igaz
+MAGYARÁZAT: Románia a légi és tengeri határokon 2024 márciusában, a szárazföldi határokon 2025 januárjában csatlakozott teljesen.
+---
+ID: fold-b2-kviz-014
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Mi a schengeni övezet legfontosabb előnye az utazók számára?
+HELYES: nincs személyi határellenőrzés a belső határokon
+ROSSZ1: egységes útlevél kiadása
+ROSSZ2: kötelező vízum minden országban
+ROSSZ3: közös hadsereg a határok védelmére
+MAGYARÁZAT: A schengeni övezetben a belső határokon általában nincs személyi határellenőrzés.
+---
+ID: fold-b2-kviz-015
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A schengeni övezet gyakorlati bevezetése 1995-ben történt.
+HELYES: Igaz
+MAGYARÁZAT: Az egyezményt 1985-ben írták alá, de a gyakorlatban 1995-ben vezették be az övezetet.
+---
+ID: fold-b2-kviz-016
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós alap segíti elsősorban a régiók közötti fejlettségi különbségek csökkentését?
+HELYES: Európai Regionális Fejlesztési Alap (ERFA)
+ROSSZ1: Európai Központi Bank
+ROSSZ2: Európai Számvevőszék
+ROSSZ3: Európai Stabilitási Mechanizmus
+MAGYARÁZAT: Az ERFA a régiók fejlesztését és a gazdasági különbségek csökkentését támogatja.
+---
+ID: fold-b2-kviz-017
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Romániában a Bukarest–Ilfov régió a legfejlettebb az egy főre jutó GDP alapján.
+HELYES: Igaz
+MAGYARÁZAT: A főváros és környéke az ország legmagasabb egy főre jutó jövedelmű régiója.
+---
+ID: fold-b2-kviz-018
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik romániai régió a legkevésbé fejlett az egy főre jutó GDP alapján?
+HELYES: Észak-Kelet
+ROSSZ1: Bukarest–Ilfov
+ROSSZ2: Nyugat
+ROSSZ3: Közép
+MAGYARÁZAT: Az Észak-Kelet régió, azaz Moldva, a legkevésbé fejlett romániai régió.
+---
+ID: fold-b2-kviz-019
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Romániában jelentős a különbség a városi és a vidéki térségek fejlettsége között.
+HELYES: Igaz
+MAGYARÁZAT: A vidéki térségekben alacsonyabbak a jövedelmek és a munkalehetőségek.
+---
+ID: fold-b2-kviz-020
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Mi a fő oka annak, hogy sok fiatal elhagyja a fejletlenebb vidéki térségeket?
+HELYES: jobb munkalehetőségek és magasabb bérek nyugaton vagy a városokban
+ROSSZ1: magasabb adók a városokban
+ROSSZ2: kötelező katonai szolgálat
+ROSSZ3: zárt határok a belső régiók között
+MAGYARÁZAT: A fiatalok főként a jobb bérek és munkalehetőségek miatt költöznek el.
+---
+ID: fold-b2-kviz-021
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A regionális különbségek csak az országok között jelentenek problémát, a városok között nem.
+HELYES: Hamis
+MAGYARÁZAT: A régiók és a települések között is jelentősek a fejlettségi különbségek.
+---
+ID: fold-b2-kviz-022
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben vezették be a schengeni övezetet a gyakorlatban?
+HELYES: 1995
+ROSSZ1: 1985
+ROSSZ2: 1993
+ROSSZ3: 2002
+MAGYARÁZAT: Az 1985-ös egyezmény után a gyakorlati bevezetés 1995-ben történt.
+---
+ID: fold-b2-kviz-023
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Svájc nem EU-tag, de a schengeni övezet tagja.
+HELYES: Igaz
+MAGYARÁZAT: Svájc az EU-n kívül áll, de részt vesz a schengeni együttműködésben.
+---
+ID: fold-b2-kviz-024
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Mi a kohéziós politika célja?
+HELYES: a gazdasági és társadalmi különbségek csökkentése a régiók között
+ROSSZ1: a nemzeti határok megszüntetése
+ROSSZ2: közös hadsereg felállítása
+ROSSZ3: az euró árfolyamának rögzítése
+MAGYARÁZAT: A kohéziós politika a fejletlenebb régiók felzárkóztatását szolgálja.
+---
+ID: fold-b2-kviz-025
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az euró bevezetésének egyik feltétele az árfolyam-stabilitás és az államháztartási hiány korlátozása.
+HELYES: Igaz
+MAGYARÁZAT: A maastrichti konvergenciakritériumok között szerepel az árfolyam-stabilitás és a hiány korlátozása.
+---
+ID: fold-b2-kviz-026
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Mekkora lehet legfeljebb az államháztartási hiány a GDP százalékában az euró bevezetésekor?
+HELYES: 3%
+ROSSZ1: 1%
+ROSSZ2: 5%
+ROSSZ3: 10%
+MAGYARÁZAT: A maastrichti kritérium szerint az államháztartási hiány legfeljebb a GDP 3%-a lehet.
+---
+ID: fold-b2-kviz-027
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia kereskedelmében az EU-n belüli partnerek jelentős szerepet játszanak.
+HELYES: Igaz
+MAGYARÁZAT: Románia exportjának és importjának nagy része az Európai Unió tagállamaival zajlik.
+---
+ID: fold-b2-kviz-028
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik intézmény felügyeli az egységes piac versenyszabályait?
+HELYES: Európai Bizottság
+ROSSZ1: Európai Központi Bank
+ROSSZ2: Európai Parlament
+ROSSZ3: Európai Bíróság
+MAGYARÁZAT: Az Európai Bizottság versenyjogi főigazgatósága felügyeli a piaci versenyt.
+---
+ID: fold-b2-kviz-029
+LECKE_ID: fold-b2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A kohéziós politika a fejletlenebb régiók infrastruktúráját is támogatja.
+HELYES: Igaz
+MAGYARÁZAT: A közlekedési és környezetvédelmi fejlesztéseket a Kohéziós Alap is finanszírozza.
+---
+ID: fold-b2-kviz-030
+LECKE_ID: fold-b2-001
+TÍPUS: választásos
+KÉRDÉS: Mit jelent a vámunióban a tagállamok közötti kereskedelem?
+HELYES: a tagállamok közötti áruforgalom után nem szednek vámot
+ROSSZ1: minden áru után vámot szednek
+ROSSZ2: csak a mezőgazdasági termékek után szednek vámot
+ROSSZ3: csak az EU-n kívüli partnerek után szednek vámot
+MAGYARÁZAT: A vámunióban a tagállamok közötti áruforgalom után nincs vám, a külső határokon viszont közös vámtarifa érvényes.

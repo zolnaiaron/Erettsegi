@@ -1,0 +1,254 @@
+ID: fold-b1-kviz-001
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben hirdette meg Robert Schuman a francia–német szén- és acélközösségi tervet?
+HELYES: 1950
+ROSSZ1: 1945
+ROSSZ2: 1957
+ROSSZ3: 1963
+MAGYARÁZAT: A Schuman-nyilatkozatot 1950 májusában tették közzé, ez vezetett az ESZAK létrehozásához.
+---
+ID: fold-b1-kviz-002
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az ESZAK alapító tagjai között hat ország szerepelt.
+HELYES: Igaz
+MAGYARÁZAT: Franciaország, Nyugat-Németország, Olaszország, Belgium, Hollandia és Luxemburg volt az alapító hat tagállam.
+---
+ID: fold-b1-kviz-003
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben jött létre az Európai Szén- és Acélközösség?
+HELYES: 1951
+ROSSZ1: 1949
+ROSSZ2: 1957
+ROSSZ3: 1992
+MAGYARÁZAT: Az ESZAK-ot a Párizsi szerződés hozta létre 1951-ben.
+---
+ID: fold-b1-kviz-004
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EGK alapításáról szóló római szerződések 1992-ben születtek.
+HELYES: Hamis
+MAGYARÁZAT: A római szerződések 1957-ben születtek, az EGK ezekkel jött létre.
+---
+ID: fold-b1-kviz-005
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szerződés hozta létre az Európai Szén- és Acélközösséget?
+HELYES: Párizsi szerződés
+ROSSZ1: Római szerződések
+ROSSZ2: maastrichti szerződés
+ROSSZ3: lisszaboni szerződés
+MAGYARÁZAT: Az ESZAK-ot az 1951-es Párizsi szerződés hozta létre.
+---
+ID: fold-b1-kviz-006
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EGK 1958. január 1-jén kezdte meg működését.
+HELYES: Igaz
+MAGYARÁZAT: A római szerződések hatályba lépése után az EGK 1958 elején kezdte meg működését.
+---
+ID: fold-b1-kviz-007
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szerződés hozta létre az Európai Uniót?
+HELYES: maastrichti szerződés
+ROSSZ1: római szerződések
+ROSSZ2: párizsi szerződés
+ROSSZ3: nizzai szerződés
+MAGYARÁZAT: A maastrichti szerződést 1992-ben írták alá, és 1993-ban lépett hatályba, létrehozva az EU-t.
+---
+ID: fold-b1-kviz-008
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A schengeni övezet a maastrichti szerződés után, 1992-ben jött létre.
+HELYES: Hamis
+MAGYARÁZAT: A schengeni egyezményt már 1985-ben írták alá, később valósult meg a gyakorlatban.
+---
+ID: fold-b1-kviz-009
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben írták alá a schengeni egyezményt?
+HELYES: 1985
+ROSSZ1: 1975
+ROSSZ2: 1992
+ROSSZ3: 2004
+MAGYARÁZAT: A schengeni egyezményt 1985-ben írták alá Luxemburg melletti Schengen településen.
+---
+ID: fold-b1-kviz-010
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az egységes piac 1993-tól működik az Európai Unióban.
+HELYES: Igaz
+MAGYARÁZAT: Az egységes piac 1993. január 1-jétől működik a négy szabadság alapján.
+---
+ID: fold-b1-kviz-011
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben vezették be az eurót készpénzben?
+HELYES: 2002
+ROSSZ1: 1995
+ROSSZ2: 2004
+ROSSZ3: 2007
+MAGYARÁZAT: Az euró készpénzként 2002-ben jelent meg, elszámolási pénzként már 1999-ben bevezették.
+---
+ID: fold-b1-kviz-012
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: 1973-ban Nagy-Britannia csatlakozott az EGK-hoz.
+HELYES: Igaz
+MAGYARÁZAT: 1973-ban Nagy-Britannia, Írország és Dánia lett tag.
+---
+ID: fold-b1-kviz-013
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben csatlakozott Görögország az Európai Közösséghez?
+HELYES: 1981
+ROSSZ1: 1973
+ROSSZ2: 1986
+ROSSZ3: 1995
+MAGYARÁZAT: Görögország 1981-ben lett tag, 1986-ban Spanyolország és Portugália csatlakozott.
+---
+ID: fold-b1-kviz-014
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Mely két ország csatlakozott 1986-ban?
+HELYES: Spanyolország és Portugália
+ROSSZ1: Görögország és Írország
+ROSSZ2: Ausztria és Finnország
+ROSSZ3: Dánia és Svédország
+MAGYARÁZAT: 1986-ban Spanyolország és Portugália lett tag.
+---
+ID: fold-b1-kviz-015
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: 1995-ben Ausztria, Finnország és Svédország csatlakozott az EU-hoz.
+HELYES: Igaz
+MAGYARÁZAT: Ez volt az utolsó bővítés a 2004-es nagy hullám előtt, a három ország 1995-ben lett tag.
+---
+ID: fold-b1-kviz-016
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Hány új tagállam csatlakozott az EU-hoz 2004-ben?
+HELYES: 10
+ROSSZ1: 6
+ROSSZ2: 8
+ROSSZ3: 12
+MAGYARÁZAT: 2004-ben tíz új tagállam csatlakozott, köztük Magyarország és Lengyelország.
+---
+ID: fold-b1-kviz-017
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: 2004-ben Magyarország, Lengyelország és Csehország is csatlakozott az EU-hoz.
+HELYES: Igaz
+MAGYARÁZAT: Mindhárom ország 2004. május 1-jén lett az Európai Unió tagja.
+---
+ID: fold-b1-kviz-018
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Mely két ország csatlakozott az EU-hoz 2007-ben?
+HELYES: Románia és Bulgária
+ROSSZ1: Horvátország és Szlovénia
+ROSSZ2: Ciprus és Málta
+ROSSZ3: Szerbia és Montenegró
+MAGYARÁZAT: 2007. január 1-jétől Románia és Bulgária az Unió tagja.
+---
+ID: fold-b1-kviz-019
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia 2007-ben Bulgáriával együtt csatlakozott az Európai Unióhoz.
+HELYES: Igaz
+MAGYARÁZAT: Románia és Bulgária 2007. január 1-jével lett az Unió tagja.
+---
+ID: fold-b1-kviz-020
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik ország csatlakozott utoljára az EU-hoz, 2013-ban?
+HELYES: Horvátország
+ROSSZ1: Szlovénia
+ROSSZ2: Ciprus
+ROSSZ3: Málta
+MAGYARÁZAT: Horvátország 2013-ban lett az Unió 28. tagállama.
+---
+ID: fold-b1-kviz-021
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Egyesült Királyság 2020. január 31-én kilépett az Európai Unióból.
+HELYES: Igaz
+MAGYARÁZAT: A Brexit 2020. január 31-én lépett hatályba.
+---
+ID: fold-b1-kviz-022
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szerződés döntött az euró bevezetéséről?
+HELYES: maastrichti szerződés
+ROSSZ1: római szerződések
+ROSSZ2: lisszaboni szerződés
+ROSSZ3: nizzai szerződés
+MAGYARÁZAT: A maastrichti szerződés határozta meg az egységes pénz, az euró bevezetését.
+---
+ID: fold-b1-kviz-023
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Európai Bizottság székhelye Brüsszel.
+HELYES: Igaz
+MAGYARÁZAT: Az Európai Bizottság Brüsszelben működik, az Unió végrehajtó szerve.
+---
+ID: fold-b1-kviz-024
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A maastrichti szerződés után az EU-ban csak az egységes piac működött.
+HELYES: Hamis
+MAGYARÁZAT: A szerződés három pillért hozott létre, köztük a közös kül- és biztonságpolitikát.
+---
+ID: fold-b1-kviz-025
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Hány tagállama van jelenleg az Európai Uniónak?
+HELYES: 27
+ROSSZ1: 25
+ROSSZ2: 28
+ROSSZ3: 30
+MAGYARÁZAT: A Brexit után az Unió 27 tagállamból áll.
+---
+ID: fold-b1-kviz-026
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia nem tagja az eurózónának.
+HELYES: Igaz
+MAGYARÁZAT: Románia a román lejt használja, az euró bevezetése még nem történt meg.
+---
+ID: fold-b1-kviz-027
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Melyek az egységes piac alapelvei?
+HELYES: áruk, szolgáltatások, tőke és személyek szabad mozgása
+ROSSZ1: csak az áruk szabad mozgása
+ROSSZ2: csak a tőke szabad mozgása
+ROSSZ3: vámok kivetése a tagállamok között
+MAGYARÁZAT: Az egységes piac négy szabadságra épül: az áruk, a szolgáltatások, a tőke és a személyek szabad mozgására.
+---
+ID: fold-b1-kviz-028
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A schengeni övezetben a tagállamok belső határain általában nincs személyi határellenőrzés.
+HELYES: Igaz
+MAGYARÁZAT: A schengeni övezetben a belső határokon általában nincs személyi határellenőrzés, kivéve a rendkívüli helyzeteket.
+---
+ID: fold-b1-kviz-029
+LECKE_ID: fold-b1-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia az EGK 1957-es alapító tagjai között szerepelt.
+HELYES: Hamis
+MAGYARÁZAT: Az EGK alapító tagjai Franciaország, Nyugat-Németország, Olaszország, Belgium, Hollandia és Luxemburg voltak.
+---
+ID: fold-b1-kviz-030
+LECKE_ID: fold-b1-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós intézmény székhelye Strasbourg?
+HELYES: Európai Parlament
+ROSSZ1: Európai Bizottság
+ROSSZ2: Európai Központi Bank
+ROSSZ3: Európai Bíróság
+MAGYARÁZAT: Az Európai Parlament plenáris ülései Strasbourgban zajlanak, a Bizottság Brüsszelben működik.

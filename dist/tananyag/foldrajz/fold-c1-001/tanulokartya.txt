@@ -1,0 +1,179 @@
+ID: fold-c1-kartya-001
+LECKE_ID: fold-c1-001
+ELŐLAP: A Föld népessége elérte a 8 milliárdot
+HÁTLAP: 2022.
+---
+ID: fold-c1-kartya-002
+LECKE_ID: fold-c1-001
+ELŐLAP: Legnagyobb népességnövekedés évszázada
+HÁTLAP: A 20. század.
+---
+ID: fold-c1-kartya-003
+LECKE_ID: fold-c1-001
+ELŐLAP: Népességnövekedés csúcsa
+HÁTLAP: Az 1960–70-es évek.
+---
+ID: fold-c1-kartya-004
+LECKE_ID: fold-c1-001
+ELŐLAP: Demográfiai átmenet
+HÁTLAP: A magas születési és halálozási arány után mindkettő alacsonyra csökken.
+---
+ID: fold-c1-kartya-005
+LECKE_ID: fold-c1-001
+ELŐLAP: Kb. hány millió ember éhezik vagy alultáplált?
+HÁTLAP: 700–800 millió.
+---
+ID: fold-c1-kartya-006
+LECKE_ID: fold-c1-001
+ELŐLAP: Élelmiszer-termelés becsült hányada, amely elpazarlódik
+HÁTLAP: Kb. egyharmada.
+---
+ID: fold-c1-kartya-007
+LECKE_ID: fold-c1-001
+ELŐLAP: Melyik szervezet éves jelentése a világ éhezéséről?
+HÁTLAP: FAO (ENSZ Élelmezési és Mezőgazdasági Szervezete).
+---
+ID: fold-c1-kartya-008
+LECKE_ID: fold-c1-001
+ELŐLAP: 2022-es háború hatása a világ élelmezésére
+HÁTLAP: Megzavarta a gabonakereskedelmet, nőttek az árak.
+---
+ID: fold-c1-kartya-009
+LECKE_ID: fold-c1-001
+ELŐLAP: Globális felmelegedés fő oka
+HÁTLAP: Az üvegházhatású gázok kibocsátásának növekedése.
+---
+ID: fold-c1-kartya-010
+LECKE_ID: fold-c1-001
+ELŐLAP: Párizsi Megállapodás (2015) egyik fő hőmérsékleti célja
+HÁTLAP: 1,5 °C (jóval 2 °C alatt).
+---
+ID: fold-c1-kartya-011
+LECKE_ID: fold-c1-001
+ELŐLAP: Az emberi tevékenységből származó legnagyobb mennyiségű üvegházhatású gáz
+HÁTLAP: Szén-dioxid.
+---
+ID: fold-c1-kartya-012
+LECKE_ID: fold-c1-001
+ELŐLAP: Európa felmelegedése a globális átlaghoz képest
+HÁTLAP: Gyorsabb.
+---
+ID: fold-c1-kartya-013
+LECKE_ID: fold-c1-001
+ELŐLAP: A tengerszint-emelkedés két fő oka
+HÁTLAP: Olvadó jégtakaró és a víz hőtágulása.
+---
+ID: fold-c1-kartya-014
+LECKE_ID: fold-c1-001
+ELŐLAP: Mekkora a Föld szárazföldjének száraz területi aránya?
+HÁTLAP: Kb. 40%.
+---
+ID: fold-c1-kartya-015
+LECKE_ID: fold-c1-001
+ELŐLAP: Közép-ázsiai elsivatagosodás klasszikus példája
+HÁTLAP: Az Aral-tenger zsugorodása.
+---
+ID: fold-c1-kartya-016
+LECKE_ID: fold-c1-001
+ELŐLAP: Afrikai elsivatagosodással érintett övezet
+HÁTLAP: A Száhel-övezet.
+---
+ID: fold-c1-kartya-017
+LECKE_ID: fold-c1-001
+ELŐLAP: Az elsivatagosodás egyik fő emberi okozója
+HÁTLAP: A túllegeltetés.
+---
+ID: fold-c1-kartya-018
+LECKE_ID: fold-c1-001
+ELŐLAP: Európai térség, amelyet elsivatagosodás fenyeget
+HÁTLAP: Dél-Európa (Spanyolország, Görögország, Dél-Olaszország).
+---
+ID: fold-c1-kartya-019
+LECKE_ID: fold-c1-001
+ELŐLAP: Kb. hány milliárd embernek nincs biztonságosan kezelt ivóvize?
+HÁTLAP: 2,2 milliárd.
+---
+ID: fold-c1-kartya-020
+LECKE_ID: fold-c1-001
+ELŐLAP: Az édesvíz-felhasználás legnagyobb része
+HÁTLAP: Mezőgazdaság (kb. 70%).
+---
+ID: fold-c1-kartya-021
+LECKE_ID: fold-c1-001
+ELŐLAP: A talajvízkészletek túlzott kiaknázásának következménye
+HÁTLAP: A kutak kiszáradnak, a talaj süllyedhet.
+---
+ID: fold-c1-kartya-022
+LECKE_ID: fold-c1-001
+ELŐLAP: Hány százaléka a Föld vízkészletének sós víz?
+HÁTLAP: Kb. 97%.
+---
+ID: fold-c1-kartya-023
+LECKE_ID: fold-c1-001
+ELŐLAP: A világ legvízhiányosabb térsége (példa)
+HÁTLAP: Közel-Kelet és Észak-Afrika.
+---
+ID: fold-c1-kartya-024
+LECKE_ID: fold-c1-001
+ELŐLAP: Mit mér az emberi fejlettségi index (HDI)?
+HÁTLAP: Egészséget, műveltséget és jövedelmet.
+---
+ID: fold-c1-kartya-025
+LECKE_ID: fold-c1-001
+ELŐLAP: Szegénységi arány magas térsége
+HÁTLAP: Szub-Szaharai Afrika.
+---
+ID: fold-c1-kartya-026
+LECKE_ID: fold-c1-001
+ELŐLAP: A legkevésbé fejlett országok ENSZ-csoportja
+HÁTLAP: LDC.
+---
+ID: fold-c1-kartya-027
+LECKE_ID: fold-c1-001
+ELŐLAP: Urbanizáció
+HÁTLAP: A városi népesség arányának növekedése.
+---
+ID: fold-c1-kartya-028
+LECKE_ID: fold-c1-001
+ELŐLAP: Mettől él a világ népességének többsége városokban?
+HÁTLAP: 2007-től.
+---
+ID: fold-c1-kartya-029
+LECKE_ID: fold-c1-001
+ELŐLAP: Mit jelent az egyenlőtlen fejlődés?
+HÁTLAP: Az országok közötti jövedelmi és életszínvonal-különbségek megléte.
+---
+ID: fold-c1-kartya-030
+LECKE_ID: fold-c1-001
+ELŐLAP: Mi a Párizsi Megállapodás évszáma?
+HÁTLAP: 2015.
+---
+ID: fold-c1-kartya-031
+LECKE_ID: fold-c1-001
+ELŐLAP: Mi az ivóvízhiány fő oka a mezőgazdaságban?
+HÁTLAP: Az öntözés magas vízfelhasználása.
+---
+ID: fold-c1-kartya-032
+LECKE_ID: fold-c1-001
+ELŐLAP: Európa éghajlatváltozásának egyik következménye
+HÁTLAP: Hőhullámok és szélsőséges időjárás gyakorisága.
+---
+ID: fold-c1-kartya-033
+LECKE_ID: fold-c1-001
+ELŐLAP: Mi a demográfiai átmenet utolsó szakasza?
+HÁTLAP: Alacsony születési és halálozási arány.
+---
+ID: fold-c1-kartya-034
+LECKE_ID: fold-c1-001
+ELŐLAP: Az ENSZ mutatója az egészség, műveltség és jövedelem együttes mérésére
+HÁTLAP: HDI.
+---
+ID: fold-c1-kartya-035
+LECKE_ID: fold-c1-001
+ELŐLAP: Az élelmiszer-pazarlás hatása
+HÁTLAP: A termelésre fordított erőforrások is elvesznek.
+---
+ID: fold-c1-kartya-036
+LECKE_ID: fold-c1-001
+ELŐLAP: Az elsivatagosodás definíciója
+HÁTLAP: A talaj termékenységének csökkenése a száraz területeken.

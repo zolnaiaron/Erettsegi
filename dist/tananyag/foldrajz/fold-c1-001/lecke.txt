@@ -1,0 +1,37 @@
+ID: fold-c1-001
+CÍM: Globális kihívások a kortárs világban: népességrobbanás, élelmezési válság, éghajlatváltozás, elsivatagosodás, ivóvízhiány, egyenlőtlen fejlődés
+SZÖVEG:
+# Globális kihívások a kortárs világban
+A 20. század második felétől a Föld népessége gyorsan nőtt, ezzel együtt nőtt az élelem-, víz- és energiaigény is. A természeti erőforrások szűkülése, az éghajlatváltozás és a fejlettségi különbségek olyan kihívásokat hoznak létre, amelyek az egész emberiséget érintik, így Európát is.
+
+## Népességrobbanás
+- 2022-ben a Föld népessége elérte a 8 milliárd főt. A 20. században a népesség a legnagyobb mértékben nőtt, kb. 1,6 milliárdról 6 milliárdra.
+- A növekedés üteme ma már lassul, a születésszám csökkenésével. A népességnövekedés csúcsa az 1960–70-es években volt.
+- A **demográfiai átmenet** az a folyamat, amelyben a magas születési és halálozási arány után mindkettő alacsonyra csökken. A fejlettebb országok ezen már túljutottak, Európában a lakosság több országban csökken és elöregszik.
+
+## Élelmezési válság
+- Becslések szerint a világ népességének jelentős része, kb. 700–800 millió ember éhezik vagy alultáplált. A helyzetet az ENSZ Élelmezési és Mezőgazdasági Szervezete (FAO) évente jelentésben értékeli.
+- Az élelmiszer-termelés becsült egyharmada elpazarlódik, miközben a termelés egyenlőtlenül oszlik meg.
+- Az élelmiszerárakat befolyásolja a termelés, az energiaárak, az időjárás és a háborúk. A 2022-es ukrajnai háború megzavarta a gabonakereskedelmet, és több ország élelmiszer-importja drágult.
+
+## Éghajlatváltozás
+- A globális felmelegedés fő oka az üvegházhatású gázok, elsősorban a szén-dioxid kibocsátásának növekedése. A szén-dioxid az emberi tevékenységből származó legnagyobb mennyiségű üvegházhatású gáz.
+- A 2015-ös **Párizsi Megállapodás** célja, hogy az átlaghőmérséklet-emelkedést jóval 2 °C alatt tartsák, és törekedjenek 1,5 °C-ra.
+- Az éghajlatváltozás következményei a hőhullámok, a szélsőséges időjárás, a tengerszint-emelkedés (az olvadó jégtakaró és a víz hőtágulása miatt) és az ökoszisztémák átalakulása.
+- Európa gyorsabban melegszik, mint a globális átlag, ezért a kontinens különösen érintett.
+
+## Elsivatagosodás
+- A Föld szárazföldjeinek kb. 40%-a száraz területnek számít. Az elsivatagosodás a talaj termékenységének csökkenését jelenti.
+- Fő okai az éghajlatváltozás, a túllegeltetés, az erdőirtás és a nem megfelelő öntözés. A **Száhel-övezet** Afrikában, és a Földközi-tenger térsége (Spanyolország, Görögország, Dél-Olaszország) érintett.
+- Klasszikus példa a **Aral-tenger** zsugorodása Közép-Ázsiában, a vízelvonás miatt.
+
+## Ivóvízhiány
+- Becslések szerint kb. 2,2 milliárd embernek nincs biztonságosan kezelt ivóvíze.
+- A Föld vízkészletének kb. 97%-a sós víz, az édesvíz nagy része jégként vagy mélyen fekvő talajvízként van jelen.
+- Az édesvíz-felhasználás legnagyobb része, kb. 70%-a, a mezőgazdaságba megy. A talajvízkészletek túlzott kiaknázása számos régióban problémát okoz, különösen a Közel-Keleten és Észak-Afrikában.
+
+## Egyenlőtlen fejlődés
+- A jövedelmi különbségek az országok között továbbra is jelentősek. Az ENSZ Fejlesztési Programja (UNDP) az emberi fejlettségi indexszel (HDI) méri az egészséget, a műveltséget és a jövedelmet.
+- Szub-Szaharai Afrikában magas a szegénységi arány, míg Európa és Észak-Amerika többsége fejlett.
+- A legkevésbé fejlett országok (LDC) csoportja az ENSZ listáján szerepel, ezeknek segítségre van szükségük az oktatásban, egészségügyben és infrastruktúrában.
+- A világ népességének több mint fele 2007 óta városokban él, az urbanizáció globálisan folyamatosan nő.

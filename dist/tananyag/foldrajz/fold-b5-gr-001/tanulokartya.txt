@@ -1,0 +1,179 @@
+ID: fold-b5-gr-kartya-001
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország szárazföldi szomszédainak száma
+HÁTLAP: 4 (Albánia, Észak-Macedónia, Bulgária, Törökország).
+---
+ID: fold-b5-gr-kartya-002
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország keleti tengere
+HÁTLAP: Égei-tenger.
+---
+ID: fold-b5-gr-kartya-003
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország nyugati tengere
+HÁTLAP: Ión-tenger.
+---
+ID: fold-b5-gr-kartya-004
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Kréta tengere
+HÁTLAP: Líbiai-tenger (délen).
+---
+ID: fold-b5-gr-kartya-005
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görög–török határfolyó
+HÁTLAP: Evrosz (Meriç).
+---
+ID: fold-b5-gr-kartya-006
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország legnagyobb szigete
+HÁTLAP: Kréta.
+---
+ID: fold-b5-gr-kartya-007
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország legmagasabb csúcsa
+HÁTLAP: Olümposz, 2917 m.
+---
+ID: fold-b5-gr-kartya-008
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország északnyugati gerince
+HÁTLAP: Pindosz.
+---
+ID: fold-b5-gr-kartya-009
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Vulkáni sziget az Égei-tengerben
+HÁTLAP: Théra (Santorini).
+---
+ID: fold-b5-gr-kartya-010
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország legnagyobb síksága
+HÁTLAP: Thesszáliai-síkság.
+---
+ID: fold-b5-gr-kartya-011
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország nagy részének karsztos képződményei
+HÁTLAP: Nagy kiterjedésű mészkőkarszt (hegyvidék, Peloponnészosz).
+---
+ID: fold-b5-gr-kartya-012
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Középső hegység, mitológiai hellyel
+HÁTLAP: Parnasszosz (2457 m).
+---
+ID: fold-b5-gr-kartya-013
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország éghajlattípusa
+HÁTLAP: Mediterrán.
+---
+ID: fold-b5-gr-kartya-014
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Nyári erős északi szél az Égei-tengeren
+HÁTLAP: Meltemi.
+---
+ID: fold-b5-gr-kartya-015
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Afrikai eredetű forró szél Görögországban
+HÁTLAP: Sirocco.
+---
+ID: fold-b5-gr-kartya-016
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Észak-Görögország belső részeinek éghajlati hatása
+HÁTLAP: Kontinentális (hidegebb telek).
+---
+ID: fold-b5-gr-kartya-017
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország nyara
+HÁTLAP: Száraz.
+---
+ID: fold-b5-gr-kartya-018
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország tengerparti telei
+HÁTLAP: Enyhék, csapadékosabbak.
+---
+ID: fold-b5-gr-kartya-019
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Leghosszabb, teljes egészében görög folyó
+HÁTLAP: Aliákmon (a Termai-öbölbe ömlik).
+---
+ID: fold-b5-gr-kartya-020
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görög–török határfolyó az Égei-tengerben
+HÁTLAP: Evrosz.
+---
+ID: fold-b5-gr-kartya-021
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Ión-tengerbe torkolló folyó
+HÁTLAP: Acheloos.
+---
+ID: fold-b5-gr-kartya-022
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország legnagyobb természetes tava
+HÁTLAP: Trichonida-tó.
+---
+ID: fold-b5-gr-kartya-023
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Három ország közös tava
+HÁTLAP: Préspa-tó (Görögország, Albánia, Észak-Macedónia).
+---
+ID: fold-b5-gr-kartya-024
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Észak-Macedóniából érkező folyó, Szalonikánál ömlik a tengerbe
+HÁTLAP: Axios (Vardar).
+---
+ID: fold-b5-gr-kartya-025
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország fővárosa
+HÁTLAP: Athén (Attika tartomány).
+---
+ID: fold-b5-gr-kartya-026
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország második legnagyobb városa
+HÁTLAP: Szalonika.
+---
+ID: fold-b5-gr-kartya-027
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Peloponnészosz északi kikötővárosa
+HÁTLAP: Patras.
+---
+ID: fold-b5-gr-kartya-028
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Kréta fővárosa
+HÁTLAP: Iráklion.
+---
+ID: fold-b5-gr-kartya-029
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország lakossága
+HÁTLAP: Kb. 10,4 millió fő.
+---
+ID: fold-b5-gr-kartya-030
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Thesszália központja
+HÁTLAP: Larissa.
+---
+ID: fold-b5-gr-kartya-031
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország egyik világszerte jelentős ágazata
+HÁTLAP: Hajózás (kereskedelmi flotta).
+---
+ID: fold-b5-gr-kartya-032
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Lignitbányászat Nyugat-Macedóniában
+HÁTLAP: Ptolemaida környéke.
+---
+ID: fold-b5-gr-kartya-033
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görög sajtfajta
+HÁTLAP: Feta.
+---
+ID: fold-b5-gr-kartya-034
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország fontos gazdasági ágazata (szigetekre épül)
+HÁTLAP: Turizmus.
+---
+ID: fold-b5-gr-kartya-035
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögország jelentős mezőgazdasági terméke
+HÁTLAP: Olívaolaj.
+---
+ID: fold-b5-gr-kartya-036
+LECKE_ID: fold-b5-gr-001
+ELŐLAP: Görögországban gyorsan növekvő megújuló energiaforrások
+HÁTLAP: Szél- és napenergia.

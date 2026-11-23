@@ -1,0 +1,33 @@
+ID: fold-b5-it-001
+CÍM: Olaszország
+SZÖVEG:
+# Olaszország
+Olaszország a Földközi-tengerbe nyúló félsziget és két nagy sziget, Szicília és Szardínia állama. Gazdasága, kultúrája és turizmusa az Európai Unió egyik legnagyobb ereje. Az alábbi hat szempont mentén érdemes áttekinteni.
+
+## 1. Fekvés és határok
+- **Tengerparti állam**: nyugaton a Tirrén-tenger, keleten az Adriai-tenger, délen az Ión-tenger partjával, valamint a Ligur-tenger határolja északnyugaton.
+- **Szárazföldi szomszédai**: négy ország. Nyugaton Franciaország, északon Svájc és Ausztria, északkeleten Szlovénia.
+- **Enklávé államok**: a **Vatikán** Róma területén belül fekszik, a **San Marino** pedig Olaszország területén belül.
+
+## 2. Domborzat
+- **Fő domborzati egységek**: az északi **Alpok** és a **Pó-síkság**, az ország gerincét alkotó **Appenninek**, valamint Szicília hegyes belseje.
+- **Domborzattípusok**: az Alpokban gleccserek és völgyek, a **Dolomitok** és a Carso (Karszt) karsztos formái Trieszt környékén, a **Vezúv** és az **Etna** vulkáni kúpjai, Szicíliában és Nápoly mellett.
+- **Legmagasabb csúcs**: a **Monte Bianco** (Mont Blanc, 4808 m), amely az olasz–francia határon található. A legmagasabb aktív vulkán az **Etna** (3357 m), Szicíliában.
+
+## 3. Éghajlat
+- **Éghajlati övezet és típus**: délen mediterrán, forró, száraz nyárral és enyhe, csapadékos telekkel. Az északi részen mérsékeltebb, a Pó-síkságon a nyári hőség és a páratartalom nagyobb. Az Alpokban hegyvidéki éghajlat van.
+- **Jellemző szelek**: a **Sirocco** forró, száraz szél, amely Afrika felől Szicíliát és Dél-Olaszországot éri. A **Bora** hideg északkeleti szél Triesztnél az Adriai-tenger partján. A **Maestrale** hideg északnyugati szél Szardínia térségében.
+
+## 4. Vízrajz
+- **Főbb folyók és torkolatuk**: a **Pó** Olaszország leghosszabb folyója, az Adriai-tengerbe ömlik, a **Tiber** Rómán át a Tirrén-tengerbe, az **Arno** Firenzén át a Tirrén-tengerbe, az **Adige** pedig Verona mellett folyik és az Adriai-tengerbe torkollik.
+- **Fontosabb tavak**: a **Garda-tó** Olaszország legnagyobb tava, a **Como-tó** Milánó közelében, a **Maggiore-tó** pedig Svájc és Olaszország között.
+
+## 5. Népesség és városok
+- **Főváros**: **Róma**, az ország közép-nyugati részén, a Tiber partján. Az ország lakossága kb. 59 millió fő.
+- **Fontos városok és kikötők**: **Milánó** (az ország pénzügyi és divatközpontja, a Pó-síkságon), **Nápoly** (a Tirrén-tenger partján fekvő nagy kikötő), **Torino**, **Genova** (nagy tengeri kikötő), valamint **Velence** (lagúnákra épült város), **Firenze** és **Palermo** (Szicília fővárosa).
+
+## 6. Gazdaság és erőforrások
+- **Energiahordozók**: nincs működő atomerőmű, 1987-es népszavazás után az atomenergiát kivezették. Az energia nagy részét földgázból és importált energiából fedezik. A Toszkánában, Larderellóban működő geotermikus erőmű az egyik legrégebbi a világon. Az Alpokban vízerőművek működnek, a szél- és napenergia nő.
+- **Vezető iparágak**: az autóipar (Ferrari Maranellóban, Fiat Torinóban), a gépgyártás, a divat- és textilipar Milánóban és Firenzében, valamint az élelmiszeripar (tészta, sajt, bor).
+- **Mezőgazdaság**: az olívaolaj (Puglia, Toszkána), a borászat (Piemont, Toszkána), a citrusfélék Szicíliában, a rizstermesztés a Pó-síkságon.
+- **Turizmus**: Róma, Velence, Firenze és az Amalfi-part vonzza a turistákat. Olaszországban a világ egyik legtöbb UNESCO világörökségi helyszíne van.

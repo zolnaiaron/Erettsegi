@@ -1,0 +1,179 @@
+ID: fold-b3-kartya-001
+LECKE_ID: fold-b3-001
+ELŐLAP: Románia NATO-csatlakozásának éve
+HÁTLAP: 2004.
+---
+ID: fold-b3-kartya-002
+LECKE_ID: fold-b3-001
+ELŐLAP: Mihail Kogălniceanu támaszpont helye
+HÁTLAP: Constanța közelében.
+---
+ID: fold-b3-kartya-003
+LECKE_ID: fold-b3-001
+ELŐLAP: Deveselu támaszpont fő feladata
+HÁTLAP: A NATO rakétavédelmi rendszerének romániai eleme.
+---
+ID: fold-b3-kartya-004
+LECKE_ID: fold-b3-001
+ELŐLAP: Van-e közös határa Romániának Oroszországgal?
+HÁTLAP: Nincs.
+---
+ID: fold-b3-kartya-005
+LECKE_ID: fold-b3-001
+ELŐLAP: Románia és Ukrajna közötti határ státusza az EU-ban
+HÁTLAP: Az EU keleti külső határa.
+---
+ID: fold-b3-kartya-006
+LECKE_ID: fold-b3-001
+ELŐLAP: Ukrajna és Moldova uniós státusza
+HÁTLAP: Tagjelölt.
+---
+ID: fold-b3-kartya-007
+LECKE_ID: fold-b3-001
+ELŐLAP: Ukrajna uniós tagjelölt státuszának éve
+HÁTLAP: 2022.
+---
+ID: fold-b3-kartya-008
+LECKE_ID: fold-b3-001
+ELŐLAP: Románia pénzneme
+HÁTLAP: Román lej (RON).
+---
+ID: fold-b3-kartya-009
+LECKE_ID: fold-b3-001
+ELŐLAP: IV. páneurópai közlekedési folyosó
+HÁTLAP: Dresden–Isztambul irány, Romániában Arad–Bukarest–Szófia szakasz.
+---
+ID: fold-b3-kartya-010
+LECKE_ID: fold-b3-001
+ELŐLAP: A páneurópai folyosók célja
+HÁTLAP: A közlekedési és szállítási infrastruktúra összekapcsolása.
+---
+ID: fold-b3-kartya-011
+LECKE_ID: fold-b3-001
+ELŐLAP: Helyreállítási és Rezilienciaeszköz célja
+HÁTLAP: A járvány utáni újjáépítés és a zöld és digitális átállás támogatása.
+---
+ID: fold-b3-kartya-012
+LECKE_ID: fold-b3-001
+ELŐLAP: BSEC teljes neve
+HÁTLAP: Fekete-tengeri Gazdasági Együttműködés.
+---
+ID: fold-b3-kartya-013
+LECKE_ID: fold-b3-001
+ELŐLAP: Az EU közös kül- és biztonságpolitikájának vezetője
+HÁTLAP: Az EU külügyi és biztonságpolitikai főképviselője.
+---
+ID: fold-b3-kartya-014
+LECKE_ID: fold-b3-001
+ELŐLAP: Magyar–román alapszerződés éve
+HÁTLAP: 1996.
+---
+ID: fold-b3-kartya-015
+LECKE_ID: fold-b3-001
+ELŐLAP: Az alapszerződés fő tartalma
+HÁTLAP: Kölcsönös elismerés és a kisebbségi jogok védelme.
+---
+ID: fold-b3-kartya-016
+LECKE_ID: fold-b3-001
+ELŐLAP: Egyik fő célország a román munkavállalóknak
+HÁTLAP: Olaszország.
+---
+ID: fold-b3-kartya-017
+LECKE_ID: fold-b3-001
+ELŐLAP: Románia fő emigrációs célországai
+HÁTLAP: Olaszország, Spanyolország, Németország.
+---
+ID: fold-b3-kartya-018
+LECKE_ID: fold-b3-001
+ELŐLAP: Remittance
+HÁTLAP: A külföldön dolgozók hazaküldött pénze.
+---
+ID: fold-b3-kartya-019
+LECKE_ID: fold-b3-001
+ELŐLAP: Románia teljes schengeni csatlakozása a szárazföldi határokon
+HÁTLAP: 2025. január 1.
+---
+ID: fold-b3-kartya-020
+LECKE_ID: fold-b3-001
+ELŐLAP: Románia EU-csatlakozásának éve
+HÁTLAP: 2007.
+---
+ID: fold-b3-kartya-021
+LECKE_ID: fold-b3-001
+ELŐLAP: Románia és az EU-n kívüli szomszédai
+HÁTLAP: Ukrajna, Moldova, Szerbia.
+---
+ID: fold-b3-kartya-022
+LECKE_ID: fold-b3-001
+ELŐLAP: Erasmus+ célja
+HÁTLAP: Diákok és fiatal szakemberek külföldi képzésének, mobilitásának támogatása.
+---
+ID: fold-b3-kartya-023
+LECKE_ID: fold-b3-001
+ELŐLAP: EU tagállamainak száma 2007 után
+HÁTLAP: 27.
+---
+ID: fold-b3-kartya-024
+LECKE_ID: fold-b3-001
+ELŐLAP: KKBP vezetője
+HÁTLAP: Az EU külügyi és biztonságpolitikai főképviselője.
+---
+ID: fold-b3-kartya-025
+LECKE_ID: fold-b3-001
+ELŐLAP: Románia és a Fekete-tengeri Gazdasági Együttműködés
+HÁTLAP: Tagja.
+---
+ID: fold-b3-kartya-026
+LECKE_ID: fold-b3-001
+ELŐLAP: Román társadalom egyik fő kihívása az uniós integráció után
+HÁTLAP: Munkaerő-elvándorlás és régiók közötti különbségek.
+---
+ID: fold-b3-kartya-027
+LECKE_ID: fold-b3-001
+ELŐLAP: Románia álláspontja Ukrajna és Moldova uniós csatlakozásáról
+HÁTLAP: Támogatja.
+---
+ID: fold-b3-kartya-028
+LECKE_ID: fold-b3-001
+ELŐLAP: Moldova és Ukrajna uniós tagjelölt státuszának éve
+HÁTLAP: 2022.
+---
+ID: fold-b3-kartya-029
+LECKE_ID: fold-b3-001
+ELŐLAP: A román külpolitika egyik fő iránya
+HÁTLAP: Kötődés a nyugati szövetségi rendszerhez (NATO, EU).
+---
+ID: fold-b3-kartya-030
+LECKE_ID: fold-b3-001
+ELŐLAP: Fekete-tenger és az EU
+HÁTLAP: A Fekete-tengeri part az EU külső határa.
+---
+ID: fold-b3-kartya-031
+LECKE_ID: fold-b3-001
+ELŐLAP: Mit jelent a NATO keleti szárnya Románia szempontjából?
+HÁTLAP: A keleti tagállamok, köztük Románia, a térség védelmében.
+---
+ID: fold-b3-kartya-032
+LECKE_ID: fold-b3-001
+ELŐLAP: Románia és Bulgária közös csatlakozása
+HÁTLAP: 2007.
+---
+ID: fold-b3-kartya-033
+LECKE_ID: fold-b3-001
+ELŐLAP: A Fekete-tenger biztonsága az EU számára
+HÁTLAP: Fontos külső biztonsági kérdés.
+---
+ID: fold-b3-kartya-034
+LECKE_ID: fold-b3-001
+ELŐLAP: Románia egyik gazdasági ereje
+HÁTLAP: Az autóipar és a szolgáltatások.
+---
+ID: fold-b3-kartya-035
+LECKE_ID: fold-b3-001
+ELŐLAP: A Helyreállítási Alap célja
+HÁTLAP: A járvány utáni gazdasági újjáépítés és a zöld, digitális átállás támogatása.
+---
+ID: fold-b3-kartya-036
+LECKE_ID: fold-b3-001
+ELŐLAP: Az uniós integráció kulcsa jogi szempontból
+HÁTLAP: A közös szabályok átvétele és a jogharmonizáció.

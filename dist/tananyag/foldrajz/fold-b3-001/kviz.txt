@@ -1,0 +1,254 @@
+ID: fold-b3-kviz-001
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia az Európai Unió és a NATO keleti határán fekszik.
+HELYES: Igaz
+MAGYARÁZAT: Románia szomszédja Ukrajna és Moldova, így az EU és a NATO keleti peremén található.
+---
+ID: fold-b3-kviz-002
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik katonai szövetség tagja Románia 2004 óta?
+HELYES: NATO
+ROSSZ1: Varsói Szerződés
+ROSSZ2: SEATO
+ROSSZ3: ANZUS
+MAGYARÁZAT: Románia 2004-ben lett a NATO tagja, a Varsói Szerződés megszűnt, a többi szervezet nem európai.
+---
+ID: fold-b3-kviz-003
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia és Ukrajna közötti határ egyben az Európai Unió külső határa.
+HELYES: Igaz
+MAGYARÁZAT: Ukrajna nem tagja az Uniónak, így a közös határ az EU keleti külső határa.
+---
+ID: fold-b3-kviz-004
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia közvetlenül határos Oroszországgal.
+HELYES: Hamis
+MAGYARÁZAT: Románia szomszédai Ukrajna, Moldova, Magyarország, Szerbia és Bulgária, Oroszországgal nincs közös határa.
+---
+ID: fold-b3-kviz-005
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik NATO-támaszpont található Constanța közelében?
+HELYES: Mihail Kogălniceanu
+ROSSZ1: Ramstein
+ROSSZ2: Aviano
+ROSSZ3: Deveselu
+MAGYARÁZAT: A Mihail Kogălniceanu támaszpont Constanța közelében található, a NATO keleti szárnyán fontos bázis.
+---
+ID: fold-b3-kviz-006
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A deveselui támaszpont a NATO rakétavédelmi rendszerének része.
+HELYES: Igaz
+MAGYARÁZAT: A Deveselu-i bázison működik a NATO európai rakétavédelmi rendszerének egyik eleme.
+---
+ID: fold-b3-kviz-007
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Mi a deveselui támaszpont fő feladata?
+HELYES: rakétavédelem
+ROSSZ1: űrkutatás
+ROSSZ2: atomerőmű-üzemeltetés
+ROSSZ3: olajfinomítás
+MAGYARÁZAT: A Deveselu a NATO rakétavédelmi rendszerének romániai eleme.
+---
+ID: fold-b3-kviz-008
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Mi Románia hivatalos pénzneme?
+HELYES: lej
+ROSSZ1: forint
+ROSSZ2: euró
+ROSSZ3: złoty
+MAGYARÁZAT: Románia pénzneme a román lej (RON), az euró bevezetése még nem történt meg.
+---
+ID: fold-b3-kviz-009
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik páneurópai közlekedési folyosó halad át Romániában Dresden és Isztambul között?
+HELYES: IV. folyosó
+ROSSZ1: I. folyosó
+ROSSZ2: II. folyosó
+ROSSZ3: X. folyosó
+MAGYARÁZAT: A IV. páneurópai folyosó Arad–Bukarest–Szófia szakaszon keresztül szeli át Romániát.
+---
+ID: fold-b3-kviz-010
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia uniós tagsága óta sok román állampolgár dolgozik más tagállamokban.
+HELYES: Igaz
+MAGYARÁZAT: A szabad munkavállalás miatt jelentős román munkaerő-elvándorlás indult meg a tagállamokba.
+---
+ID: fold-b3-kviz-011
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik EU-tagállam a román munkavállalók egyik fő célországa?
+HELYES: Olaszország
+ROSSZ1: Finnország
+ROSSZ2: Lettország
+ROSSZ3: Észtország
+MAGYARÁZAT: Olaszország, Spanyolország és Németország a román munkavállalók legfontosabb célországai.
+---
+ID: fold-b3-kviz-012
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia Fekete-tengeri partja nem része az Európai Unió külső határának.
+HELYES: Hamis
+MAGYARÁZAT: A Fekete-tengeri part az EU külső határa, így a tengeri biztonság az Unió számára is fontos.
+---
+ID: fold-b3-kviz-013
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia az EU keleti peremén, a Fekete-tenger térségében fontos biztonságpolitikai szereplő.
+HELYES: Igaz
+MAGYARÁZAT: A NATO-támaszpontok és a Fekete-tengeri együttműködés miatt Románia fontos szerepet tölt be a térségben.
+---
+ID: fold-b3-kviz-014
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós alap támogatja a 2020-as járvány utáni gazdasági újjáépítést?
+HELYES: Helyreállítási és Rezilienciaeszköz
+ROSSZ1: Európai Regionális Fejlesztési Alap
+ROSSZ2: Európai Stabilitási Mechanizmus
+ROSSZ3: Kohéziós Alap
+MAGYARÁZAT: A Helyreállítási és Rezilienciaeszköz a járvány utáni újjáépítést és a zöld és digitális átállást támogatja.
+---
+ID: fold-b3-kviz-015
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia nemzeti helyreállítási tervét uniós forrásból támogatják.
+HELYES: Igaz
+MAGYARÁZAT: A román helyreállítási terv a Helyreállítási és Rezilienciaeszköz forrásaiból valósul meg.
+---
+ID: fold-b3-kviz-016
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Mi a páneurópai közlekedési folyosók fő célja?
+HELYES: a közlekedési és szállítási infrastruktúra összekapcsolása
+ROSSZ1: a nemzeti határok lezárása
+ROSSZ2: közös hadsereg felállítása
+ROSSZ3: a helyi pénzek egységesítése
+MAGYARÁZAT: A páneurópai folyosók az Unió közlekedési hálózatát kötik össze.
+---
+ID: fold-b3-kviz-017
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia fő emigrációs célországai Olaszország, Spanyolország és Németország.
+HELYES: Igaz
+MAGYARÁZAT: Ez a három ország a legtöbb román munkavállaló célpontja az uniós tagság óta.
+---
+ID: fold-b3-kviz-018
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Mit jelent a remittance kifejezés?
+HELYES: a külföldön dolgozók által hazaküldött pénz
+ROSSZ1: külföldi befektetés gyárakba
+ROSSZ2: az euró árfolyamváltozása
+ROSSZ3: uniós tagállami támogatás
+MAGYARÁZAT: A remittance a külföldön dolgozók hazautalt pénze, amely fontos bevétel a családoknak és a gazdaságnak.
+---
+ID: fold-b3-kviz-019
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia 2025. január 1-jétől a szárazföldi határain is teljes körűen része a schengeni övezetnek.
+HELYES: Igaz
+MAGYARÁZAT: A légi és tengeri határok 2024 márciusában, a szárazföldi határok 2025 januárjában nyíltak meg teljesen.
+---
+ID: fold-b3-kviz-020
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben csatlakozott Románia az Európai Unióhoz?
+HELYES: 2007
+ROSSZ1: 2004
+ROSSZ2: 2013
+ROSSZ3: 1995
+MAGYARÁZAT: Románia 2007. január 1-jén lett az EU tagja Bulgáriával együtt.
+---
+ID: fold-b3-kviz-021
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Romániának nincs közös határa az Európai Unión kívüli országgal.
+HELYES: Hamis
+MAGYARÁZAT: Ukrajna, Moldova és Szerbia nem EU-tagok, és közös határuk van Romániával.
+---
+ID: fold-b3-kviz-022
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós program támogatja a diákok és fiatal szakemberek külföldi képzését?
+HELYES: Erasmus+
+ROSSZ1: Európai Stabilitási Mechanizmus
+ROSSZ2: Európai Kohéziós Alap
+ROSSZ3: Euró-kötvény
+MAGYARÁZAT: Az Erasmus+ program a tanulmányi és szakmai mobilitást támogatja.
+---
+ID: fold-b3-kviz-023
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia és Bulgária 2007-es csatlakozása után az Európai Unió 27 tagállamból állt.
+HELYES: Igaz
+MAGYARÁZAT: 2007-ben az EU 27 tagállamot számlált, Horvátország csak 2013-ban csatlakozott.
+---
+ID: fold-b3-kviz-024
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Ki az Európai Unió közös kül- és biztonságpolitikájának vezetője?
+HELYES: az EU külügyi és biztonságpolitikai főképviselője
+ROSSZ1: az Európai Központi Bank elnöke
+ROSSZ2: az Európai Számvevőszék elnöke
+ROSSZ3: az Európai Parlament elnöke
+MAGYARÁZAT: A főképviselő vezeti a KKBP-t, és az EU külpolitikáját képviseli.
+---
+ID: fold-b3-kviz-025
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia tagja a Fekete-tengeri Gazdasági Együttműködésnek (BSEC).
+HELYES: Igaz
+MAGYARÁZAT: A BSEC a Fekete-tenger térségének regionális együttműködési szervezete, amelynek Románia tagja.
+---
+ID: fold-b3-kviz-026
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik a román társadalom egyik legnagyobb kihívása az uniós integráció után?
+HELYES: munkaerő-elvándorlás és a régiók közötti különbségek
+ROSSZ1: túlzott népességnövekedés
+ROSSZ2: a turizmus teljes hiánya
+ROSSZ3: az ipar teljes megszűnése
+MAGYARÁZAT: Az elvándorlás és a fejlettségi különbségek ma is az egyik legfontosabb kérdés.
+---
+ID: fold-b3-kviz-027
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia támogatja Ukrajna és Moldova uniós csatlakozását.
+HELYES: Igaz
+MAGYARÁZAT: Románia a két ország európai integrációját politikailag is támogatja.
+---
+ID: fold-b3-kviz-028
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben kapott Ukrajna uniós tagjelölt státuszt?
+HELYES: 2022
+ROSSZ1: 2007
+ROSSZ2: 2013
+ROSSZ3: 2004
+MAGYARÁZAT: Ukrajna és Moldova 2022 júniusában kapott uniós tagjelölt státuszt.
+---
+ID: fold-b3-kviz-029
+LECKE_ID: fold-b3-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A román külpolitika egyik fő iránya a nyugati szövetségi rendszerhez, az EU-hoz és a NATO-hoz való kötődés.
+HELYES: Igaz
+MAGYARÁZAT: Románia 2004-ben a NATO, 2007-ben az EU tagja lett, ez határozza meg külpolitikai irányát.
+---
+ID: fold-b3-kviz-030
+LECKE_ID: fold-b3-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szerződés rögzíti a magyar–román kölcsönös elismerést és a kisebbségi jogok védelmét?
+HELYES: alapszerződés (1996)
+ROSSZ1: trianoni békeszerződés
+ROSSZ2: párizsi békeszerződés
+ROSSZ3: maastrichti szerződés
+MAGYARÁZAT: A magyar–román alapszerződést 1996-ban írták alá, és rögzíti a kölcsönös elismerést és a kisebbségi jogok védelmét.

@@ -1,0 +1,179 @@
+ID: fold-a6-kartya-001
+LECKE_ID: fold-a6-001
+ELŐLAP: Ukrajna fővárosa
+HÁTLAP: Kijev.
+---
+ID: fold-a6-kartya-002
+LECKE_ID: fold-a6-001
+ELŐLAP: Ukrajna pénzneme
+HÁTLAP: Hrivnya.
+---
+ID: fold-a6-kartya-003
+LECKE_ID: fold-a6-001
+ELŐLAP: Román–ukrán határ hossza
+HÁTLAP: Kb. 600 km.
+---
+ID: fold-a6-kartya-004
+LECKE_ID: fold-a6-001
+ELŐLAP: Ukrajna magyar kisebbségi tája
+HÁTLAP: Kárpátalja.
+---
+ID: fold-a6-kartya-005
+LECKE_ID: fold-a6-001
+ELŐLAP: Mi alkotja a román–ukrán határt a Duna-delta közelében?
+HÁTLAP: A Chilia-ág.
+---
+ID: fold-a6-kartya-006
+LECKE_ID: fold-a6-001
+ELŐLAP: Bukovina egyik fő városa Ukrajnában
+HÁTLAP: Csernyivci (Cernăuți).
+---
+ID: fold-a6-kartya-007
+LECKE_ID: fold-a6-001
+ELŐLAP: Moldova fővárosa
+HÁTLAP: Chișinău (Kisinyov).
+---
+ID: fold-a6-kartya-008
+LECKE_ID: fold-a6-001
+ELŐLAP: Moldova hivatalos nyelve
+HÁTLAP: Román, alkotmányosan moldovai néven is.
+---
+ID: fold-a6-kartya-009
+LECKE_ID: fold-a6-001
+ELŐLAP: Moldova pénzneme
+HÁTLAP: Moldovai lej.
+---
+ID: fold-a6-kartya-010
+LECKE_ID: fold-a6-001
+ELŐLAP: Moldova és Románia határának fő folyója
+HÁTLAP: A Prut.
+---
+ID: fold-a6-kartya-011
+LECKE_ID: fold-a6-001
+ELŐLAP: Szakadár terület Moldovában
+HÁTLAP: Transznisztria, a Dnyeszter bal partján.
+---
+ID: fold-a6-kartya-012
+LECKE_ID: fold-a6-001
+ELŐLAP: Moldova uniós státusza
+HÁTLAP: Tagjelölt (2022).
+---
+ID: fold-a6-kartya-013
+LECKE_ID: fold-a6-001
+ELŐLAP: Magyar–román határ hossza
+HÁTLAP: Kb. 450 km.
+---
+ID: fold-a6-kartya-014
+LECKE_ID: fold-a6-001
+ELŐLAP: A magyar–román alapszerződés éve
+HÁTLAP: 1996.
+---
+ID: fold-a6-kartya-015
+LECKE_ID: fold-a6-001
+ELŐLAP: Magyar–román határátkelő Arad közelében
+HÁTLAP: Nagylak–Nădlac.
+---
+ID: fold-a6-kartya-016
+LECKE_ID: fold-a6-001
+ELŐLAP: Magyar határ közeli romániai nagyváros
+HÁTLAP: Nagyvárad (Oradea).
+---
+ID: fold-a6-kartya-017
+LECKE_ID: fold-a6-001
+ELŐLAP: Romániai legnagyobb nemzeti kisebbség
+HÁTLAP: A magyar, főként Erdélyben, a Partiumban és a Székelyföldön.
+---
+ID: fold-a6-kartya-018
+LECKE_ID: fold-a6-001
+ELŐLAP: Szerbia fővárosa
+HÁTLAP: Belgrád.
+---
+ID: fold-a6-kartya-019
+LECKE_ID: fold-a6-001
+ELŐLAP: Szerbia pénzneme
+HÁTLAP: Dinár.
+---
+ID: fold-a6-kartya-020
+LECKE_ID: fold-a6-001
+ELŐLAP: Szerbiai tartomány, amely a Bánság folytatása
+HÁTLAP: Vajdaság.
+---
+ID: fold-a6-kartya-021
+LECKE_ID: fold-a6-001
+ELŐLAP: Román kisebbség Szerbiában
+HÁTLAP: A Timok-völgyben.
+---
+ID: fold-a6-kartya-022
+LECKE_ID: fold-a6-001
+ELŐLAP: Román–szerb határszakasz folyója
+HÁTLAP: A Duna, a Vaskapu-szorosnál.
+---
+ID: fold-a6-kartya-023
+LECKE_ID: fold-a6-001
+ELŐLAP: Bulgária fővárosa
+HÁTLAP: Szófia.
+---
+ID: fold-a6-kartya-024
+LECKE_ID: fold-a6-001
+ELŐLAP: Bulgária és Románia határfolyója (Vidin–Silistra)
+HÁTLAP: A Duna.
+---
+ID: fold-a6-kartya-025
+LECKE_ID: fold-a6-001
+ELŐLAP: Duna-híd Ruse és Giurgiu között
+HÁTLAP: Összeköti Bulgáriát és Romániát.
+---
+ID: fold-a6-kartya-026
+LECKE_ID: fold-a6-001
+ELŐLAP: Dél-Dobrudzsa története
+HÁTLAP: 1913-ban Romániához került, 1940-ben Bulgáriához csatolták.
+---
+ID: fold-a6-kartya-027
+LECKE_ID: fold-a6-001
+ELŐLAP: Bulgária legmagasabb csúcsa
+HÁTLAP: Musala (Rila), 2925 m.
+---
+ID: fold-a6-kartya-028
+LECKE_ID: fold-a6-001
+ELŐLAP: Melyik ország határolja Romániát északon?
+HÁTLAP: Ukrajna.
+---
+ID: fold-a6-kartya-029
+LECKE_ID: fold-a6-001
+ELŐLAP: Román kisebbség Ukrajnában
+HÁTLAP: Főként Bukovinában él.
+---
+ID: fold-a6-kartya-030
+LECKE_ID: fold-a6-001
+ELŐLAP: Székelyföld megyéi
+HÁTLAP: Hargita, Kovászna és Maros (részben).
+---
+ID: fold-a6-kartya-031
+LECKE_ID: fold-a6-001
+ELŐLAP: Mikor lett Románia és Bulgária schengeni tagja a szárazföldi határokon?
+HÁTLAP: 2025. január 1.
+---
+ID: fold-a6-kartya-032
+LECKE_ID: fold-a6-001
+ELŐLAP: Magyarország pénzneme
+HÁTLAP: Forint.
+---
+ID: fold-a6-kartya-033
+LECKE_ID: fold-a6-001
+ELŐLAP: Erdély Romániához kerülésének szerződése
+HÁTLAP: Trianoni békeszerződés (1920).
+---
+ID: fold-a6-kartya-034
+LECKE_ID: fold-a6-001
+ELŐLAP: Bulgária és Románia közös szárazföldi határa
+HÁTLAP: A Dobrudzsa déli része.
+---
+ID: fold-a6-kartya-035
+LECKE_ID: fold-a6-001
+ELŐLAP: Bulgária pénzneme
+HÁTLAP: Lev.
+---
+ID: fold-a6-kartya-036
+LECKE_ID: fold-a6-001
+ELŐLAP: Szerbia uniós státusza
+HÁTLAP: Tagjelölt.

@@ -1,0 +1,45 @@
+ID: fold-a5-001
+CÍM: A Kárpátok hegységrendszere: kiemelt esettanulmány
+SZÖVEG:
+# A Kárpátok hegységrendszere
+A Kárpátok Európa egyik legnagyobb hegységrendszere, amely a Kárpát-medence peremét alkotja. Romániai szakasza a hegység egyik legváltozatosabb része, ezért kiemelt esettanulmányként is érdemes vizsgálni.
+
+## Elhelyezkedés és kiterjedés
+- Kb. 1300 km hosszan ívelő hegységrendszer, amely **Csehország, Szlovákia, Lengyelország, Ukrajna, Magyarország, Románia** és **Szerbia** területén húzódik.
+- Ívének belsejében fekszik a **Kárpát-medence**, más néven Pannon-medence.
+
+## Tagolás
+- **Nyugati-Kárpátok**: Szlovákiában a Tátra, Romániában az **Erdélyi-érchegység** (Apuseni-hegység). Magyarországon az Északi-középhegység (Mátra, Bükk) a Kárpátok része.
+- **Keleti-Kárpátok**: Romániában a Máramarosi-havasok, a Bukovinai-hegység, a **Hargita** és a **Călimani**.
+- **Déli-Kárpátok**: Romániában a **Retyezát**, a **Fogarasi-havasok** és a **Parâng**. Itt található Románia legmagasabb csúcsa, a Moldoveanu (2544 m).
+
+## Geológia és domborzat
+- A Kárpátok az **alpi hegységképződés** során gyűrődött fel.
+- A hegység belső magja **metamorf és magmás kőzetekből** áll, a külső övezetben üledékes **flis** kőzetek találhatók, főként a Keleti-Kárpátok külső szakaszán.
+- A **Hargita**, a **Gurghiu** és a **Călimani** vulkáni eredetű hegységek.
+- A hegység legmagasabb csúcsa a szlovákiai **Gerlachi-csúcs** (2655 m).
+
+## Éghajlat és vízrajz
+- A magassággal csökken a hőmérséklet és nő a csapadék mennyisége, a hegyvidéken hűvösebb és hosszabb a tél.
+- A Kárpátok a vízgyűjtő szerepét is betölti: innen ered a **Visztula**, amely a Balti-tengerbe ömlik, a **Dnyeszter**, amely a Fekete-tengerbe ömlik, valamint a Tisza és a Duna számos mellékfolyója, például a Maros, az Olt, a Szeret és a Prut.
+
+## Élővilág
+- A hegység növényzete magassági övekbe rendeződik: dombvidéki tölgyesek, montán bükkösök és lucfenyvesek, szubalpin törpefenyő, majd alpesi gyep.
+- Jellemző állatai a **barna medve**, a **farkas**, a **hiúz** és a **zerge**.
+- A Kárpátok ősbükkösei egy része UNESCO világörökségi terület.
+
+## Gazdaság és emberi tevékenység
+- A hagyományos gazdálkodás a **pásztorkodás** (juhászat, transzhumancia) és az erdészet volt.
+- Az ércbányászat (arany, réz) Erdélyben fontos, a sóbányászat Tordán hagyományos.
+- A turizmus és a síelés fontos bevételi forrás: Szlovákia Tátrája, Lengyelország Zakopanéja és Romániában a Brassó melletti Poiana Brașov.
+
+## Problémák és védelem
+- A **illegális fakitermelés** és az **orvvadászat** komoly környezeti veszélyt jelent.
+- Az utak és a sípályák fejlesztése feldarabolja az élőhelyeket.
+- Az éghajlatváltozás a magasabb régiók ökoszisztémáját is érinti, a turizmus pedig terhelést okoz.
+- A védelem fontos eszközei a nemzeti parkok (Tátra, Retyezát, Piatra Craiului, Ceahlău) és az UNESCO-védelem.
+
+## Esettanulmány: a Kárpátok Romániában
+- Románia területén húzódik a Kárpátok ívének jelentős része, ezért az ország domborzatát és éghajlatát nagymértékben meghatározza a hegység.
+- A Keleti-Kárpátok lejtőin él a székelyföldi magyarság, Hargita és Kovászna megyében.
+- A romániai hegyvidéki térségek egyszerre védendő természeti értékek és gazdasági erőforrások, ami a fenntartható fejlesztés kérdéseit veti fel.

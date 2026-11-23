@@ -1,0 +1,179 @@
+ID: fold-b1-kartya-001
+LECKE_ID: fold-b1-001
+ELŐLAP: Schuman-nyilatkozat éve
+HÁTLAP: 1950.
+---
+ID: fold-b1-kartya-002
+LECKE_ID: fold-b1-001
+ELŐLAP: ESZAK alapításának éve
+HÁTLAP: 1951.
+---
+ID: fold-b1-kartya-003
+LECKE_ID: fold-b1-001
+ELŐLAP: ESZAK alapító tagjainak száma
+HÁTLAP: Hat ország.
+---
+ID: fold-b1-kartya-004
+LECKE_ID: fold-b1-001
+ELŐLAP: ESZAK alapító szerződése
+HÁTLAP: Párizsi szerződés (1951).
+---
+ID: fold-b1-kartya-005
+LECKE_ID: fold-b1-001
+ELŐLAP: EGK alapító szerződései
+HÁTLAP: Római szerződések (1957).
+---
+ID: fold-b1-kartya-006
+LECKE_ID: fold-b1-001
+ELŐLAP: Mikor kezdte meg működését az EGK?
+HÁTLAP: 1958. január 1.
+---
+ID: fold-b1-kartya-007
+LECKE_ID: fold-b1-001
+ELŐLAP: Maastrichti szerződés aláírása és hatálybalépése
+HÁTLAP: Aláírás: 1992; hatály: 1993.
+---
+ID: fold-b1-kartya-008
+LECKE_ID: fold-b1-001
+ELŐLAP: Schengeni egyezmény aláírásának éve
+HÁTLAP: 1985.
+---
+ID: fold-b1-kartya-009
+LECKE_ID: fold-b1-001
+ELŐLAP: Az egységes piac kezdete
+HÁTLAP: 1993.
+---
+ID: fold-b1-kartya-010
+LECKE_ID: fold-b1-001
+ELŐLAP: Az euró készpénzben való bevezetése
+HÁTLAP: 2002.
+---
+ID: fold-b1-kartya-011
+LECKE_ID: fold-b1-001
+ELŐLAP: Az euró elszámolási pénzként való bevezetése
+HÁTLAP: 1999.
+---
+ID: fold-b1-kartya-012
+LECKE_ID: fold-b1-001
+ELŐLAP: Az 1973-as bővítés tagjai
+HÁTLAP: Nagy-Britannia, Írország, Dánia.
+---
+ID: fold-b1-kartya-013
+LECKE_ID: fold-b1-001
+ELŐLAP: Az 1981-es csatlakozó ország
+HÁTLAP: Görögország.
+---
+ID: fold-b1-kartya-014
+LECKE_ID: fold-b1-001
+ELŐLAP: Az 1986-os csatlakozók
+HÁTLAP: Spanyolország és Portugália.
+---
+ID: fold-b1-kartya-015
+LECKE_ID: fold-b1-001
+ELŐLAP: Az 1995-ös csatlakozók
+HÁTLAP: Ausztria, Finnország, Svédország.
+---
+ID: fold-b1-kartya-016
+LECKE_ID: fold-b1-001
+ELŐLAP: A 2004-es bővítés tagállamainak száma
+HÁTLAP: Tíz.
+---
+ID: fold-b1-kartya-017
+LECKE_ID: fold-b1-001
+ELŐLAP: Kelet-közép-európai tagok a 2004-es bővítésben (példa)
+HÁTLAP: Magyarország, Lengyelország, Csehország, Szlovákia.
+---
+ID: fold-b1-kartya-018
+LECKE_ID: fold-b1-001
+ELŐLAP: A 2007-es csatlakozók
+HÁTLAP: Románia és Bulgária.
+---
+ID: fold-b1-kartya-019
+LECKE_ID: fold-b1-001
+ELŐLAP: A 2013-as csatlakozó ország
+HÁTLAP: Horvátország.
+---
+ID: fold-b1-kartya-020
+LECKE_ID: fold-b1-001
+ELŐLAP: A Brexit dátuma
+HÁTLAP: 2020. január 31.
+---
+ID: fold-b1-kartya-021
+LECKE_ID: fold-b1-001
+ELŐLAP: Az EU jelenlegi tagállamainak száma
+HÁTLAP: 27.
+---
+ID: fold-b1-kartya-022
+LECKE_ID: fold-b1-001
+ELŐLAP: Mit döntött el a maastrichti szerződés az euróról?
+HÁTLAP: Bevezetéséről, azaz az egységes pénz létrehozásáról.
+---
+ID: fold-b1-kartya-023
+LECKE_ID: fold-b1-001
+ELŐLAP: Az Európai Bizottság székhelye
+HÁTLAP: Brüsszel.
+---
+ID: fold-b1-kartya-024
+LECKE_ID: fold-b1-001
+ELŐLAP: Az Európai Parlament székhelye
+HÁTLAP: Strasbourg.
+---
+ID: fold-b1-kartya-025
+LECKE_ID: fold-b1-001
+ELŐLAP: Az Európai Központi Bank székhelye
+HÁTLAP: Frankfurt.
+---
+ID: fold-b1-kartya-026
+LECKE_ID: fold-b1-001
+ELŐLAP: Mikortól része Románia a schengeni övezetnek a szárazföldi határokon?
+HÁTLAP: 2025. január 1.
+---
+ID: fold-b1-kartya-027
+LECKE_ID: fold-b1-001
+ELŐLAP: Az egységes piac négy szabadsága
+HÁTLAP: Áruk, szolgáltatások, tőke, személyek szabad mozgása.
+---
+ID: fold-b1-kartya-028
+LECKE_ID: fold-b1-001
+ELŐLAP: Schengen lényege
+HÁTLAP: Belső határokon általában nincs személyi határellenőrzés.
+---
+ID: fold-b1-kartya-029
+LECKE_ID: fold-b1-001
+ELŐLAP: Maastricht három pillére (példa)
+HÁTLAP: Európai Közösségek, KKBP, bel- és igazságügyi együttműködés.
+---
+ID: fold-b1-kartya-030
+LECKE_ID: fold-b1-001
+ELŐLAP: Az ESZAK egyik alapító tagja
+HÁTLAP: Franciaország (és Németország, Olaszország, Belgium, Hollandia, Luxemburg).
+---
+ID: fold-b1-kartya-031
+LECKE_ID: fold-b1-001
+ELŐLAP: Az Euratom
+HÁTLAP: 1957-ben alapított atomenergia-közösség.
+---
+ID: fold-b1-kartya-032
+LECKE_ID: fold-b1-001
+ELŐLAP: A Schuman-terv célja
+HÁTLAP: A francia–német háború gazdasági alapjainak megszüntetése.
+---
+ID: fold-b1-kartya-033
+LECKE_ID: fold-b1-001
+ELŐLAP: A schengeni egyezmény helyszíne
+HÁTLAP: Schengen falu, Luxemburg mellett.
+---
+ID: fold-b1-kartya-034
+LECKE_ID: fold-b1-001
+ELŐLAP: Az EU legnépesebb tagállama
+HÁTLAP: Németország.
+---
+ID: fold-b1-kartya-035
+LECKE_ID: fold-b1-001
+ELŐLAP: A legutóbbi bővítés utáni tagállamszám
+HÁTLAP: 28 (Horvátország csatlakozásakor), azóta 27 (Brexit).
+---
+ID: fold-b1-kartya-036
+LECKE_ID: fold-b1-001
+ELŐLAP: Melyik szerződés döntött az euró bevezetéséről?
+HÁTLAP: A maastrichti szerződés.

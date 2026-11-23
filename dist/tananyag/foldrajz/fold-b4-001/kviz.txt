@@ -1,0 +1,251 @@
+ID: fold-b4-kviz-001
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Európai Unió energiaellátásának több mint fele importból származik.
+HELYES: Igaz
+MAGYARÁZAT: Az EU energiaigényének jelentős része külső szállítóktól származik, ezért az importfüggés nagy.
+---
+ID: fold-b4-kviz-002
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik energiaforrás-importtól való függés csökkentését célozta a REPowerEU terv?
+HELYES: orosz földgáz
+ROSSZ1: kínai napelemek
+ROSSZ2: amerikai uránszállítás
+ROSSZ3: indiai szénimport
+MAGYARÁZAT: A REPowerEU terv a 2022 utáni időszakban az orosz földgáztól való függés csökkentését szolgálta.
+---
+ID: fold-b4-kviz-003
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A szél- és napenergia az EU-ban már nem számít növekvő energiaforrásnak.
+HELYES: Hamis
+MAGYARÁZAT: A szél- és napenergia részesedése folyamatosan nő az EU villamosenergia-termelésében.
+---
+ID: fold-b4-kviz-004
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik energiaforrás tartozik a megújulók közé?
+HELYES: szélenergia
+ROSSZ1: földgáz
+ROSSZ2: kőszén
+ROSSZ3: uránérc
+MAGYARÁZAT: A szélenergia megújuló, a többi felsorolt forrás fosszilis vagy nukleáris.
+---
+ID: fold-b4-kviz-005
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Romániának van atomerőműve, amely Cernavodă közelében található.
+HELYES: Igaz
+MAGYARÁZAT: A Cernavodă atomerőmű Románia egyetlen atomerőműve, a Duna mellett, Constanța megyében.
+---
+ID: fold-b4-kviz-006
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Duna menti vízerőmű-rendszer épült a Vaskapu-szorosnál?
+HELYES: Vaskapu (Porțile de Fier)
+ROSSZ1: Bicaz
+ROSSZ2: Lotru
+ROSSZ3: Vidraru
+MAGYARÁZAT: A Vaskapu vízerőművei a Duna romániai–szerbiai szakaszán épültek, a többi felsorolt erőmű a Kárpátok vidékén található.
+---
+ID: fold-b4-kviz-007
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A szénnek nincs jelentősége Románia villamosenergia-termelésében.
+HELYES: Hamis
+MAGYARÁZAT: A lignit alapú termelés jelentős része a román villamosenergia-termelésnek, főként Oltenia térségében.
+---
+ID: fold-b4-kviz-008
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik romániai régióhoz köthető a szénalapú villamosenergia-termelés?
+HELYES: Oltenia
+ROSSZ1: Dobrudzsa
+ROSSZ2: Bánság
+ROSSZ3: Moldva
+MAGYARÁZAT: Az Oltenia régió a Jiu-völgyi szénbányákkal és erőművekkel a szénalapú termelés központja.
+---
+ID: fold-b4-kviz-009
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Románia energiamixében megtalálható a földgáz és a kőolaj is.
+HELYES: Igaz
+MAGYARÁZAT: Románia hazai földgázt és kőolajat termel, Ploiești és az erdélyi, valamint a tengeri mezők a fő területek.
+---
+ID: fold-b4-kviz-010
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Mit jelent az energiabiztonság fogalma?
+HELYES: az energiaellátás folyamatos és megfizethető biztosítását
+ROSSZ1: az energia exportálását minden áron
+ROSSZ2: kizárólag megújuló energiára való áttérést
+ROSSZ3: a fosszilis tüzelőanyagok teljes betiltását
+MAGYARÁZAT: Az energiabiztonság az ellátás folyamatosságát és megfizethetőségét jelenti.
+---
+ID: fold-b4-kviz-011
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A megújuló energiaforrások részesedése az EU villamosenergia-termelésében növekszik.
+HELYES: Igaz
+MAGYARÁZAT: Az EU zöld átállása miatt a megújulók aránya folyamatosan emelkedik.
+---
+ID: fold-b4-kviz-012
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik ország a legnagyobb atomenergia-termelő az Európai Unióban?
+HELYES: Franciaország
+ROSSZ1: Németország
+ROSSZ2: Olaszország
+ROSSZ3: Lengyelország
+MAGYARÁZAT: Franciaország az EU legnagyobb atomenergia-termelője, Németország 2023-ban zárta le utolsó atomerőműveit, Olaszországban nincs működő atomerőmű.
+---
+ID: fold-b4-kviz-013
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: 2023 után is működnek német atomerőművek.
+HELYES: Hamis
+MAGYARÁZAT: Németország 2023 áprilisában zárta le utolsó három atomerőművét.
+---
+ID: fold-b4-kviz-014
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik romániai település nevéhez köthető az atomerőmű?
+HELYES: Cernavodă
+ROSSZ1: Constanța
+ROSSZ2: Galați
+ROSSZ3: Brăila
+MAGYARÁZAT: A Cernavodă atomerőmű Románia egyetlen atomerőműve, a Dunához közel.
+---
+ID: fold-b4-kviz-015
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A cernavodai atomerőmű CANDU típusú reaktorokat üzemeltet.
+HELYES: Igaz
+MAGYARÁZAT: A CANDU nehézvizes reaktortípus, amelyet a cernavodai erőmű is használ.
+---
+ID: fold-b4-kviz-016
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben kapcsolták hálózatra a cernavodai atomerőmű első blokkját?
+HELYES: 1996
+ROSSZ1: 1986
+ROSSZ2: 1989
+ROSSZ3: 2003
+MAGYARÁZAT: A cernavodai első blokk 1996-ban került hálózatra, a második blokk 2007-ben.
+---
+ID: fold-b4-kviz-017
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Minden EU-tagállam ugyanolyan energiamixet használ.
+HELYES: Hamis
+MAGYARÁZAT: Az energiamix tagállamonként eltér, attól függően, milyen természeti erőforrásaik és politikai döntéseik vannak.
+---
+ID: fold-b4-kviz-018
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Mi a földgázimport diverzifikációjának célja?
+HELYES: a függőség csökkentése egyetlen szállítótól
+ROSSZ1: a gázfogyasztás megduplázása
+ROSSZ2: kizárólag orosz gáz vásárlása
+ROSSZ3: a gázterminálok betiltása
+MAGYARÁZAT: A diverzifikáció több beszállítót és több útvonalat jelent, így csökkenti a kockázatot.
+---
+ID: fold-b4-kviz-019
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: 2022 után az EU jelentősen csökkentette az orosz földgáz-importját.
+HELYES: Igaz
+MAGYARÁZAT: A REPowerEU terv keretében az Unió a függőség csökkentésére és más beszállítók bevonására törekedett.
+---
+ID: fold-b4-kviz-020
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik létesítmény teszi lehetővé a cseppfolyós földgáz (LNG) fogadását?
+HELYES: LNG-terminál
+ROSSZ1: atomerőmű
+ROSSZ2: szélpark
+ROSSZ3: kőolajfinomító
+MAGYARÁZAT: Az LNG-terminálok fogadják és visszaalakítják a cseppfolyós földgázt gázzá.
+---
+ID: fold-b4-kviz-021
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Fekete-tengeri gázmezők jelentős szerepet játszanak Románia hazai földgáztermelésében.
+HELYES: Igaz
+MAGYARÁZAT: A romániai földgáztermelés egy része a Fekete-tengeri mezőkről származik, a másik nagy része az erdélyi mezőkről.
+---
+ID: fold-b4-kviz-022
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Romániában nincs hazai földgáztermelés.
+HELYES: Hamis
+MAGYARÁZAT: Románia jelentős földgáztermelő ország, a hazai mezőkről a fogyasztás nagy része fedezhető.
+---
+ID: fold-b4-kviz-023
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik erdélyi térség gázmezőiről ismert Romániában?
+HELYES: Medgyes (Mediaș) környéke
+ROSSZ1: Dobrudzsa
+ROSSZ2: Bánság
+ROSSZ3: Moldva
+MAGYARÁZAT: A Medgyes környéki gázmezők Erdély legfontosabb földgáztermelő térségei.
+---
+ID: fold-b4-kviz-024
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A vízenergia Romániában a villamosenergia-termelés jelentős részét adja.
+HELYES: Igaz
+MAGYARÁZAT: A romániai vízerőművek a termelés fontos részét adják, különösen a Kárpátokban és a Dunán.
+---
+ID: fold-b4-kviz-025
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Mi az EU energiaunió célja?
+HELYES: az energiabiztonság, a versenyképes energia és a fenntarthatóság
+ROSSZ1: az energiaszolgáltatók államosítása
+ROSSZ2: az atomenergia betiltása
+ROSSZ3: csak fosszilis energia termelése
+MAGYARÁZAT: Az energiaunió az ellátás biztonságát, a versenyképes árakat és a fenntartható fejlődést célozza.
+---
+ID: fold-b4-kviz-026
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az energiaszegénység azt jelenti, hogy a háztartások nem tudják megfizetni az energiát.
+HELYES: Igaz
+MAGYARÁZAT: Az energiaszegénység az energiaköltségek miatt fellépő anyagi nehézségeket jelenti.
+---
+ID: fold-b4-kviz-027
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Mit nevezünk határokon átívelő energia-összeköttetésnek?
+HELYES: villamos- és gázvezetékeket, amelyek országok között kötik össze a hálózatokat
+ROSSZ1: olyan erőműveket, amelyek csak egy országot szolgálnak ki
+ROSSZ2: a tengeri hajóforgalmat
+ROSSZ3: a szénbányák közötti szállítószalagokat
+MAGYARÁZAT: Az összeköttetések villamos- és gázhálózatokat kötnek össze, így segítik az ellátásbiztonságot és a regionális piacot.
+---
+ID: fold-b4-kviz-028
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Romániában a szénalapú termelés kivezetése szociális kérdéseket is felvet.
+HELYES: Igaz
+MAGYARÁZAT: A bányászati térségekben a munkahelyek megszűnése komoly társadalmi kihívás.
+---
+ID: fold-b4-kviz-029
+LECKE_ID: fold-b4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós terv nevéhez fűződik a 2022 utáni orosz földgáz-függés csökkentése?
+HELYES: REPowerEU
+ROSSZ1: Erasmus+
+ROSSZ2: Schengeni kódex
+ROSSZ3: Kohéziós Alap
+MAGYARÁZAT: A REPowerEU terv a fosszilis energiától, különösen az orosz gáztól való függés csökkentésére született.
+---
+ID: fold-b4-kviz-030
+LECKE_ID: fold-b4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az atomenergia alacsony szén-dioxid-kibocsátású energiaforrás.
+HELYES: Igaz
+MAGYARÁZAT: Üzem közben az atomerőművek nem bocsátanak ki jelentős mennyiségű szén-dioxidot, ezért fontosak a klímacélok szempontjából.

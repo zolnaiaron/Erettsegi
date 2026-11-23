@@ -1,0 +1,35 @@
+ID: fold-c3-001
+CÍM: EU-kapcsolatok az USA-val, Kínával, Japánnal és a BRICS-országokkal
+SZÖVEG:
+# EU-kapcsolatok a nagy szereplőkkel
+Az Európai Unió külkapcsolatait a kereskedelem, a biztonság és az értékek egyaránt meghatározzák. A kereskedelempolitika az EU kizárólagos hatásköre, az Európai Bizottság képviseli az uniót a nemzetközi tárgyalásokon. Az alábbi kapcsolatok mindegyike más jellegű: van közös szövetség, stratégiai partnerség és gazdasági verseny is.
+
+## Általános keretek
+- A közös kereskedelempolitika az EU kizárólagos hatásköre. A tárgyalásokat az Európai Bizottság folytatja, a tagállamok megbízása alapján.
+- A Kereskedelmi Világszervezet (WTO) az EU kereskedelmi vitáinak fontos fóruma.
+- Az EU a külső kapcsolatait egy háromszintű megközelítéssel írja le: Kína esetében például partner, gazdasági verseny és rendszerszintű rivális egyszerre.
+
+## Az USA-val
+- Az USA és az EU együtt működik a NATO keretében, és az egyik legnagyobb gazdasági kapcsolatuk van a világon. Az USA az EU egyik legnagyobb befektetési partnere.
+- 2021-ben a **Transzatlanti Kereskedelmi és Technológiai Tanács (TTC)** jött létre, a kereskedelmi és technológiai együttműködés koordinálására.
+- Viták is vannak: az Airbus–Boeing vita évekig zajlott a WTO-ban, és a digitális szabályozás (például a GDPR) hatással van az amerikai technológiai cégekre.
+
+## Kínával
+- Kína az EU egyik legnagyobb kereskedelmi partnere az áruforgalomban. Az EU és Kína között együttműködési területek (például klímapolitika) és versenyhelyzetek is vannak.
+- Vitás kérdés a kínai állami támogatások, a piacra jutás korlátai és a Tajvanon kialakult helyzet. Az EU 2024-ben vámot vezetett be a kínai elektromos járművekre a tisztességtelen támogatások ellensúlyozására.
+- Kína a **Egy övezet, egy út** (Selyemút) kezdeményezés keretében infrastrukturális beruházásokat végez Európában is.
+
+## Japánnal
+- Az **EU–Japán gazdasági partnerségi megállapodás** 2019. február 1-jén lépett hatályba, ez az egyik legnagyobb kereskedelmi megállapodás a világon.
+- A 2018-ban aláírt **stratégiai partnerségi megállapodás** a demokrácia, az emberi jogok, a klímapolitika és a digitális együttműködés területét fedi le.
+- Japán a G7 és a G20 tagja. Japán autóipari termékei az EU egyik legfontosabb importtermékei közé tartoznak.
+
+## A BRICS-országokkal
+- A BRICS eredetileg Brazíliát, Oroszországot, Indiát, Kínát és Dél-Afrikát jelentette. 2024 után több ország, köztük Egyiptom, Etiópia, Irán és az Egyesült Arab Emírségek is csatlakozott.
+- Brazíliával az EU és a Mercosur közötti szabadkereskedelmi tárgyalások évek óta zajlanak, az EU ezen felül Dél-Afrikával is vannak megállapodásai.
+- Indiával az EU szabadkereskedelmi megállapodásról tárgyal, 2022-ben újra elindultak a tárgyalások.
+- Oroszországgal a 2022-es ukrajnai háború után az EU szankciókat vezetett be, a kereskedelem és az energiaimport jelentősen csökkent.
+
+## Kereskedelmi viták és védelmi eszközök
+- Az EU a tisztességtelen dömpingárakkal szemben antidömping vámokat, a tisztességtelen állami támogatásokkal szemben kiegyenlítő vámokat alkalmazhat.
+- Románia az EU tagjaként a közös kereskedelempolitikában részt vesz, így a külkapcsolatok alakításában is közvetve érintett.

@@ -1,0 +1,257 @@
+ID: fold-b5-fr-kviz-001
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Franciaországnak közvetlen szárazföldi határa van Németországgal.
+HELYES: Igaz
+MAGYARÁZAT: Franciaország és Németország között szárazföldi határ húzódik, a Rajna mentén.
+---
+ID: fold-b5-fr-kviz-002
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tengerrel határos Franciaország délkeleten?
+HELYES: Földközi-tenger
+ROSSZ1: Adriai-tenger
+ROSSZ2: Balti-tenger
+ROSSZ3: Égei-tenger
+MAGYARÁZAT: Franciaország délkeleti partjai a Földközi-tengerhez tartoznak, a Côte d'Azur is itt van.
+---
+ID: fold-b5-fr-kviz-003
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Franciaország határos Monaco és Andorra fejedelemséggel.
+HELYES: Igaz
+MAGYARÁZAT: Monaco a Côte d'Azur mellett, Andorra a Pireneusokban található a francia határ mentén.
+---
+ID: fold-b5-fr-kviz-004
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik ország nem határos Franciaországgal szárazföldön?
+HELYES: Ausztria
+ROSSZ1: Svájc
+ROSSZ2: Olaszország
+ROSSZ3: Spanyolország
+MAGYARÁZAT: Franciaország szárazföldi szomszédai Belgium, Luxemburg, Németország, Svájc, Olaszország, Monaco, Andorra és Spanyolország.
+---
+ID: fold-b5-fr-kviz-005
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Franciaország nyugati partjait az Atlanti-óceán mossa.
+HELYES: Igaz
+MAGYARÁZAT: A Biszkaji-öböl és az Atlanti-óceáni partszakasz nyugaton határolja az országot.
+---
+ID: fold-b5-fr-kviz-006
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Mi Franciaország legmagasabb csúcsa?
+HELYES: Mont Blanc
+ROSSZ1: Zugspitze
+ROSSZ2: Grossglockner
+ROSSZ3: Etna
+MAGYARÁZAT: A Mont Blanc 4808 m magas, az Alpokban, a francia–olasz határon.
+---
+ID: fold-b5-fr-kviz-007
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Közép-francia-középhegységben vulkáni eredetű területek is találhatók.
+HELYES: Igaz
+MAGYARÁZAT: Az Auvergne vidékén kihunyt vulkánok és vulkáni kúpok vannak.
+---
+ID: fold-b5-fr-kviz-008
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik karsztos fennsík található a Közép-francia-középhegységben?
+HELYES: Causses
+ROSSZ1: Vogézek
+ROSSZ2: Landes
+ROSSZ3: Champagne-medence
+MAGYARÁZAT: A Causses karsztos mészkőfennsík a Massif Central területén.
+---
+ID: fold-b5-fr-kviz-009
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Alpokban található a Mer de Glace gleccser.
+HELYES: Igaz
+MAGYARÁZAT: A Mer de Glace a Mont Blanc-masszívum közelében, Chamonix mellett található glaciális forma.
+---
+ID: fold-b5-fr-kviz-010
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik medence fekszik Párizs körül?
+HELYES: Párizsi-medence
+ROSSZ1: Aquitániai-medence
+ROSSZ2: Rhône-völgy
+ROSSZ3: Rajna-völgy
+MAGYARÁZAT: A Párizsi-medence az ország északi-közép részén fekvő nagy üledékes medence.
+---
+ID: fold-b5-fr-kviz-011
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik hideg, száraz szél jellemző a Rhône-völgyében?
+HELYES: Mistral
+ROSSZ1: Tramontane
+ROSSZ2: Bise
+ROSSZ3: Sirocco
+MAGYARÁZAT: A Mistral hideg, száraz északnyugati szél, amely a Rhône-völgyén át a Földközi-tenger felé fúj.
+---
+ID: fold-b5-fr-kviz-012
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Franciaország nyugati részén óceáni éghajlat uralkodik.
+HELYES: Igaz
+MAGYARÁZAT: A nyugati partvidék enyhe telekkel és csapadékos időjárással jellemezhető.
+---
+ID: fold-b5-fr-kviz-013
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Milyen éghajlattípus jellemzi a Côte d'Azur-t?
+HELYES: mediterrán
+ROSSZ1: sarkvidéki
+ROSSZ2: száraz kontinentális
+ROSSZ3: trópusi monszun
+MAGYARÁZAT: A Côte d'Azur forró, száraz nyarú mediterrán éghajlatú part.
+---
+ID: fold-b5-fr-kviz-014
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Alpokban és a Pireneusokban hegyvidéki éghajlat uralkodik.
+HELYES: Igaz
+MAGYARÁZAT: A magasság miatt a hőmérséklet alacsonyabb, a csapadék és a hó mennyisége nagyobb.
+---
+ID: fold-b5-fr-kviz-015
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik hideg északkeleti szél jellemző Franciaország keleti részén?
+HELYES: Bise
+ROSSZ1: Sirocco
+ROSSZ2: Harmattan
+ROSSZ3: Khamsin
+MAGYARÁZAT: A Bise hideg, száraz északkeleti szél, amely Svájc felől Franciaország keleti részét éri el. A többi felsorolt szél Afrikából érkezik.
+---
+ID: fold-b5-fr-kviz-016
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Mi Franciaország leghosszabb folyója?
+HELYES: Loire
+ROSSZ1: Szajna
+ROSSZ2: Rhône
+ROSSZ3: Garonne
+MAGYARÁZAT: A Loire az ország leghosszabb folyója, az Atlanti-óceánba ömlik.
+---
+ID: fold-b5-fr-kviz-017
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Szajna a La Manche-öbölbe ömlik.
+HELYES: Igaz
+MAGYARÁZAT: A Szajna Párizson át folyik, és Le Havre-nál torkollik a La Manche-ba.
+---
+ID: fold-b5-fr-kviz-018
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó torkollik a Camargue deltájánál a Földközi-tengerbe?
+HELYES: Rhône
+ROSSZ1: Garonne
+ROSSZ2: Loire
+ROSSZ3: Szajna
+MAGYARÁZAT: A Rhône a Camargue-deltánál ömlik a Földközi-tengerbe.
+---
+ID: fold-b5-fr-kviz-019
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Genfi-tó Franciaország és Svájc határán fekszik.
+HELYES: Igaz
+MAGYARÁZAT: A Genfi-tó Svájc és Franciaország közös tava az Alpok lábánál.
+---
+ID: fold-b5-fr-kviz-020
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó torkollik a Gironde-öbölbe, Bordeaux közelében?
+HELYES: Garonne
+ROSSZ1: Loire
+ROSSZ2: Rhône
+ROSSZ3: Szajna
+MAGYARÁZAT: A Garonne és a Dordogne összefolyása alkotja a Gironde-torkolatot.
+---
+ID: fold-b5-fr-kviz-021
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó partján fekszik Párizs?
+HELYES: Szajna
+ROSSZ1: Rhône
+ROSSZ2: Loire
+ROSSZ3: Garonne
+MAGYARÁZAT: Párizs a Szajna partján fekszik, az ország fővárosa.
+---
+ID: fold-b5-fr-kviz-022
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Marseille Franciaország legnagyobb kikötővárosa.
+HELYES: Igaz
+MAGYARÁZAT: Marseille a Földközi-tengeri kikötőváros, a francia tengeri forgalom egyik legnagyobb központja.
+---
+ID: fold-b5-fr-kviz-023
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nagyváros fekszik a Rhône és a Saône összefolyásánál?
+HELYES: Lyon
+ROSSZ1: Toulouse
+ROSSZ2: Lille
+ROSSZ3: Strasbourg
+MAGYARÁZAT: Lyon a Rhône és a Saône összefolyásánál fekvő nagyváros.
+---
+ID: fold-b5-fr-kviz-024
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Strasbourg a német határ közelében fekszik.
+HELYES: Igaz
+MAGYARÁZAT: Strasbourg Elzász tartomány székhelye, a Rajna másik partján Németország fekszik.
+---
+ID: fold-b5-fr-kviz-025
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik város Franciaország repülőipari központja?
+HELYES: Toulouse
+ROSSZ1: Bordeaux
+ROSSZ2: Nizza
+ROSSZ3: Lille
+MAGYARÁZAT: Toulouse az Airbus fő gyártóbázisa, így a francia repülőipar központja.
+---
+ID: fold-b5-fr-kviz-026
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Franciaország a világ egyik legnagyobb turisztikai célpontja.
+HELYES: Igaz
+MAGYARÁZAT: Franciaország évente a világ legtöbb turistáját fogadja, Párizs és a Côte d'Azur a fő vonzerők.
+---
+ID: fold-b5-fr-kviz-027
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik energiaforrás adja Franciaország villamosenergia-termelésének nagy részét?
+HELYES: atomenergia
+ROSSZ1: szénerőmű
+ROSSZ2: kőolaj
+ROSSZ3: földgáz
+MAGYARÁZAT: Franciaország az EU legnagyobb atomenergia-termelője, a villamosenergia nagy része atomerőművekből származik.
+---
+ID: fold-b5-fr-kviz-028
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Franciaország az Európai Unió egyik legnagyobb búzatermelője.
+HELYES: Igaz
+MAGYARÁZAT: A francia mezőgazdaság jelentős búza- és gabonatermelést folytat.
+---
+ID: fold-b5-fr-kviz-029
+LECKE_ID: fold-b5-fr-001
+TÍPUS: választásos
+KÉRDÉS: Melyik francia borvidék nevéhez fűződik a pezsgő?
+HELYES: Champagne
+ROSSZ1: Bordeaux
+ROSSZ2: Burgundia
+ROSSZ3: Loire-völgy
+MAGYARÁZAT: A pezsgő a Champagne vidékéről származik, a név is ehhez a térséghez kötődik.
+---
+ID: fold-b5-fr-kviz-030
+LECKE_ID: fold-b5-fr-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Renault és a Peugeot francia autógyártó vállalatok.
+HELYES: Igaz
+MAGYARÁZAT: Mindkét márka francia eredetű, és Franciaország autóipari ágazatának fontos szereplői.

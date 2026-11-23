@@ -1,0 +1,251 @@
+ID: fold-c4-kviz-001
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A globalizáció a gazdasági, kulturális és technológiai kapcsolatok világméretű összefonódását jelenti.
+HELYES: Igaz
+MAGYARÁZAT: A globalizáció többféle kapcsolati rendszer egymásba fonódását jelenti a világ országai között.
+---
+ID: fold-c4-kviz-002
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik technológiai fejlesztés gyorsította fel leginkább a globalizációt a 20. század végén?
+HELYES: internet
+ROSSZ1: gőzhajó
+ROSSZ2: távirat
+ROSSZ3: vasút
+MAGYARÁZAT: Az internet azonnali globális kommunikációt és információáramlást tett lehetővé. A gőzhajó, a távirat és a vasút a korábbi globalizációs hullámokhoz kapcsolódik.
+---
+ID: fold-c4-kviz-003
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A globalizációnak gazdasági, politikai, kulturális és környezeti dimenziói vannak.
+HELYES: Igaz
+MAGYARÁZAT: A folyamat több területen egyszerre érvényesül, és a környezeti hatások is globálisak.
+---
+ID: fold-c4-kviz-004
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szervezet működése 1995-ben intézményesítette a gazdasági globalizációt?
+HELYES: WTO
+ROSSZ1: NATO
+ROSSZ2: OECD
+ROSSZ3: UNESCO
+MAGYARÁZAT: A Kereskedelmi Világszervezet (WTO) 1995-ben kezdte meg működését, a kereskedelmi szabályok nemzetközi szintű rendezésére. A többi felsorolt szervezet más célt szolgál.
+---
+ID: fold-c4-kviz-005
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A globalizáció csak áruk mozgását jelenti.
+HELYES: Hamis
+MAGYARÁZAT: A globalizációban a tőke, a munkaerő, az információ és a szolgáltatások mozgása is szerepet kap.
+---
+ID: fold-c4-kviz-006
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Egy globális értéklánc termékének alkatrészei különböző országokban készülhetnek.
+HELYES: Igaz
+MAGYARÁZAT: A termelés szakaszai több országra oszlanak, a végső összeszerelés pedig egy másik helyen történik.
+---
+ID: fold-c4-kviz-007
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Mi a globális értéklánc lényege?
+HELYES: a termék különböző szakaszai különböző országokban készülnek
+ROSSZ1: a teljes gyártás egyetlen országban történik
+ROSSZ2: csak nyersanyagok exportja zajlik
+ROSSZ3: csak szolgáltatások kerülnek nemzetközi forgalomba
+MAGYARÁZAT: A globális értékláncban a termelés lépései földrajzilag szétterülnek, a költségek és a képességek szerint.
+---
+ID: fold-c4-kviz-008
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A szabadkereskedelmi megállapodások csökkentik a vámokat és egyéb kereskedelmi akadályokat.
+HELYES: Igaz
+MAGYARÁZAT: A megállapodások célja a kereskedelem szabályainak egyszerűsítése és a vámok csökkentése.
+---
+ID: fold-c4-kviz-009
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nemzetközi pénzügyi intézmény támogatja a nemzetközi pénzügyi stabilitást?
+HELYES: IMF
+ROSSZ1: WHO
+ROSSZ2: UNESCO
+ROSSZ3: FAO
+MAGYARÁZAT: Az IMF a nemzetközi pénzügyi rendszer stabilitását támogatja. A WHO az egészségügy, az UNESCO a kultúra és oktatás, a FAO az élelmezés nemzetközi szervezete.
+---
+ID: fold-c4-kviz-010
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A nemzetközi kereskedelem növekedése mindig csökkenti a szegénységet.
+HELYES: Hamis
+MAGYARÁZAT: A kereskedelem növekedése sok országnak segített, de nem minden országban és nem minden csoportnak volt egyformán előnyös.
+---
+ID: fold-c4-kviz-011
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A multinacionális vállalat több országban működő leányvállalatokkal rendelkezik.
+HELYES: Igaz
+MAGYARÁZAT: A multinacionális vállalat termelését és irányítását több ország területére szervezi.
+---
+ID: fold-c4-kviz-012
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik svájci élelmiszeripari multinacionális vállalat?
+HELYES: Nestlé
+ROSSZ1: Unilever
+ROSSZ2: Danone
+ROSSZ3: Heineken
+MAGYARÁZAT: A Nestlé Svájcban, Vevey-ben székel. Az Unilever brit–holland, a Danone francia, a Heineken holland vállalat.
+---
+ID: fold-c4-kviz-013
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Mi a közvetlen külföldi tőkebefektetés angol rövidítése?
+HELYES: FDI
+ROSSZ1: GDP
+ROSSZ2: VAT
+ROSSZ3: CPI
+MAGYARÁZAT: Az FDI (Foreign Direct Investment) a külföldi vállalatok közvetlen befektetése egy másik országba. A GDP a bruttó hazai termék, a VAT a héa, a CPI a fogyasztói árindex.
+---
+ID: fold-c4-kviz-014
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik svéd vállalat bútorboltjairól ismert világszerte?
+HELYES: IKEA
+ROSSZ1: Habitat
+ROSSZ2: Ligne Roset
+ROSSZ3: Muji
+MAGYARÁZAT: Az IKEA svéd bútorlánc. A Habitat brit, a Ligne Roset francia, a Muji japán márka.
+---
+ID: fold-c4-kviz-015
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A multinacionális vállalatok befolyásolhatják a helyi munkaerő-piacot és az adópolitikát.
+HELYES: Igaz
+MAGYARÁZAT: Nagy beruházásaik munkahelyeket teremtenek, de tárgyalási erejük miatt az adó- és munkaügyi döntésekre is hatnak.
+---
+ID: fold-c4-kviz-016
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Dacia márkát ma a Renault-csoport birtokolja.
+HELYES: Igaz
+MAGYARÁZAT: A Dacia a Renault-csoport romániai márkája, gyártása a mioveni üzemben folyik.
+---
+ID: fold-c4-kviz-017
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik romániai városban működik a Dacia gyár?
+HELYES: Mioveni
+ROSSZ1: Craiova
+ROSSZ2: Brassó
+ROSSZ3: Temesvár
+MAGYARÁZAT: A Dacia gyára Mioveniben, Argeș megyében működik. Craiovában a Ford gyára, a másik két város más iparágak központja.
+---
+ID: fold-c4-kviz-018
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Ford craiovai gyára autógyártási tevékenységet folytat Romániában.
+HELYES: Igaz
+MAGYARÁZAT: A craiovai Ford üzem Románia egyik fontos autógyártó üzeme.
+---
+ID: fold-c4-kviz-019
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nagy osztrák energiacsoport tulajdonában van az OMV Petrom?
+HELYES: OMV
+ROSSZ1: Shell
+ROSSZ2: TotalEnergies
+ROSSZ3: Gazprom
+MAGYARÁZAT: Az OMV Petrom az osztrák OMV-csoport romániai leányvállalata. A Shell, a TotalEnergies és a Gazprom más energiacégek.
+---
+ID: fold-c4-kviz-020
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A multinacionális vállalatok a Romániába érkező külföldi befektetések jelentős részét adják.
+HELYES: Igaz
+MAGYARÁZAT: A külföldi befektetések nagy része nagy vállalatoktól származik, ezek hoznak technológiát és munkahelyeket.
+---
+ID: fold-c4-kviz-021
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A globalizáció hatására az angol nyelv a nemzetközi kommunikáció fő nyelvévé vált.
+HELYES: Igaz
+MAGYARÁZAT: Az angol a tudomány, a gazdaság és a média nemzetközi nyelve lett.
+---
+ID: fold-c4-kviz-022
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben fogadta el az UNESCO a kulturális sokféleség védelméről szóló egyezményt?
+HELYES: 2005
+ROSSZ1: 1948
+ROSSZ2: 1972
+ROSSZ3: 1992
+MAGYARÁZAT: Az UNESCO 2005-ben fogadta el a kulturális kifejezések sokféleségének védelméről szóló egyezményt.
+---
+ID: fold-c4-kviz-023
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A kulturális homogenizáció a helyi kultúrák mindig megerősödését jelenti.
+HELYES: Hamis
+MAGYARÁZAT: A homogenizáció a kultúrák egységesülését jelenti, ami a helyi sajátosságok gyengüléséhez vezethet.
+---
+ID: fold-c4-kviz-024
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Mi a neve annak a folyamatnak, amelyben a globális és a helyi kultúrák keverednek?
+HELYES: kulturális hibridizáció
+ROSSZ1: kulturális homogenizáció
+ROSSZ2: szegregáció
+ROSSZ3: kulturális elszigetelődés
+MAGYARÁZAT: A hibridizáció új kulturális formákat hoz létre a globális és a helyi elemek keveredésével. A homogenizáció az egységesülés, a szegregáció és az elszigetelődés ellentétes irányú folyamat.
+---
+ID: fold-c4-kviz-025
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik globális streaming-szolgáltatás a globalizált kulturális fogyasztás egyik példája?
+HELYES: Netflix
+ROSSZ1: Dacia
+ROSSZ2: Nestlé
+ROSSZ3: IKEA
+MAGYARÁZAT: A Netflix világszerte elérhető streaming-szolgáltatás, a többi felsorolt márka termékeket forgalmaz.
+---
+ID: fold-c4-kviz-026
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A globalizációt kritizálják a munkahelyek áthelyezése és a környezeti terhelés miatt.
+HELYES: Igaz
+MAGYARÁZAT: A kritikusok szerint a termelés olcsóbb helyekre költözik, és a környezeti szabályozás gyengül.
+---
+ID: fold-c4-kviz-027
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós rendszer védi a helyi termékek eredetét?
+HELYES: PDO és PGI (oltalom alá helyezett eredetmegjelölés)
+ROSSZ1: ISO-szabvány
+ROSSZ2: CE-jelölés
+ROSSZ3: Fair Trade-jelölés
+MAGYARÁZAT: A PDO és a PGI uniós oltalmi rendszer a földrajzi eredethez kötődő termékeket védi. Az ISO-szabvány, a CE-jelölés és a Fair Trade más célt szolgál.
+---
+ID: fold-c4-kviz-028
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Parmigiano Reggiano sajt és a Champagne pezsgő uniós oltalom alatt álló eredetmegjelölés.
+HELYES: Igaz
+MAGYARÁZAT: Mindkettő földrajzi eredetéhez kötött, uniós szinten védett megnevezés.
+---
+ID: fold-c4-kviz-029
+LECKE_ID: fold-c4-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nemzetközi szervezet fogalmazta meg a fenntartható fejlesztési célokat (SDG)?
+HELYES: ENSZ
+ROSSZ1: NATO
+ROSSZ2: OPEC
+ROSSZ3: OECD
+MAGYARÁZAT: Az ENSZ 2015-ben fogadta el a fenntartható fejlesztési célokat, amelyek között a szegénység és az egyenlőtlenség csökkentése is szerepel.
+---
+ID: fold-c4-kviz-030
+LECKE_ID: fold-c4-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU a multinacionális vállalatokra nem alkalmaz versenyjogi szabályokat.
+HELYES: Hamis
+MAGYARÁZAT: Az EU versenyjogi és adózási szabályokat alkalmaz, hogy megakadályozza a piaci visszaéléseket.

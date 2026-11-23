@@ -1,0 +1,179 @@
+ID: fold-b5-uk-kartya-001
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Az Egyesült Királyság szárazföldi határa
+HÁTLAP: Észak-Írország és az Ír Köztársaság között.
+---
+ID: fold-b5-uk-kartya-002
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Nagy-Britanniát és Franciaországot elválasztó tengerszoros
+HÁTLAP: La Manche (Csatorna).
+---
+ID: fold-b5-uk-kartya-003
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Nagy-Britanniát és Írországot elválasztó tenger
+HÁTLAP: Ír-tenger.
+---
+ID: fold-b5-uk-kartya-004
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Az Egyesült Királyság keleti tengere
+HÁTLAP: Északi-tenger.
+---
+ID: fold-b5-uk-kartya-005
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Az Egyesült Királyság négy nemzete
+HÁTLAP: Anglia, Skócia, Wales, Észak-Írország.
+---
+ID: fold-b5-uk-kartya-006
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Nem nemzete az Egyesült Királyságnak
+HÁTLAP: Írország (független köztársaság).
+---
+ID: fold-b5-uk-kartya-007
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Anglia legmagasabb csúcsa
+HÁTLAP: Scafell Pike, 978 m (Lake District).
+---
+ID: fold-b5-uk-kartya-008
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Az Egyesült Királyság legmagasabb csúcsa
+HÁTLAP: Ben Nevis, 1345 m (Skót-felföld).
+---
+ID: fold-b5-uk-kartya-009
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Wales legmagasabb csúcsa
+HÁTLAP: Snowdon, 1085 m.
+---
+ID: fold-b5-uk-kartya-010
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Anglia gerince
+HÁTLAP: Pennini-hegység.
+---
+ID: fold-b5-uk-kartya-011
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Karsztos képződmény a Mendip-hegységben
+HÁTLAP: Cheddar-szurdok.
+---
+ID: fold-b5-uk-kartya-012
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Vulkáni eredetű bazaltoszlopok Észak-Írországban
+HÁTLAP: Giant's Causeway.
+---
+ID: fold-b5-uk-kartya-013
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Az Egyesült Királyság éghajlattípusa
+HÁTLAP: Mérsékelt óceáni.
+---
+ID: fold-b5-uk-kartya-014
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Az ország éghajlatát enyhítő áramlat
+HÁTLAP: Golf-áramlat.
+---
+ID: fold-b5-uk-kartya-015
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Leggyakoribb szélirány
+HÁTLAP: Nyugati és délnyugati szelek.
+---
+ID: fold-b5-uk-kartya-016
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Az ország legszárazabb és legmelegebb része
+HÁTLAP: Délkelet-Anglia.
+---
+ID: fold-b5-uk-kartya-017
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Skócia hegyvidékének éghajlata
+HÁTLAP: Hidegebb és csapadékosabb.
+---
+ID: fold-b5-uk-kartya-018
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Jégkorszaki formák a Lake Districtben és a Skót-felföldön
+HÁTLAP: U alakú völgyek, tavak, cirkuszok.
+---
+ID: fold-b5-uk-kartya-019
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Az ország leghosszabb folyója
+HÁTLAP: Severn (a Bristoli-csatornába ömlik).
+---
+ID: fold-b5-uk-kartya-020
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Londonon átfolyó folyó
+HÁTLAP: Temze (az Északi-tengerbe torkollik).
+---
+ID: fold-b5-uk-kartya-021
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Legendás szörnyről híres skót tó
+HÁTLAP: Loch Ness.
+---
+ID: fold-b5-uk-kartya-022
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Anglia legnagyobb természetes tava
+HÁTLAP: Windermere.
+---
+ID: fold-b5-uk-kartya-023
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Skócia leghosszabb folyója
+HÁTLAP: Tay.
+---
+ID: fold-b5-uk-kartya-024
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Skócia legnagyobb területű tava
+HÁTLAP: Loch Lomond.
+---
+ID: fold-b5-uk-kartya-025
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Az Egyesült Királyság fővárosa
+HÁTLAP: London (a Temze partján).
+---
+ID: fold-b5-uk-kartya-026
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Skócia fővárosa
+HÁTLAP: Edinburgh.
+---
+ID: fold-b5-uk-kartya-027
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Wales fővárosa
+HÁTLAP: Cardiff.
+---
+ID: fold-b5-uk-kartya-028
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Észak-Írország fővárosa
+HÁTLAP: Belfast.
+---
+ID: fold-b5-uk-kartya-029
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Mersey-parti kikötőváros, a Beatles szülővárosa
+HÁTLAP: Liverpool.
+---
+ID: fold-b5-uk-kartya-030
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Az Egyesült Királyság lakossága
+HÁTLAP: Kb. 68 millió fő.
+---
+ID: fold-b5-uk-kartya-031
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Az ország pénzügyi központja
+HÁTLAP: London (City of London).
+---
+ID: fold-b5-uk-kartya-032
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Mikor zárták be az utolsó széntüzelésű erőművet?
+HÁTLAP: 2024.
+---
+ID: fold-b5-uk-kartya-033
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Fontos energiaforrás az Északi-tengeren
+HÁTLAP: Olaj és földgáz.
+---
+ID: fold-b5-uk-kartya-034
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Edinburgh híres nyári fesztiválja
+HÁTLAP: Edinburgh Festival.
+---
+ID: fold-b5-uk-kartya-035
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Wiltshire-i ősi kőkör, UNESCO-helyszín
+HÁTLAP: Stonehenge.
+---
+ID: fold-b5-uk-kartya-036
+LECKE_ID: fold-b5-uk-001
+ELŐLAP: Repülőgép-hajtóműgyártó vállalat (Derby)
+HÁTLAP: Rolls-Royce.

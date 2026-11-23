@@ -1,0 +1,257 @@
+ID: fold-b5-de-kviz-001
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Németországnak közvetlen szárazföldi határa van Lengyelországgal.
+HELYES: Igaz
+MAGYARÁZAT: Az Odera és a Neisse mentén húzódó határ választja el a két országot.
+---
+ID: fold-b5-de-kviz-002
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tengerrel határos Németország északnyugati partja?
+HELYES: Északi-tenger
+ROSSZ1: Földközi-tenger
+ROSSZ2: Fekete-tenger
+ROSSZ3: Adriai-tenger
+MAGYARÁZAT: Németország északnyugati partvidékét az Északi-tenger mossa, a Földközi-, Fekete- és Adriai-tenger nem érinti.
+---
+ID: fold-b5-de-kviz-003
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Németország kilenc országgal határos.
+HELYES: Igaz
+MAGYARÁZAT: Németország szomszédai Dánia, Lengyelország, Csehország, Ausztria, Svájc, Franciaország, Luxemburg, Belgium és Hollandia.
+---
+ID: fold-b5-de-kviz-004
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik ország nem határos Németországgal?
+HELYES: Spanyolország
+ROSSZ1: Csehország
+ROSSZ2: Ausztria
+ROSSZ3: Dánia
+MAGYARÁZAT: Spanyolország a Ibériai-félszigeten fekszik, Németországgal nincs közös határa.
+---
+ID: fold-b5-de-kviz-005
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Németország délen Ausztriával és Svájccal határos.
+HELYES: Igaz
+MAGYARÁZAT: A Bajor-Alpok mentén Németország közös határt oszt meg Ausztriával és Svájccal.
+---
+ID: fold-b5-de-kviz-006
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Mi Németország legmagasabb csúcsa?
+HELYES: Zugspitze
+ROSSZ1: Mont Blanc
+ROSSZ2: Großglockner
+ROSSZ3: Etna
+MAGYARÁZAT: A Zugspitze 2962 m magas, a Bajor-Alpokban található.
+---
+ID: fold-b5-de-kviz-007
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Észak-német-alföldön glaciális eredetű formák is találhatók.
+HELYES: Igaz
+MAGYARÁZAT: A jégkorszaki gleccserek morénákat és tavakat hagytak maguk után a síkságon.
+---
+ID: fold-b5-de-kviz-008
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik német középhegység területén ered a Duna?
+HELYES: Fekete-erdő
+ROSSZ1: Harz
+ROSSZ2: Thüringi-erdő
+ROSSZ3: Rajnai-palafelföld
+MAGYARÁZAT: A Duna forrása a Fekete-erdőben, Donaueschingen környékén található.
+---
+ID: fold-b5-de-kviz-009
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Eifel vidékén vulkáni eredetű képződmények találhatók.
+HELYES: Igaz
+MAGYARÁZAT: Az Eifel a nyugati Németország vulkáni vidéke, több kihunyt vulkánnal.
+---
+ID: fold-b5-de-kviz-010
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik karsztos mészkőfennsík található Németország délnyugati részén?
+HELYES: Svábi-Jura
+ROSSZ1: Eifel
+ROSSZ2: Lüneburgi-puszta
+ROSSZ3: Vogelsberg
+MAGYARÁZAT: A Svábi-Jura karsztos mészkőfennsík, a többi felsorolt vidék vulkáni vagy síkvidéki.
+---
+ID: fold-b5-de-kviz-011
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Milyen éghajlattípus jellemzi Németország északnyugati részét?
+HELYES: mérsékelt óceáni
+ROSSZ1: sarkvidéki
+ROSSZ2: trópusi
+ROSSZ3: sivatagi
+MAGYARÁZAT: Az Atlanti-óceán hatására az északnyugati részen enyhe telek és csapadékos időjárás van.
+---
+ID: fold-b5-de-kviz-012
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Délen, az Alpok miatt hegyvidéki éghajlat is jelen van Németországban.
+HELYES: Igaz
+MAGYARÁZAT: A Bajor-Alpokban a magasság miatt hűvösebb, csapadékosabb az éghajlat.
+---
+ID: fold-b5-de-kviz-013
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik meleg, lefelé áramló szél jellemzi Bajorországot az Alpok északi lejtőin?
+HELYES: Föhn
+ROSSZ1: Mistral
+ROSSZ2: Tramontane
+ROSSZ3: Sirocco
+MAGYARÁZAT: A Föhn az Alpok déli oldalán felfelé áramló, majd lefelé melegedő szél, Bajorországban is érezhető.
+---
+ID: fold-b5-de-kviz-014
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Németországban a nyugati szelek a leggyakoribbak.
+HELYES: Igaz
+MAGYARÁZAT: A mérsékelt övben a nyugati szelek dominálnak, ezért Németországban is ezek a jellemzők.
+---
+ID: fold-b5-de-kviz-015
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Milyen éghajlattípus jellemzi Németország keleti részét?
+HELYES: átmeneti kontinentális
+ROSSZ1: sarkvidéki
+ROSSZ2: mediterrán
+ROSSZ3: trópusi
+MAGYARÁZAT: Keleten a tengeri hatás gyengül, az évszakok különbsége nagyobb, ezért kontinentális jellegű az éghajlat.
+---
+ID: fold-b5-de-kviz-016
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó torkollik Rotterdam mellett, Hollandiában?
+HELYES: Rajna
+ROSSZ1: Elba
+ROSSZ2: Odera
+ROSSZ3: Duna
+MAGYARÁZAT: A Rajna deltája Hollandiában, Rotterdam közelében ömlik a tengerbe.
+---
+ID: fold-b5-de-kviz-017
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Elba Hamburgon át folyik, és az Északi-tengerbe ömlik.
+HELYES: Igaz
+MAGYARÁZAT: Hamburg az Elba partján fekszik, a folyó Cuxhaven térségében torkollik az Északi-tengerbe.
+---
+ID: fold-b5-de-kviz-018
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó alkotja a német–lengyel határ egy részét?
+HELYES: Odera
+ROSSZ1: Elba
+ROSSZ2: Majna
+ROSSZ3: Duna
+MAGYARÁZAT: Az Odera a német–lengyel határ fontos folyója, a Balti-tengerbe ömlik.
+---
+ID: fold-b5-de-kviz-019
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Duna Németországban a Fekete-erdőben ered.
+HELYES: Igaz
+MAGYARÁZAT: A Duna forrása Donaueschingen közelében található, a Fekete-erdőben.
+---
+ID: fold-b5-de-kviz-020
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tó osztozik Németország, Svájc és Ausztria között?
+HELYES: Bodeni-tó
+ROSSZ1: Genfi-tó
+ROSSZ2: Garda-tó
+ROSSZ3: Balaton
+MAGYARÁZAT: A Bodeni-tó (Boden-tó) a három ország közös tava, a Genfi-tó Franciaország és Svájc között van.
+---
+ID: fold-b5-de-kviz-021
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Németország fővárosa?
+HELYES: Berlin
+ROSSZ1: Hamburg
+ROSSZ2: München
+ROSSZ3: Frankfurt
+MAGYARÁZAT: Berlin az ország fővárosa, az északkeleti részen, a Spree folyó mentén.
+---
+ID: fold-b5-de-kviz-022
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Hamburg az Elba partján fekvő nagy kikötőváros.
+HELYES: Igaz
+MAGYARÁZAT: Hamburg Németország legnagyobb kikötője, az Elba mentén fekszik.
+---
+ID: fold-b5-de-kviz-023
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik városban található az Európai Központi Bank székhelye?
+HELYES: Frankfurt am Main
+ROSSZ1: Berlin
+ROSSZ2: München
+ROSSZ3: Hamburg
+MAGYARÁZAT: Az Európai Központi Bank Frankfurtban működik, a pénzügyi élet német központjában.
+---
+ID: fold-b5-de-kviz-024
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: München Bajorország fővárosa.
+HELYES: Igaz
+MAGYARÁZAT: München Bajorország tartományi székhelye, az Alpok közelében.
+---
+ID: fold-b5-de-kviz-025
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Rajna-menti városban áll híres katedrális?
+HELYES: Köln
+ROSSZ1: Drezda
+ROSSZ2: Stuttgart
+ROSSZ3: Bréma
+MAGYARÁZAT: A kölni dóm a Rajna partján álló, világhírű gótikus katedrális.
+---
+ID: fold-b5-de-kviz-026
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Németország az Európai Unió legnagyobb gazdaságú országa.
+HELYES: Igaz
+MAGYARÁZAT: A német GDP az EU-ban a legnagyobb, az export és az ipar különösen erős.
+---
+ID: fold-b5-de-kviz-027
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik a legjelentősebb barnaszén-bányászati térség Németországban?
+HELYES: Rajna-vidéki barnaszén-medence
+ROSSZ1: Ruhr-vidék
+ROSSZ2: Saar-vidék
+ROSSZ3: Bajor-Alpok
+MAGYARÁZAT: A Rajna-vidéki barnaszén-medence a legnagyobb lignit-bányászati térség, a Ruhr- és a Saar-vidék kőszénbányászata régebbi.
+---
+ID: fold-b5-de-kviz-028
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Németország 2023 áprilisában zárta le utolsó atomerőműveit.
+HELYES: Igaz
+MAGYARÁZAT: A német atomerőművek lekapcsolása 2023 áprilisában fejeződött be.
+---
+ID: fold-b5-de-kviz-029
+LECKE_ID: fold-b5-de-001
+TÍPUS: választásos
+KÉRDÉS: Melyik autógyártó vállalat központja Stuttgart?
+HELYES: Mercedes-Benz
+ROSSZ1: BMW
+ROSSZ2: Volkswagen
+ROSSZ3: Audi
+MAGYARÁZAT: A Mercedes-Benz székhelye Stuttgartban, a BMW Münchenben, a Volkswagen Wolfsburgban, az Audi Ingolstadtban van.
+---
+ID: fold-b5-de-kviz-030
+LECKE_ID: fold-b5-de-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Németország a gépgyártás és a vegyipar egyik vezető állama.
+HELYES: Igaz
+MAGYARÁZAT: A német gépgyártás és vegyipar világszinten is kiemelkedő, a BASF és más nagyvállalatok révén.

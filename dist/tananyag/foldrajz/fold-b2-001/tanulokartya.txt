@@ -1,0 +1,179 @@
+ID: fold-b2-kartya-001
+LECKE_ID: fold-b2-001
+ELŐLAP: Az egységes piac négy szabadsága
+HÁTLAP: Áruk, szolgáltatások, tőke, személyek szabad mozgása.
+---
+ID: fold-b2-kartya-002
+LECKE_ID: fold-b2-001
+ELŐLAP: Vámunió lényege
+HÁTLAP: Belső vámok eltörlése, közös külső vámtarifa.
+---
+ID: fold-b2-kartya-003
+LECKE_ID: fold-b2-001
+ELŐLAP: Az egységes piac jogi alapja
+HÁTLAP: Az 1986-ban aláírt Egységes Európai Okmány.
+---
+ID: fold-b2-kartya-004
+LECKE_ID: fold-b2-001
+ELŐLAP: Az egységes piac fogyasztóinak száma
+HÁTLAP: Mintegy 450 millió.
+---
+ID: fold-b2-kartya-005
+LECKE_ID: fold-b2-001
+ELŐLAP: Az egységes piac versenyszabályait felügyelő intézmény
+HÁTLAP: Európai Bizottság.
+---
+ID: fold-b2-kartya-006
+LECKE_ID: fold-b2-001
+ELŐLAP: Románia fő kereskedelmi partnere
+HÁTLAP: Németország.
+---
+ID: fold-b2-kartya-007
+LECKE_ID: fold-b2-001
+ELŐLAP: Az eurózóna monetáris politikáját irányító intézmény
+HÁTLAP: Európai Központi Bank (Frankfurt).
+---
+ID: fold-b2-kartya-008
+LECKE_ID: fold-b2-001
+ELŐLAP: Maastrichti kritérium: államháztartási hiány
+HÁTLAP: Legfeljebb a GDP 3%-a.
+---
+ID: fold-b2-kartya-009
+LECKE_ID: fold-b2-001
+ELŐLAP: Maastrichti kritérium: államadósság
+HÁTLAP: Legfeljebb a GDP 60%-a.
+---
+ID: fold-b2-kartya-010
+LECKE_ID: fold-b2-001
+ELŐLAP: Az euró bevezetésének egyik feltétele árfolyam szempontból
+HÁTLAP: Árfolyam-stabilitás.
+---
+ID: fold-b2-kartya-011
+LECKE_ID: fold-b2-001
+ELŐLAP: Legutóbbi eurózóna-csatlakozó (2023)
+HÁTLAP: Horvátország.
+---
+ID: fold-b2-kartya-012
+LECKE_ID: fold-b2-001
+ELŐLAP: Magyarország pénzneme
+HÁTLAP: Forint (nem euró).
+---
+ID: fold-b2-kartya-013
+LECKE_ID: fold-b2-001
+ELŐLAP: Románia pénzneme
+HÁTLAP: Román lej (RON), nem euró.
+---
+ID: fold-b2-kartya-014
+LECKE_ID: fold-b2-001
+ELŐLAP: Az eurózóna tagjainak becsült száma
+HÁTLAP: Legalább 20 ország.
+---
+ID: fold-b2-kartya-015
+LECKE_ID: fold-b2-001
+ELŐLAP: A schengeni övezet gyakorlati bevezetése
+HÁTLAP: 1995.
+---
+ID: fold-b2-kartya-016
+LECKE_ID: fold-b2-001
+ELŐLAP: A schengeni övezet fő előnye
+HÁTLAP: Nincs személyi határellenőrzés a belső határokon.
+---
+ID: fold-b2-kartya-017
+LECKE_ID: fold-b2-001
+ELŐLAP: EU-tagállam, amely nem schengeni
+HÁTLAP: Írország.
+---
+ID: fold-b2-kartya-018
+LECKE_ID: fold-b2-001
+ELŐLAP: EU-n kívüli schengeni tagok (példa)
+HÁTLAP: Norvégia, Izland, Svájc, Liechtenstein.
+---
+ID: fold-b2-kartya-019
+LECKE_ID: fold-b2-001
+ELŐLAP: Románia schengeni csatlakozása a légi és tengeri határokon
+HÁTLAP: 2024. március 31.
+---
+ID: fold-b2-kartya-020
+LECKE_ID: fold-b2-001
+ELŐLAP: Románia schengeni csatlakozása a szárazföldi határokon
+HÁTLAP: 2025. január 1.
+---
+ID: fold-b2-kartya-021
+LECKE_ID: fold-b2-001
+ELŐLAP: Románia legfejlettebb régiója egy főre jutó GDP alapján
+HÁTLAP: Bukarest–Ilfov.
+---
+ID: fold-b2-kartya-022
+LECKE_ID: fold-b2-001
+ELŐLAP: Románia legkevésbé fejlett régiója egy főre jutó GDP alapján
+HÁTLAP: Észak-Kelet (Moldva).
+---
+ID: fold-b2-kartya-023
+LECKE_ID: fold-b2-001
+ELŐLAP: Fiatalok elvándorlásának fő oka
+HÁTLAP: Jobb bérek és munkalehetőségek nyugaton vagy a városokban.
+---
+ID: fold-b2-kartya-024
+LECKE_ID: fold-b2-001
+ELŐLAP: Európai Regionális Fejlesztési Alap (ERFA) célja
+HÁTLAP: A régiók közötti különbségek csökkentése.
+---
+ID: fold-b2-kartya-025
+LECKE_ID: fold-b2-001
+ELŐLAP: Kohéziós Alap célja
+HÁTLAP: Környezetvédelem és közlekedési infrastruktúra támogatása.
+---
+ID: fold-b2-kartya-026
+LECKE_ID: fold-b2-001
+ELŐLAP: Európai Szociális Alap célja
+HÁTLAP: Foglalkoztatás, képzés és szociális befogadás támogatása.
+---
+ID: fold-b2-kartya-027
+LECKE_ID: fold-b2-001
+ELŐLAP: Szubszidiaritás elve
+HÁTLAP: A döntés lehetőleg a legalacsonyabb, a helyi szinten szülessen.
+---
+ID: fold-b2-kartya-028
+LECKE_ID: fold-b2-001
+ELŐLAP: Vámunióban a tagállamok közötti áruforgalom
+HÁTLAP: Nincs belső vám.
+---
+ID: fold-b2-kartya-029
+LECKE_ID: fold-b2-001
+ELŐLAP: Kohéziós politika fő célja
+HÁTLAP: A gazdasági és társadalmi különbségek csökkentése a régiók között.
+---
+ID: fold-b2-kartya-030
+LECKE_ID: fold-b2-001
+ELŐLAP: Vámunió külső határán alkalmazott
+HÁTLAP: Közös külső vámtarifa.
+---
+ID: fold-b2-kartya-031
+LECKE_ID: fold-b2-001
+ELŐLAP: Az egységes piac 1993-as működésének tartalma
+HÁTLAP: A négy szabadság teljes körű érvényesítése.
+---
+ID: fold-b2-kartya-032
+LECKE_ID: fold-b2-001
+ELŐLAP: Maastricht és az euró
+HÁTLAP: A maastrichti szerződés döntött az euró bevezetéséről.
+---
+ID: fold-b2-kartya-033
+LECKE_ID: fold-b2-001
+ELŐLAP: Schengen egyezmény aláírásának éve
+HÁTLAP: 1985.
+---
+ID: fold-b2-kartya-034
+LECKE_ID: fold-b2-001
+ELŐLAP: Az euró készpénzének bevezetése
+HÁTLAP: 2002.
+---
+ID: fold-b2-kartya-035
+LECKE_ID: fold-b2-001
+ELŐLAP: Az EKB székhelye
+HÁTLAP: Frankfurt.
+---
+ID: fold-b2-kartya-036
+LECKE_ID: fold-b2-001
+ELŐLAP: Románia és az EU-s schengeni övezet kapcsolata
+HÁTLAP: 2025-től teljes tagság a szárazföldi határokon is.

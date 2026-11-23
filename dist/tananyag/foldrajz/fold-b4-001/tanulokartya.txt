@@ -1,0 +1,179 @@
+ID: fold-b4-kartya-001
+LECKE_ID: fold-b4-001
+ELŐLAP: Az EU energiaellátásának importaránya
+HÁTLAP: Több mint fele.
+---
+ID: fold-b4-kartya-002
+LECKE_ID: fold-b4-001
+ELŐLAP: A REPowerEU terv fő célja
+HÁTLAP: Az orosz fosszilis, különösen földgáz-függés csökkentése.
+---
+ID: fold-b4-kartya-003
+LECKE_ID: fold-b4-001
+ELŐLAP: LNG jelentése
+HÁTLAP: Cseppfolyósított földgáz.
+---
+ID: fold-b4-kartya-004
+LECKE_ID: fold-b4-001
+ELŐLAP: LNG-terminál
+HÁTLAP: Cseppfolyós földgázt fogadó és gázzá visszaalakító létesítmény.
+---
+ID: fold-b4-kartya-005
+LECKE_ID: fold-b4-001
+ELŐLAP: Energiabiztonság
+HÁTLAP: Az energiaellátás folyamatos és megfizethető biztosítása.
+---
+ID: fold-b4-kartya-006
+LECKE_ID: fold-b4-001
+ELŐLAP: Diverzifikáció az energiaellátásban
+HÁTLAP: Több beszállító és több forrás.
+---
+ID: fold-b4-kartya-007
+LECKE_ID: fold-b4-001
+ELŐLAP: Példa megújuló energiaforrásra
+HÁTLAP: Szélenergia.
+---
+ID: fold-b4-kartya-008
+LECKE_ID: fold-b4-001
+ELŐLAP: A megújulók fő kihívása
+HÁTLAP: Az időszakos termelés kiegyenlítése és az energia tárolása.
+---
+ID: fold-b4-kartya-009
+LECKE_ID: fold-b4-001
+ELŐLAP: Az atomenergia egyik fő előnye
+HÁTLAP: Alacsony szén-dioxid-kibocsátás.
+---
+ID: fold-b4-kartya-010
+LECKE_ID: fold-b4-001
+ELŐLAP: Az EU legnagyobb atomenergia-termelője
+HÁTLAP: Franciaország.
+---
+ID: fold-b4-kartya-011
+LECKE_ID: fold-b4-001
+ELŐLAP: Németország atomenergia-politikája
+HÁTLAP: 2023-ban zárta le utolsó atomerőműveit.
+---
+ID: fold-b4-kartya-012
+LECKE_ID: fold-b4-001
+ELŐLAP: Románia atomerőműve
+HÁTLAP: Cernavodă.
+---
+ID: fold-b4-kartya-013
+LECKE_ID: fold-b4-001
+ELŐLAP: A cernavodai erőmű reaktortípusa
+HÁTLAP: CANDU (nehézvizes).
+---
+ID: fold-b4-kartya-014
+LECKE_ID: fold-b4-001
+ELŐLAP: A cernavodai első blokk hálózatra kapcsolása
+HÁTLAP: 1996.
+---
+ID: fold-b4-kartya-015
+LECKE_ID: fold-b4-001
+ELŐLAP: Duna menti vízerőmű-rendszer Romániában
+HÁTLAP: Vaskapu (Porțile de Fier).
+---
+ID: fold-b4-kartya-016
+LECKE_ID: fold-b4-001
+ELŐLAP: Román szénalapú termelés központja
+HÁTLAP: Oltenia, a Jiu-völgy.
+---
+ID: fold-b4-kartya-017
+LECKE_ID: fold-b4-001
+ELŐLAP: Romániában termelt szénfajta
+HÁTLAP: Lignit (barnaszén).
+---
+ID: fold-b4-kartya-018
+LECKE_ID: fold-b4-001
+ELŐLAP: Erdélyi földgáztermelő térség
+HÁTLAP: Medgyes (Mediaș) környéke.
+---
+ID: fold-b4-kartya-019
+LECKE_ID: fold-b4-001
+ELŐLAP: Román olajipar központja
+HÁTLAP: Ploiești.
+---
+ID: fold-b4-kartya-020
+LECKE_ID: fold-b4-001
+ELŐLAP: Román szélerőművek fő térsége
+HÁTLAP: Dobrudzsa.
+---
+ID: fold-b4-kartya-021
+LECKE_ID: fold-b4-001
+ELŐLAP: Energiabiztonság fogalma
+HÁTLAP: A folyamatos és megfizethető ellátás.
+---
+ID: fold-b4-kartya-022
+LECKE_ID: fold-b4-001
+ELŐLAP: Az EU energiaunió célja
+HÁTLAP: Energiabiztonság, versenyképesség, fenntarthatóság.
+---
+ID: fold-b4-kartya-023
+LECKE_ID: fold-b4-001
+ELŐLAP: Határokon átívelő energia-összeköttetés
+HÁTLAP: Villamos- vagy gázvezeték, amely országokat köt össze.
+---
+ID: fold-b4-kartya-024
+LECKE_ID: fold-b4-001
+ELŐLAP: Fosszilis energiahordozók
+HÁTLAP: Kőolaj, földgáz, kőszén.
+---
+ID: fold-b4-kartya-025
+LECKE_ID: fold-b4-001
+ELŐLAP: Szénalapú termelés kivezetésének szociális kérdése
+HÁTLAP: A bányászati térségek munkahelyeinek megszűnése.
+---
+ID: fold-b4-kartya-026
+LECKE_ID: fold-b4-001
+ELŐLAP: Energiaszegénység
+HÁTLAP: A háztartások nem tudják megfizetni az energiát.
+---
+ID: fold-b4-kartya-027
+LECKE_ID: fold-b4-001
+ELŐLAP: Két romániai vízerőmű a Kárpátokban
+HÁTLAP: Bicaz és Lotru.
+---
+ID: fold-b4-kartya-028
+LECKE_ID: fold-b4-001
+ELŐLAP: Románia energiamixének elemei
+HÁTLAP: Víz, szén, atom, földgáz, kőolaj, szél, nap.
+---
+ID: fold-b4-kartya-029
+LECKE_ID: fold-b4-001
+ELŐLAP: REPowerEU terv éve
+HÁTLAP: 2022.
+---
+ID: fold-b4-kartya-030
+LECKE_ID: fold-b4-001
+ELŐLAP: Az atomenergia kibocsátási jellemzője
+HÁTLAP: Alacsony szén-dioxid-kibocsátás.
+---
+ID: fold-b4-kartya-031
+LECKE_ID: fold-b4-001
+ELŐLAP: Erdélyi gázmező neve (település)
+HÁTLAP: Medgyes (Mediaș).
+---
+ID: fold-b4-kartya-032
+LECKE_ID: fold-b4-001
+ELŐLAP: Román energiaügyi feladat a zöld átállásban
+HÁTLAP: A szénalapú termelés csökkentése.
+---
+ID: fold-b4-kartya-033
+LECKE_ID: fold-b4-001
+ELŐLAP: Dobrudzsa energetikai szerepe
+HÁTLAP: Szélerőművek térsége.
+---
+ID: fold-b4-kartya-034
+LECKE_ID: fold-b4-001
+ELŐLAP: A Duna energetikai szerepe Romániában
+HÁTLAP: Vízerőművek, például a Vaskapu.
+---
+ID: fold-b4-kartya-035
+LECKE_ID: fold-b4-001
+ELŐLAP: Az EU klímasemlegességi célja
+HÁTLAP: 2050.
+---
+ID: fold-b4-kartya-036
+LECKE_ID: fold-b4-001
+ELŐLAP: A cernavodai második blokk hálózatra kapcsolása
+HÁTLAP: 2007.

@@ -1,0 +1,179 @@
+ID: fold-b5-fr-kartya-001
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország szárazföldi szomszédainak száma
+HÁTLAP: 8 (Belgium, Luxemburg, Németország, Svájc, Olaszország, Monaco, Andorra, Spanyolország).
+---
+ID: fold-b5-fr-kartya-002
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország délkeleti tengere
+HÁTLAP: Földközi-tenger.
+---
+ID: fold-b5-fr-kartya-003
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország nyugati tengere
+HÁTLAP: Atlanti-óceán (Biszkaji-öböl).
+---
+ID: fold-b5-fr-kartya-004
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország északnyugati tengere
+HÁTLAP: La Manche (Csatorna).
+---
+ID: fold-b5-fr-kartya-005
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Mely két kis állam határos Franciaországgal?
+HÁTLAP: Monaco és Andorra.
+---
+ID: fold-b5-fr-kartya-006
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Határos-e Franciaország Ausztriával?
+HÁTLAP: Nem.
+---
+ID: fold-b5-fr-kartya-007
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország legmagasabb csúcsa
+HÁTLAP: Mont Blanc, 4808 m (Alpok).
+---
+ID: fold-b5-fr-kartya-008
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Közép-francia-középhegység jellemző formái
+HÁTLAP: Vulkáni kúpok (Auvergne) és karsztos fennsíkok.
+---
+ID: fold-b5-fr-kartya-009
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Karsztos fennsík a Massif Centralban
+HÁTLAP: Causses.
+---
+ID: fold-b5-fr-kartya-010
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Párizs körüli medence
+HÁTLAP: Párizsi-medence.
+---
+ID: fold-b5-fr-kartya-011
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Glaciális forma az Alpokban
+HÁTLAP: Mer de Glace gleccser (Chamonix mellett).
+---
+ID: fold-b5-fr-kartya-012
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország és Spanyolország közötti hegység
+HÁTLAP: Pireneusok.
+---
+ID: fold-b5-fr-kartya-013
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Rhône-völgy hideg, száraz szele
+HÁTLAP: Mistral (északnyugati szél).
+---
+ID: fold-b5-fr-kartya-014
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Languedoc északi szele
+HÁTLAP: Tramontane.
+---
+ID: fold-b5-fr-kartya-015
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország keleti részének hideg északkeleti szele
+HÁTLAP: Bise.
+---
+ID: fold-b5-fr-kartya-016
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország nyugati éghajlata
+HÁTLAP: Óceáni.
+---
+ID: fold-b5-fr-kartya-017
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Côte d'Azur éghajlata
+HÁTLAP: Mediterrán.
+---
+ID: fold-b5-fr-kartya-018
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Alpok és Pireneusok éghajlata
+HÁTLAP: Hegyvidéki.
+---
+ID: fold-b5-fr-kartya-019
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország leghosszabb folyója
+HÁTLAP: Loire (Atlanti-óceánba ömlik).
+---
+ID: fold-b5-fr-kartya-020
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Szajna torkolata
+HÁTLAP: La Manche (Le Havre közelében).
+---
+ID: fold-b5-fr-kartya-021
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Rhône torkolata
+HÁTLAP: Camargue-delta, Földközi-tenger.
+---
+ID: fold-b5-fr-kartya-022
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Garonne torkolata
+HÁTLAP: Gironde-öböl (Bordeaux közelében).
+---
+ID: fold-b5-fr-kartya-023
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Genfi-tó
+HÁTLAP: Franciaország és Svájc közös tava.
+---
+ID: fold-b5-fr-kartya-024
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Loire torkolata
+HÁTLAP: Atlanti-óceán (Saint-Nazaire közelében).
+---
+ID: fold-b5-fr-kartya-025
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország fővárosa
+HÁTLAP: Párizs (a Szajna partján).
+---
+ID: fold-b5-fr-kartya-026
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország legnagyobb kikötővárosa
+HÁTLAP: Marseille.
+---
+ID: fold-b5-fr-kartya-027
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Rhône és Saône összefolyásánál fekvő város
+HÁTLAP: Lyon.
+---
+ID: fold-b5-fr-kartya-028
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország repülőipari központja
+HÁTLAP: Toulouse (Airbus).
+---
+ID: fold-b5-fr-kartya-029
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Strasbourg helye
+HÁTLAP: Elzász tartomány székhelye, a német határ közelében.
+---
+ID: fold-b5-fr-kartya-030
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország lakossága
+HÁTLAP: Kb. 68 millió fő.
+---
+ID: fold-b5-fr-kartya-031
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország legfontosabb villamosenergia-forrása
+HÁTLAP: Atomenergia.
+---
+ID: fold-b5-fr-kartya-032
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország turisztikai szerepe
+HÁTLAP: A világ egyik legtöbb turistát fogadó országa.
+---
+ID: fold-b5-fr-kartya-033
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország mezőgazdasági terméke az EU-ban
+HÁTLAP: Búza (az EU egyik legnagyobb termelője).
+---
+ID: fold-b5-fr-kartya-034
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Pezsgő borvidéke
+HÁTLAP: Champagne.
+---
+ID: fold-b5-fr-kartya-035
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Francia autógyártó márkák
+HÁTLAP: Renault és Peugeot.
+---
+ID: fold-b5-fr-kartya-036
+LECKE_ID: fold-b5-fr-001
+ELŐLAP: Franciaország repülőgépgyártó cége
+HÁTLAP: Airbus (Toulouse).

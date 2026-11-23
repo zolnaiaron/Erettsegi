@@ -1,0 +1,179 @@
+ID: fold-b5-at-kartya-001
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria szomszédainak száma
+HÁTLAP: 8.
+---
+ID: fold-b5-at-kartya-002
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria tengerpartja
+HÁTLAP: Nincs (szárazföldi ország).
+---
+ID: fold-b5-at-kartya-003
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria keleti szomszédja
+HÁTLAP: Magyarország.
+---
+ID: fold-b5-at-kartya-004
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria nyugati szomszédai
+HÁTLAP: Svájc és Liechtenstein.
+---
+ID: fold-b5-at-kartya-005
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria északi szomszédai
+HÁTLAP: Csehország és Szlovákia.
+---
+ID: fold-b5-at-kartya-006
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria déli szomszédai
+HÁTLAP: Szlovénia és Olaszország.
+---
+ID: fold-b5-at-kartya-007
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria legmagasabb csúcsa
+HÁTLAP: Großglockner, 3798 m.
+---
+ID: fold-b5-at-kartya-008
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria legnagyobb gleccsere
+HÁTLAP: Pasterze (a Großglockner térségében).
+---
+ID: fold-b5-at-kartya-009
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Karsztos fennsík barlangokkal Ausztriában
+HÁTLAP: Dachstein.
+---
+ID: fold-b5-at-kartya-010
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Kelet-Ausztria nagy sztyeptava
+HÁTLAP: Neusiedler-tó (Fertő-tó).
+---
+ID: fold-b5-at-kartya-011
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria területének nagy része
+HÁTLAP: Az Alpokban fekszik.
+---
+ID: fold-b5-at-kartya-012
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Az osztrák Alpok karsztos része
+HÁTLAP: Északi mészkő-Alpok.
+---
+ID: fold-b5-at-kartya-013
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria hegyvidéki éghajlata
+HÁTLAP: Alpesi.
+---
+ID: fold-b5-at-kartya-014
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Alpesi völgyek meleg, lefelé áramló szele
+HÁTLAP: Föhn.
+---
+ID: fold-b5-at-kartya-015
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria keleti éghajlata
+HÁTLAP: Kontinentális (szárazabb, melegebb nyár).
+---
+ID: fold-b5-at-kartya-016
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria legnyugatibb, csapadékos tartománya
+HÁTLAP: Vorarlberg.
+---
+ID: fold-b5-at-kartya-017
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Burgenland éghajlata
+HÁTLAP: Száraz, kontinentális.
+---
+ID: fold-b5-at-kartya-018
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria nyugati részén érvényesülő hatás
+HÁTLAP: Óceáni.
+---
+ID: fold-b5-at-kartya-019
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Bécsen átfolyó folyó
+HÁTLAP: Duna.
+---
+ID: fold-b5-at-kartya-020
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Innsbruck folyója
+HÁTLAP: Inn (Passaunál ömlik a Dunába).
+---
+ID: fold-b5-at-kartya-021
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Graz folyója
+HÁTLAP: Mur.
+---
+ID: fold-b5-at-kartya-022
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria és Magyarország közös tava
+HÁTLAP: Fertő-tó (Neusiedler See).
+---
+ID: fold-b5-at-kartya-023
+LECKE_ID: fold-b5-at-001
+ELŐLAP: A Salzkammergut üdülőtava
+HÁTLAP: Wolfgangsee.
+---
+ID: fold-b5-at-kartya-024
+LECKE_ID: fold-b5-at-001
+ELŐLAP: A Duna iránya Ausztriában
+HÁTLAP: Nyugat–keleti, az országot átszeli.
+---
+ID: fold-b5-at-kartya-025
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria fővárosa
+HÁTLAP: Bécs (a Duna partján).
+---
+ID: fold-b5-at-kartya-026
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria második legnagyobb városa
+HÁTLAP: Graz.
+---
+ID: fold-b5-at-kartya-027
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Duna menti ipari város, acélgyárral
+HÁTLAP: Linz.
+---
+ID: fold-b5-at-kartya-028
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Mozart szülővárosa
+HÁTLAP: Salzburg.
+---
+ID: fold-b5-at-kartya-029
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Tirol fővárosa
+HÁTLAP: Innsbruck.
+---
+ID: fold-b5-at-kartya-030
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria lakossága
+HÁTLAP: Kb. 9 millió fő.
+---
+ID: fold-b5-at-kartya-031
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria villamosenergia-termelésének nagy része
+HÁTLAP: Vízerőmű.
+---
+ID: fold-b5-at-kartya-032
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Működik-e atomerőmű Ausztriában?
+HÁTLAP: Nem (az 1978-as népszavazás után).
+---
+ID: fold-b5-at-kartya-033
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria acélgyártásának központja
+HÁTLAP: Linz (voestalpine).
+---
+ID: fold-b5-at-kartya-034
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Híres síterület Tirolban
+HÁTLAP: Kitzbühel.
+---
+ID: fold-b5-at-kartya-035
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Történelmi sóbányászat helye
+HÁTLAP: Hallstatt.
+---
+ID: fold-b5-at-kartya-036
+LECKE_ID: fold-b5-at-001
+ELŐLAP: Ausztria jellemző mezőgazdasági ágazata az Alpokban
+HÁTLAP: Tejtermelés és szarvasmarha-tenyésztés.

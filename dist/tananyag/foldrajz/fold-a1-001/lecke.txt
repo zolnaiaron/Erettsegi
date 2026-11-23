@@ -1,0 +1,38 @@
+ID: fold-a1-001
+CÍM: Románia az európai térben: fekvés, határok, kiterjedés
+SZÖVEG:
+# Románia az európai térben: fekvés, határok, kiterjedés
+Románia Délkelet-Európában helyezkedik el, a Kárpátok ívének belsejében és a Duna alsó folyásánál. Területe 238 397 km², ami több mint kétszerese Magyarország területének. Európa keleti határa hagyományosan az Urál-hegység.
+
+## Fekvés és földrajzi helyzet
+- Északi szélessége 43°37' és 48°15' között van, keleti hosszúsága 20°15' és 29°45' közé esik.
+- Helyi ideje egy órával később van, mint Magyarországon (UTC+2, illetve UTC+1), így a két ország óraállása között mindig egy óra a különbség.
+- Erdély, a Bánság és a Partium a **Kárpát-medencéhez** tartozik, de Románia nem fedi le a teljes medencét.
+
+## Tájak
+- A **Kárpátok** ív alakban húzódnak át az ország középső és keleti részén. Legmagasabb csúcsa a **Moldoveanu** (2544 m), a Fogarasi-havasokban.
+- Az ív belsejében fekszik az **Erdélyi-medence**.
+- A Kárpátoktól délre a **Havasalföld** síksága terül el.
+- Keleten a **Moldvai-fennsík**, délkeleten a **Dobrudzsa** található, amely a Duna és a Fekete-tenger között húzódik.
+- Nyugaton a **Bánság** és a Partium (Crișana) dombvidéki tájai vannak.
+
+## Határok és szomszédok
+- Öt szárazföldi szomszédja van: **Ukrajna** (észak, északkelet), **Moldova** (kelet, főleg a Prut mentén), **Magyarország** (nyugat, kb. 450 km hosszú határ), **Szerbia** (délnyugat, a Duna mentén), **Bulgária** (dél, a Duna Vidin–Silistra szakaszán és a Dobrudzsa déli határán).
+- Tengeri határa a **Fekete-tenger** partján húzódik, a partvonal hossza kb. 225 km, legnagyobb kikötője **Constanța**.
+- Nem határos **Horvátországgal** és **Szlovákiával**.
+- Az ország az Európai Unió keleti külső határának része.
+
+## Duna és Duna-delta
+- A Duna Romániában több mint 1000 km hosszan folyik, és deltájával a Fekete-tengerbe ömlik.
+- A Duna-delta Európa második legnagyobb folyódeltája, 1991 óta UNESCO világörökségi terület.
+
+## Kiterjedés, közigazgatás, népesség
+- Lakossága kb. 19 millió fő (a 2021-es népszámlálás szerint 19,05 millió).
+- Közigazgatásilag 41 megyére (județ) és Bukarest municipiumra oszlik.
+- Európa területe kb. 10 millió km².
+
+## Európai integráció
+- 2004-ben lett NATO-tag, 2007. január 1-jétől az Európai Unió tagja.
+- 2025. január 1-jétől a szárazföldi határain sincs határellenőrzés a schengeni övezetben.
+- Pénzneme a román lej (RON), nem az euró.
+

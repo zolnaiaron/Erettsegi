@@ -1,0 +1,254 @@
+ID: fold-c5-kviz-001
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Hány millió fő lakja kb. az Európai Uniót?
+HELYES: 450
+ROSSZ1: 150
+ROSSZ2: 300
+ROSSZ3: 800
+MAGYARÁZAT: Az EU népessége kb. 450 millió fő, ez a világ népességének kisebb, de jelentős része.
+---
+ID: fold-c5-kviz-002
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Mekkora a népesség-helyettesítési szint teljes termékenységi arányban kifejezve?
+HELYES: 2,1
+ROSSZ1: 1,0
+ROSSZ2: 3,5
+ROSSZ3: 4,0
+MAGYARÁZAT: A népesség önmagát akkor pótolja, ha egy nő átlagosan kb. 2,1 gyermeket szül. Az EU termékenységi aránya ennél alacsonyabb.
+---
+ID: fold-c5-kviz-003
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU-ban a 65 év feletti lakosok aránya folyamatosan nő.
+HELYES: Igaz
+MAGYARÁZAT: Az elöregedés az EU egyik legnagyobb demográfiai kihívása.
+---
+ID: fold-c5-kviz-004
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik politikai eszköz tartozik a demográfiai fenntarthatóság eszközei közé?
+HELYES: családtámogatási rendszer
+ROSSZ1: vámok emelése
+ROSSZ2: űrprogram támogatása
+ROSSZ3: tengeri halászati kvóta
+MAGYARÁZAT: A családtámogatás a gyermekvállalás ösztönzésével a népesség utánpótlását segíti. A másik három eszköz más területhez tartozik.
+---
+ID: fold-c5-kviz-005
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU teljes termékenységi aránya meghaladja a népesség-helyettesítési szintet.
+HELYES: Hamis
+MAGYARÁZAT: Az EU termékenységi aránya kb. 1,5, ami alacsonyabb a 2,1-es helyettesítési szintnél.
+---
+ID: fold-c5-kviz-006
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU célja, hogy 2050-re klímasemleges legyen.
+HELYES: Igaz
+MAGYARÁZAT: Az Európai Zöld Megállapodás 2050-es klímasemlegességi célt tűzött ki.
+---
+ID: fold-c5-kviz-007
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós stratégia nevéhez fűződik a klímasemlegesség célja?
+HELYES: Európai Zöld Megállapodás (Green Deal)
+ROSSZ1: Lisszaboni Stratégia
+ROSSZ2: Digitális Menetrend
+ROSSZ3: Erasmus-program
+MAGYARÁZAT: Az Európai Zöld Megállapodás 2019-ben született. A Lisszaboni Stratégia gazdasági célokat, a Digitális Menetrend a digitális területet, az Erasmus a diákmobilitást szolgálja.
+---
+ID: fold-c5-kviz-008
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU kibocsátáskereskedelmi rendszere (ETS) 2005 óta működik.
+HELYES: Igaz
+MAGYARÁZAT: Az ETS az EU legnagyobb szén-dioxid-kibocsátási piaci rendszere, 2005-ben indult.
+---
+ID: fold-c5-kviz-009
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Mi a neve az uniós határkiigazító karbonadónak?
+HELYES: CBAM
+ROSSZ1: REACH
+ROSSZ2: EMAS
+ROSSZ3: ISO 14001
+MAGYARÁZAT: A CBAM a magas kibocsátású importtermékek után fizetendő határkiigazító mechanizmus. A REACH vegyi anyagokat, az EMAS és az ISO 14001 környezetirányítási szabványokat szabályoz.
+---
+ID: fold-c5-kviz-010
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Igazságos Átmeneti Alap a szénbányászati térségek átállását támogatja.
+HELYES: Igaz
+MAGYARÁZAT: Az alap a fosszilis iparágak leépülésével érintett térségek munkahelyeit és gazdaságát segíti.
+---
+ID: fold-c5-kviz-011
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az AI-rendelet (AI Act) az EU mesterséges intelligenciát szabályozó jogszabálya.
+HELYES: Igaz
+MAGYARÁZAT: A rendelet a mesterséges intelligencia használatát a kockázati szintek szerint szabályozza.
+---
+ID: fold-c5-kviz-012
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós jogszabály szabályozza a nagy online platformok piaci magatartását?
+HELYES: Digitális Piacokról szóló rendelet (DMA)
+ROSSZ1: REACH
+ROSSZ2: Euro 7
+ROSSZ3: MiFID II
+MAGYARÁZAT: A DMA a nagy online platformok versenyjogi szabályait állapítja meg. A többi felsorolt rendelet más területet szabályoz.
+---
+ID: fold-c5-kviz-013
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évtől alkalmazzák a GDPR-t?
+HELYES: 2018
+ROSSZ1: 2010
+ROSSZ2: 2013
+ROSSZ3: 2020
+MAGYARÁZAT: Az általános adatvédelmi rendelet (GDPR) 2018. május 25-től alkalmazandó az EU-ban.
+---
+ID: fold-c5-kviz-014
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Mi a neve az EU 2030-ig szóló digitális célkitűzés-csomagjának?
+HELYES: Digitális évtized
+ROSSZ1: Digitális Menetrend 2010
+ROSSZ2: Nyitott Internet
+ROSSZ3: Okos Város
+MAGYARÁZAT: A Digitális évtized (Digital Decade) 2021-ben indult, 2030-ig szóló célokat határoz meg. A Digitális Menetrend 2010-ben született, a másik két felsorolt fogalom nem uniós stratégia neve.
+---
+ID: fold-c5-kviz-015
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU digitális szabályozása nem érinti a nagy technológiai platformokat.
+HELYES: Hamis
+MAGYARÁZAT: A DMA és a DSA kifejezetten a nagy technológiai platformokra vonatkozik.
+---
+ID: fold-c5-kviz-016
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU jövőjéről szóló Európa-konferencia 2021–2022-ben zajlott.
+HELYES: Igaz
+MAGYARÁZAT: A konferencián polgárok és intézmények vitatták meg az EU jövőjét és a lehetséges reformokat.
+---
+ID: fold-c5-kviz-017
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik 2022-es dokumentum határozza meg az EU biztonság- és védelempolitikai irányvonalát?
+HELYES: Stratégiai Iránytű
+ROSSZ1: Fehér könyv Európa jövőjéről
+ROSSZ2: Schengeni Kódex
+ROSSZ3: Lisszaboni Stratégia
+MAGYARÁZAT: A Stratégiai Iránytű 2022-ben született, a biztonság- és védelempolitikai feladatokat rögzíti. A többi felsorolt dokumentum más területet vagy más évet képvisel.
+---
+ID: fold-c5-kviz-018
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Ukrajna és Moldova az EU tagjelölt országai.
+HELYES: Igaz
+MAGYARÁZAT: Mindkét ország 2022-ben kapott uniós tagjelölt státuszt.
+---
+ID: fold-c5-kviz-019
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós védelmi együttműködési keret indult 2017-ben?
+HELYES: PESCO
+ROSSZ1: Schengen
+ROSSZ2: Eurózóna
+ROSSZ3: Erasmus
+MAGYARÁZAT: A PESCO a tagállami védelmi együttműködés strukturált kerete, 2017-ben indult. A többi felsorolt fogalom más területhez tartozik.
+---
+ID: fold-c5-kviz-020
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU minden tagállamra azonos mélységű integrációt ír elő.
+HELYES: Hamis
+MAGYARÁZAT: Az EU-ban több területen vannak kivételek és eltérő integrációs szintek, a többsebességes Európa vitája is ezt mutatja.
+---
+ID: fold-c5-kviz-021
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A nyugdíjrendszerek fenntarthatósága az idős népesség arányától is függ.
+HELYES: Igaz
+MAGYARÁZAT: Minél több az idős és minél kevesebb a dolgozó, annál nehezebb a nyugdíjak finanszírozása.
+---
+ID: fold-c5-kviz-022
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nyugdíjrendszerben fedezi a dolgozók befizetése a jelenlegi nyugdíjasok ellátását?
+HELYES: felosztó-kirovó rendszer
+ROSSZ1: tőkefedezeti rendszer
+ROSSZ2: állampapír-alapú megtakarítás
+ROSSZ3: önkéntes magánmegtakarítás
+MAGYARÁZAT: A felosztó-kirovó rendszerben a dolgozók befizetései azonnal a nyugdíjasokat finanszírozzák. A tőkefedezeti rendszer befektetésekből gyarapodik.
+---
+ID: fold-c5-kviz-023
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nyugdíjrendszerben gyarapodnak a befizetések befektetésekből?
+HELYES: tőkefedezeti rendszer
+ROSSZ1: felosztó-kirovó rendszer
+ROSSZ2: állami kötvény-alapú rendszer
+ROSSZ3: egyszeri kifizetési rendszer
+MAGYARÁZAT: A tőkefedezeti rendszerben a befizetéseket befektetik, és a hozamok növelik a nyugdíjat. A felosztó-kirovó rendszer nem befektetéseken alapul.
+---
+ID: fold-c5-kviz-024
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik uniós alap támogatja a foglalkoztatást és a készségfejlesztést?
+HELYES: Európai Szociális Alap (ESZA)
+ROSSZ1: Kohéziós Alap
+ROSSZ2: Helyreállítási és Rezilienciaeszköz
+ROSSZ3: Szolidaritási Alap
+MAGYARÁZAT: Az ESZA a munkaerő készségeit és a foglalkoztatást támogatja. A Kohéziós Alap infrastruktúrát, a Helyreállítási Eszköz válságkezelést és beruházásokat, a Szolidaritási Alap katasztrófákat finanszíroz.
+---
+ID: fold-c5-kviz-025
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az EU népességének csökkenése miatt a munkaerőhiány nem jelent problémát.
+HELYES: Hamis
+MAGYARÁZAT: A csökkenő és öregedő népesség munkaerőhiányt okoz, ami a gazdasági növekedést is érinti.
+---
+ID: fold-c5-kviz-026
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Romániában a lakosság száma 1990 óta csökken.
+HELYES: Igaz
+MAGYARÁZAT: Az elvándorlás és az alacsony születésszám miatt a lakosság 1990 óta folyamatosan csökken.
+---
+ID: fold-c5-kviz-027
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyamat okozza leginkább Románia népességcsökkenését?
+HELYES: elvándorlás
+ROSSZ1: magas születésszám
+ROSSZ2: bevándorlás
+ROSSZ3: halálozás csökkenése
+MAGYARÁZAT: A romániai népesség csökkenésének fő oka az elvándorlás. A többi felsorolt tényező ellentétes irányba hat.
+---
+ID: fold-c5-kviz-028
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Helyreállítási Terv (PNRR) Romániában a zöld és a digitális átállást is támogatja.
+HELYES: Igaz
+MAGYARÁZAT: A román terv meghatározott arányban fordít forrást a zöld és a digitális beruházásokra.
+---
+ID: fold-c5-kviz-029
+LECKE_ID: fold-c5-001
+TÍPUS: választásos
+KÉRDÉS: Mi az EU kibocsátáskereskedelmi rendszerének (ETS) fő célja?
+HELYES: a kibocsátások csökkentése piaci eszközökkel
+ROSSZ1: a vámok emelése
+ROSSZ2: az állami adóbevételek növelése
+ROSSZ3: az energiaárak állami szabályozása
+MAGYARÁZAT: Az ETS a szén-dioxid-kibocsátásra árat állapít meg, a vállalatok kvótákat vásárolnak, így ösztönzi a csökkentést.
+---
+ID: fold-c5-kviz-030
+LECKE_ID: fold-c5-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A digitális átállás csak a városokban hoz munkalehetőséget.
+HELYES: Hamis
+MAGYARÁZAT: A digitális átállás a vidéki térségekben is munkahelyeket teremthet, ha az infrastruktúra és a készségek fejlődnek.

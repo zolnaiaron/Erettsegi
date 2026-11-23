@@ -1,0 +1,179 @@
+ID: fold-b5-de-kartya-001
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország szárazföldi szomszédainak száma
+HÁTLAP: 9 (Dánia, Lengyelország, Csehország, Ausztria, Svájc, Franciaország, Luxemburg, Belgium, Hollandia).
+---
+ID: fold-b5-de-kartya-002
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország északnyugati tengere
+HÁTLAP: Északi-tenger.
+---
+ID: fold-b5-de-kartya-003
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország északkeleti tengere
+HÁTLAP: Balti-tenger.
+---
+ID: fold-b5-de-kartya-004
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország déli szomszédai
+HÁTLAP: Ausztria és Svájc.
+---
+ID: fold-b5-de-kartya-005
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország keleti szomszédai (példa)
+HÁTLAP: Lengyelország és Csehország.
+---
+ID: fold-b5-de-kartya-006
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország nyugati szomszédai
+HÁTLAP: Franciaország, Luxemburg, Belgium, Hollandia.
+---
+ID: fold-b5-de-kartya-007
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország legmagasabb csúcsa
+HÁTLAP: Zugspitze, 2962 m (Bajor-Alpok).
+---
+ID: fold-b5-de-kartya-008
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Észak-német-alföld jellemző formái
+HÁTLAP: Glaciális formák: morénák, tavak.
+---
+ID: fold-b5-de-kartya-009
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország középhegységei (példa)
+HÁTLAP: Harz, Thüringi-erdő, Rajnai-palafelföld.
+---
+ID: fold-b5-de-kartya-010
+LECKE_ID: fold-b5-de-001
+ELŐLAP: A Duna forrása Németországban
+HÁTLAP: Fekete-erdő (Donaueschingen).
+---
+ID: fold-b5-de-kartya-011
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Svábi-Jura
+HÁTLAP: Karsztos mészkőfennsík.
+---
+ID: fold-b5-de-kartya-012
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Eifel
+HÁTLAP: Vulkáni eredetű vidék.
+---
+ID: fold-b5-de-kartya-013
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország északnyugati éghajlata
+HÁTLAP: Mérsékelt óceáni.
+---
+ID: fold-b5-de-kartya-014
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Bajor-Alpok éghajlata
+HÁTLAP: Hegyvidéki.
+---
+ID: fold-b5-de-kartya-015
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Bajorországi meleg, lefelé áramló szél
+HÁTLAP: Föhn.
+---
+ID: fold-b5-de-kartya-016
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németországban leggyakoribb szélirány
+HÁTLAP: Nyugati szelek.
+---
+ID: fold-b5-de-kartya-017
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország keleti éghajlata
+HÁTLAP: Átmeneti kontinentális.
+---
+ID: fold-b5-de-kartya-018
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország éghajlati övezete
+HÁTLAP: Mérsékelt övi.
+---
+ID: fold-b5-de-kartya-019
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Rajna torkolata
+HÁTLAP: Hollandia, Rotterdam mellett.
+---
+ID: fold-b5-de-kartya-020
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Elba torkolata
+HÁTLAP: Északi-tenger (Cuxhaven térségében).
+---
+ID: fold-b5-de-kartya-021
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Odera
+HÁTLAP: A német–lengyel határ folyója, a Balti-tengerbe ömlik.
+---
+ID: fold-b5-de-kartya-022
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Bodeni-tó (Boden-tó)
+HÁTLAP: Németország, Svájc és Ausztria közös tava.
+---
+ID: fold-b5-de-kartya-023
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Majna
+HÁTLAP: A Rajna jobb oldali mellékfolyója, Frankfurt folyója.
+---
+ID: fold-b5-de-kartya-024
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Duna Németországban
+HÁTLAP: A Fekete-erdőben ered, Ulm és Passau mellett folyik.
+---
+ID: fold-b5-de-kartya-025
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország fővárosa
+HÁTLAP: Berlin (a Spree mentén).
+---
+ID: fold-b5-de-kartya-026
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Elba menti nagy kikötőváros
+HÁTLAP: Hamburg.
+---
+ID: fold-b5-de-kartya-027
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Európai Központi Bank székhelye
+HÁTLAP: Frankfurt am Main.
+---
+ID: fold-b5-de-kartya-028
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Bajorország fővárosa
+HÁTLAP: München.
+---
+ID: fold-b5-de-kartya-029
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Rajna-menti város híres katedrálissal
+HÁTLAP: Köln.
+---
+ID: fold-b5-de-kartya-030
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország lakossága
+HÁTLAP: Kb. 84 millió fő.
+---
+ID: fold-b5-de-kartya-031
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Németország legnagyobb barnaszén-bányászati térsége
+HÁTLAP: Rajna-vidéki barnaszén-medence.
+---
+ID: fold-b5-de-kartya-032
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Mikor zárták le a német atomerőműveket?
+HÁTLAP: 2023 áprilisában.
+---
+ID: fold-b5-de-kartya-033
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Stuttgart nagy autógyártó vállalata
+HÁTLAP: Mercedes-Benz.
+---
+ID: fold-b5-de-kartya-034
+LECKE_ID: fold-b5-de-001
+ELŐLAP: München nagy autógyártó vállalata
+HÁTLAP: BMW.
+---
+ID: fold-b5-de-kartya-035
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Wolfsburg nagy autógyártó vállalata
+HÁTLAP: Volkswagen.
+---
+ID: fold-b5-de-kartya-036
+LECKE_ID: fold-b5-de-001
+ELŐLAP: Ludwigshafen nagy vegyipari vállalata (Rajna-parton)
+HÁTLAP: BASF.

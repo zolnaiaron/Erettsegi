@@ -1,0 +1,257 @@
+ID: fold-c2-kviz-001
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik évben alakult a bolognai egyetem, Európa egyik legrégebbi egyeteme?
+HELYES: 1088
+ROSSZ1: 1200
+ROSSZ2: 1350
+ROSSZ3: 1500
+MAGYARÁZAT: A bolognai egyetemet 1088-ban alapították, ezért Európa egyik legrégebbi egyeteme.
+---
+ID: fold-c2-kviz-002
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A reneszánsz a 14. században Itáliában kezdődött.
+HELYES: Igaz
+MAGYARÁZAT: A reneszánsz mozgalma Itáliában, különösen Firenzében indult el a 14. században.
+---
+ID: fold-c2-kviz-003
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik reformátor tette közzé 1517-ben a 95 tételét?
+HELYES: Luther Márton
+ROSSZ1: Kálvin János
+ROSSZ2: Zwingli Ulrich
+ROSSZ3: Erasmus
+MAGYARÁZAT: Luther 1517-ben a wittenbergi templom kapujára szegezte a 95 tételét, ez indította el a reformációt. A többi felsorolt személy is fontos volt, de nem ő tette közzé ezeket.
+---
+ID: fold-c2-kviz-004
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A felvilágosodás fő eszméje az értelem és a tudomány alkalmazása volt a társadalom javításában.
+HELYES: Igaz
+MAGYARÁZAT: A felvilágosodás gondolkodói az észre és a tudományra építve a társadalmi és politikai reformokat szorgalmazták.
+---
+ID: fold-c2-kviz-005
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nagy politikai esemény kezdődött 1789-ben Párizsban?
+HELYES: francia forradalom
+ROSSZ1: amerikai függetlenségi háború
+ROSSZ2: orosz forradalom
+ROSSZ3: angol polgárháború
+MAGYARÁZAT: A francia forradalom 1789-ben kezdődött Párizsban. Az amerikai függetlenségi háború 1775–1783, az orosz forradalom 1917, az angol polgárháború 1642–1651 között zajlott.
+---
+ID: fold-c2-kviz-006
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Kopernikusz heliocentrikus világképe szerint a Föld kering a Nap körül.
+HELYES: Igaz
+MAGYARÁZAT: Kopernikusz a Napot tette a világegyetem középpontjába, a Föld és a többi bolygó körülötte kering.
+---
+ID: fold-c2-kviz-007
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik angol tudós publikálta 1687-ben a Principiát?
+HELYES: Newton
+ROSSZ1: Galilei
+ROSSZ2: Kepler
+ROSSZ3: Darwin
+MAGYARÁZAT: Isaac Newton a Principiában foglalta össze a mechanika és a gravitáció törvényeit. Galilei olasz, Kepler német tudós, Darwin később, 1859-ben publikált.
+---
+ID: fold-c2-kviz-008
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tudós alkotta meg 1869-ben az elemek periódusos rendszerét?
+HELYES: Mengyelejev
+ROSSZ1: Lavoisier
+ROSSZ2: Dalton
+ROSSZ3: Pasteur
+MAGYARÁZAT: Mengyelejev orosz kémikus rendszerezte az elemeket 1869-ben. Lavoisier az elemek fogalmát, Dalton az atomelméletet, Pasteur a mikrobiológiát alapozta meg.
+---
+ID: fold-c2-kviz-009
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Darwin Fajok eredete című műve 1859-ben jelent meg.
+HELYES: Igaz
+MAGYARÁZAT: A Fajok eredete 1859-ben jelent meg, az evolúcióelmélet egyik alapműve.
+---
+ID: fold-c2-kviz-010
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik német származású fizikus nevéhez fűződik a relativitáselmélet?
+HELYES: Einstein
+ROSSZ1: Heisenberg
+ROSSZ2: Planck
+ROSSZ3: Bohr
+MAGYARÁZAT: Einstein a speciális (1905) és az általános (1915) relativitáselméletet dolgozta ki. Heisenberg a bizonytalansági elvet, Planck a kvantumelméletet, Bohr az atommodellt alkotta meg.
+---
+ID: fold-c2-kviz-011
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Gutenberg nyomtatógépe a 15. század közepén forradalmasította a könyvnyomtatást.
+HELYES: Igaz
+MAGYARÁZAT: A mozgatható betűs nyomtatás Gutenberg nevéhez fűződik, így a könyvek széles körben elérhetővé váltak.
+---
+ID: fold-c2-kviz-012
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik skót mérnök nevéhez fűződik az ipari forradalom gőzgépének továbbfejlesztése?
+HELYES: James Watt
+ROSSZ1: George Stephenson
+ROSSZ2: Thomas Edison
+ROSSZ3: Henry Ford
+MAGYARÁZAT: James Watt a gőzgép hatásfokát jelentősen megnövelte. Stephenson a vasutat fejlesztette, Edison és Ford az Egyesült Államokban dolgozott.
+---
+ID: fold-c2-kviz-013
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A CERN Genfben működik, és Európa egyik legnagyobb részecskefizikai kutatóközpontja.
+HELYES: Igaz
+MAGYARÁZAT: A CERN a Genf melletti határ mentén működik, nemzetközi részecskefizikai kutatásokat végez.
+---
+ID: fold-c2-kviz-014
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik európai kutatóközpontban fejlesztették ki 1989-ben a világhálót?
+HELYES: CERN
+ROSSZ1: ESA
+ROSSZ2: Max Planck Társaság
+ROSSZ3: Pasteur Intézet
+MAGYARÁZAT: A világhálót (WWW) Tim Berners-Lee fejlesztette ki a CERN-ben, 1989-ben. A többi szervezet más területen dolgozik.
+---
+ID: fold-c2-kviz-015
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Európai Űrügynökség (ESA) 1975-ben alakult.
+HELYES: Igaz
+MAGYARÁZAT: Az ESA 1975-ben jött létre, Európa közös űrkutatási szervezete.
+---
+ID: fold-c2-kviz-016
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szerző írta a Hamletet?
+HELYES: Shakespeare
+ROSSZ1: Marlowe
+ROSSZ2: Ben Jonson
+ROSSZ3: Milton
+MAGYARÁZAT: A Hamlet Shakespeare drámája. Marlowe, Ben Jonson és Milton szintén angol szerzők voltak, de más műveket írtak.
+---
+ID: fold-c2-kviz-017
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Beethoven Bonnban született, német zeneszerző volt.
+HELYES: Igaz
+MAGYARÁZAT: Ludwig van Beethoven 1770-ben született Bonnban, és a bécsi klasszikus zene egyik legnagyobb alakja lett.
+---
+ID: fold-c2-kviz-018
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik párizsi múzeumban található a Mona Lisa?
+HELYES: Louvre
+ROSSZ1: Orsay
+ROSSZ2: Prado
+ROSSZ3: Uffizi
+MAGYARÁZAT: A Mona Lisa a párizsi Louvre-ban látható. A Prado Madridban, az Uffizi Firenzében van.
+---
+ID: fold-c2-kviz-019
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az első olimpiai játékokat az ókori Olympia területén rendezték.
+HELYES: Igaz
+MAGYARÁZAT: Az ókori olimpiai játékok Olympia szent helyén zajlottak, a hagyomány szerint Kr. e. 776-ban kezdődtek.
+---
+ID: fold-c2-kviz-020
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nyelv volt a Római Birodalom hivatalos nyelve?
+HELYES: latin
+ROSSZ1: görög
+ROSSZ2: szanszkrit
+ROSSZ3: arámi
+MAGYARÁZAT: A latin volt a Római Birodalom hivatalos nyelve, és a román nyelv is ebből fejlődött. A görög a keleti részen volt elterjedt.
+---
+ID: fold-c2-kviz-021
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az ókori Athénban alakult ki a demokrácia egyik korai formája.
+HELYES: Igaz
+MAGYARÁZAT: Athénban az i. e. 5. századtól a polgárok közvetlenül részt vehettek a döntéshozatalban.
+---
+ID: fold-c2-kviz-022
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik görög filozófus volt Platón tanítványa?
+HELYES: Arisztotelész
+ROSSZ1: Szókratész
+ROSSZ2: Epikurosz
+ROSSZ3: Hérakleitosz
+MAGYARÁZAT: Arisztotelész Platón tanítványa volt. Szókratész Platón mestere, Epikurosz és Hérakleitosz más filozófiai irányokat képviselt.
+---
+ID: fold-c2-kviz-023
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A római jog sok alapelve a modern európai jogrendszerekben is megjelenik.
+HELYES: Igaz
+MAGYARÁZAT: A római jog a kontinentális jogrendszerek alapjává vált, számos fogalma ma is használatos.
+---
+ID: fold-c2-kviz-024
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik 1215-ös angol okirat korlátozta az uralkodó hatalmát?
+HELYES: Magna Carta
+ROSSZ1: Habeas Corpus
+ROSSZ2: Bill of Rights
+ROSSZ3: Petíció a jogokról
+MAGYARÁZAT: A Magna Carta 1215-ben született, és az uralkodó hatalmát korlátozta. A többi felsorolt dokumentum a 17. században készült.
+---
+ID: fold-c2-kviz-025
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Montesquieu a hatalmi ágak elválasztásának elméletét fejtette ki.
+HELYES: Igaz
+MAGYARÁZAT: A törvények szelleméről írt művében Montesquieu a törvényhozó, végrehajtó és bírói hatalom elválasztását szorgalmazta.
+---
+ID: fold-c2-kviz-026
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik városban található a CERN székhelye?
+HELYES: Genf
+ROSSZ1: Strasbourg
+ROSSZ2: Brüsszel
+ROSSZ3: Párizs
+MAGYARÁZAT: A CERN Genf mellett, a francia–svájci határ térségében működik.
+---
+ID: fold-c2-kviz-027
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Nagy Hadronütköztető (LHC) a CERN-ben működik.
+HELYES: Igaz
+MAGYARÁZAT: Az LHC a CERN részecskegyorsítója, 2008-ban indult a rendszeres kísérletekkel.
+---
+ID: fold-c2-kviz-028
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik európai szervezet működteti a Galileo navigációs rendszert?
+HELYES: ESA
+ROSSZ1: NASA
+ROSSZ2: Roszkoszmosz
+ROSSZ3: CNSA
+MAGYARÁZAT: A Galileo az EU megbízásából az ESA-val közösen épült európai műholdas navigációs rendszer. A többi szervezet más országokhoz tartozik.
+---
+ID: fold-c2-kviz-029
+LECKE_ID: fold-c2-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Erasmus-program a diákok külföldi tanulmányait támogatja.
+HELYES: Igaz
+MAGYARÁZAT: Az Erasmus-program 1987-ben indult, és ma már sok millió diák vett részt benne.
+---
+ID: fold-c2-kviz-030
+LECKE_ID: fold-c2-001
+TÍPUS: választásos
+KÉRDÉS: Melyik ENSZ-szervezet tartja nyilván a világörökségi helyszíneket?
+HELYES: UNESCO
+ROSSZ1: FAO
+ROSSZ2: WHO
+ROSSZ3: UNICEF
+MAGYARÁZAT: Az UNESCO a világörökségi listát vezeti. A FAO az élelmezés, a WHO az egészségügy, az UNICEF a gyermekvédelem ENSZ-szervezete.

@@ -1,0 +1,37 @@
+ID: fold-b4-001
+CÍM: Energia az EU-ban és Romániában: fosszilis függés, megújulók, atomenergia, energiabiztonság
+SZÖVEG:
+# Energia az Európai Unióban és Romániában
+Az energia a gazdaság alapja, az Európai Unió energiaellátása ezért stratégiai kérdés. Az EU-nak három nagy kihívással kell szembenéznie: csökkentenie kell a fosszilis energiahordozóktól való függését, növelnie kell a megújuló energiaforrások arányát, és közben biztosítania kell az energiabiztonságot.
+
+## Az EU energiaellátása
+- Az EU energiaellátásának több mint fele importból származik, ezért különösen érzékeny a külső szállítók helyzetére.
+- A fosszilis energiahordozók (kőolaj, földgáz, kőszén) még mindig jelentős részt képviselnek.
+- A 2022-es orosz–ukrán háború után az Unió a **REPowerEU** tervvel jelentősen csökkentette az orosz földgáz-importját. A cél a diverzifikáció, vagyis több beszállító és több forrás.
+
+## Energiabiztonság
+- Az energiabiztonság az energiaellátás folyamatos és megfizethető biztosítását jelenti.
+- Fontos eszköz a határokon átívelő villamos- és gázvezetékek, az összekapcsolt hálózatok, valamint a **cseppfolyós földgázt (LNG)** fogadó **LNG-terminálok**.
+
+## Megújuló energiaforrások
+- A megújulók közé tartozik a szél- és a napenergia, a vízenergia, a biomassza és a geotermikus energia.
+- Részesedésük a villamosenergia-termelésben folyamatosan nő, a fő kihívás az időszakos termelés kiegyenlítése és az energia tárolása.
+- Az EU célja a klímasemlegesség 2050-re, ehhez a zöld átállás szükséges.
+
+## Atomenergia
+- Az atomenergia alacsony szén-dioxid-kibocsátású, és folyamatos alapterhelést biztosít.
+- Az EU legnagyobb atomenergia-termelője Franciaország. Németország 2023-ban zárta le utolsó atomerőműveit.
+- Az atomenergia megítélése vitatott, a biztonság, a radioaktív hulladék és a költségek miatt.
+
+## Románia energiamixe
+- **Vízenergia**: a Duna vaskapui vízerőművei, valamint a Kárpátok vízerőművei, például a Bicaz és a Lotru. Ez jelentős részesedést ad a villamosenergia-termelésben.
+- **Szén**: a lignit (barnaszén) főként az **Oltenia** régióban, a Jiu-völgyben bányászható. A szénalapú termelés csökkentése a zöld átállás egyik fő feladata.
+- **Atomenergia**: a **Cernavodă** atomerőmű CANDU típusú reaktorokkal működik. Az első blokkot 1996-ban, a másodikat 2007-ben kapcsolták hálózatra.
+- **Földgáz**: a hazai termelés a **Medgyes (Mediaș)** környéki erdélyi mezőkről és a Fekete-tengeri mezőkről származik.
+- **Kőolaj**: a hagyományos olajipar központja **Ploiești**.
+- **Szél- és napenergia**: a szélerőművek főként a **Dobrudzsában** épültek, a napelemes termelés pedig gyorsan terjed.
+
+## Kihívások
+- A szénalapú termelés kivezetése a bányászati térségek munkahelyeit érinti, ezért szociális kérdés is.
+- A lakosság számára az energia ára és az energiaszegénység jelent problémát.
+- A határokon átívelő hálózatok fejlesztése (Magyarország, Bulgária, Szerbia, Ukrajna, Moldova felé) segíti a regionális energiapiac működését.

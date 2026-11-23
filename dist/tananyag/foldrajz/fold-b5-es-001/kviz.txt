@@ -1,0 +1,257 @@
+ID: fold-b5-es-kviz-001
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Spanyolországnak közös szárazföldi határa van Portugáliával.
+HELYES: Igaz
+MAGYARÁZAT: Az Ibériai-félszigeten Spanyolország és Portugália közös határt oszt meg.
+---
+ID: fold-b5-es-kviz-002
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik tenger mossa Spanyolország keleti partjait?
+HELYES: Földközi-tenger
+ROSSZ1: Adriai-tenger
+ROSSZ2: Égei-tenger
+ROSSZ3: Balti-tenger
+MAGYARÁZAT: Spanyolország keleti és délkeleti partjait a Földközi-tenger határolja.
+---
+ID: fold-b5-es-kviz-003
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Gibraltár brit terület Spanyolország déli részén.
+HELYES: Igaz
+MAGYARÁZAT: Gibraltár az Egyesült Királyság tengerentúli területe, a spanyol határ mellett.
+---
+ID: fold-b5-es-kviz-004
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik szigetcsoport tartozik Spanyolországhoz az Atlanti-óceánon?
+HELYES: Kanári-szigetek
+ROSSZ1: Azori-szigetek
+ROSSZ2: Madeira
+ROSSZ3: Ciklád-szigetek
+MAGYARÁZAT: A Kanári-szigetek Spanyolországhoz tartoznak, az Atlanti-óceánon, Afrika partjainál. Az Azori-szigetek és Madeira Portugáliához, a Cikládok Görögországhoz tartoznak.
+---
+ID: fold-b5-es-kviz-005
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Ceuta és Melilla spanyol területek Afrikában.
+HELYES: Igaz
+MAGYARÁZAT: Ceuta és Melilla Spanyolország afrikai enklávéi, Marokkó partján találhatók.
+---
+ID: fold-b5-es-kviz-006
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Mi Spanyolország legmagasabb csúcsa?
+HELYES: Teide
+ROSSZ1: Mulhacén
+ROSSZ2: Aneto
+ROSSZ3: Mont Blanc
+MAGYARÁZAT: A Teide 3718 m magas, Tenerife szigetén, a Kanári-szigeteken. A Mulhacén a szárazföldi legmagasabb, a Mont Blanc Franciaországban van.
+---
+ID: fold-b5-es-kviz-007
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Meseta Spanyolország központi magas fennsíkja.
+HELYES: Igaz
+MAGYARÁZAT: A Meseta az ország közepén elterülő, átlagosan 600–800 m magas fennsík.
+---
+ID: fold-b5-es-kviz-008
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Mi a Spanyolország szárazföldi legmagasabb csúcsa?
+HELYES: Mulhacén
+ROSSZ1: Aneto
+ROSSZ2: Teide
+ROSSZ3: Puigmal
+MAGYARÁZAT: A Mulhacén 3479 m magas, a Sierra Nevadában, a félsziget legmagasabb csúcsa. Az Aneto a Pireneusokban van, a Teide szigeten, a Puigmal szintén a Pireneusokban.
+---
+ID: fold-b5-es-kviz-009
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Pireneusokban glaciális formák és gleccserek találhatók.
+HELYES: Igaz
+MAGYARÁZAT: A hegység magas részein a jégkorszaki gleccserek formái és kisebb gleccserek is megtalálhatók.
+---
+ID: fold-b5-es-kviz-010
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik vulkáni csúcs található Tenerifén?
+HELYES: Teide
+ROSSZ1: Mulhacén
+ROSSZ2: Aneto
+ROSSZ3: Montseny
+MAGYARÁZAT: A Teide vulkáni csúcs Tenerifén, a Kanári-szigeteken. A többi felsorolt csúcs a szárazföldön, a Sierra Nevadában, a Pireneusokban vagy Katalóniában van.
+---
+ID: fold-b5-es-kviz-011
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Milyen éghajlattípus jellemzi Spanyolország keleti és déli partvidékét?
+HELYES: mediterrán
+ROSSZ1: sarkvidéki
+ROSSZ2: trópusi monszun
+ROSSZ3: tundra
+MAGYARÁZAT: A keleti és déli partvidéken forró, száraz nyár és enyhe, csapadékosabb tél jellemző.
+---
+ID: fold-b5-es-kviz-012
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az ország északi partvidékén óceáni éghajlat uralkodik.
+HELYES: Igaz
+MAGYARÁZAT: Galícia és Kantábria az Atlanti-óceán felől érkező csapadékos, enyhe éghajlatú térség.
+---
+ID: fold-b5-es-kviz-013
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik keleti szél jellemzi Valencia térségét?
+HELYES: Levante
+ROSSZ1: Cierzo
+ROSSZ2: Poniente
+ROSSZ3: Sirocco
+MAGYARÁZAT: A Levante a keleti tengeri szél, amely Valencia partvidékén gyakori. A Cierzo az Ebro-völgy szele, a Poniente nyugati szél.
+---
+ID: fold-b5-es-kviz-014
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Meseta belső részein félszáraz kontinentális éghajlat van.
+HELYES: Igaz
+MAGYARÁZAT: A fennsík belseje távol esik a tengertől, ezért kevés a csapadék és nagy a hőmérséklet-ingadozás.
+---
+ID: fold-b5-es-kviz-015
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik hideg, erős északnyugati szél jellemzi az Ebro-völgyét?
+HELYES: Cierzo
+ROSSZ1: Levante
+ROSSZ2: Poniente
+ROSSZ3: Sirocco
+MAGYARÁZAT: A Cierzo az Ebro-völgy jellegzetes hideg, száraz szele, a Levante keleti, a Sirocco afrikai eredetű szél.
+---
+ID: fold-b5-es-kviz-016
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó torkollik a Földközi-tengerbe, az Ebro-delta térségében?
+HELYES: Ebro
+ROSSZ1: Tajo
+ROSSZ2: Guadalquivir
+ROSSZ3: Douro
+MAGYARÁZAT: Az Ebro a Földközi-tengerbe ömlik, deltája Tortosa mellett található. A Tajo, a Guadalquivir és a Douro az Atlanti-óceánba torkollik.
+---
+ID: fold-b5-es-kviz-017
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: A Tajo Portugálián át folyik, és Lisszabonnál az Atlanti-óceánba torkollik.
+HELYES: Igaz
+MAGYARÁZAT: A Tajo (portugálul Tejo) Lisszabon mellett ömlik az Atlanti-óceánba.
+---
+ID: fold-b5-es-kviz-018
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik folyó folyik Sevilla mellett, és ömlik az Atlanti-óceánba?
+HELYES: Guadalquivir
+ROSSZ1: Ebro
+ROSSZ2: Tajo
+ROSSZ3: Júcar
+MAGYARÁZAT: A Guadalquivir Sevilla mellett folyik, és Sanlúcar térségében torkollik az Atlanti-óceánba.
+---
+ID: fold-b5-es-kviz-019
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Az Albufera a valenciai tengerparti lagúna.
+HELYES: Igaz
+MAGYARÁZAT: Az Albufera a Valencia melletti tengerparti édesvizű lagúna, élőhelye vízi madaraknak.
+---
+ID: fold-b5-es-kviz-020
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Spanyolország legnagyobb természetes tava?
+HELYES: Sanabria-tó
+ROSSZ1: Albufera
+ROSSZ2: Ruidera-lagunák
+ROSSZ3: Banyoles-tó
+MAGYARÁZAT: A Sanabria-tó Galícia és Kasztília határán fekszik, ez az ország legnagyobb természetes tava.
+---
+ID: fold-b5-es-kviz-021
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik Spanyolország fővárosa?
+HELYES: Madrid
+ROSSZ1: Barcelona
+ROSSZ2: Valencia
+ROSSZ3: Sevilla
+MAGYARÁZAT: Madrid Spanyolország fővárosa, a Meseta fennsík közepén. Barcelona Katalónia, Valencia és Sevilla nagy város, de nem főváros.
+---
+ID: fold-b5-es-kviz-022
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Barcelona Katalónia fővárosa.
+HELYES: Igaz
+MAGYARÁZAT: Barcelona a katalán autonóm közösség székhelye és fővárosa, a Földközi-tenger partján.
+---
+ID: fold-b5-es-kviz-023
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik nagy kikötőváros fekszik Spanyolország keleti partján, az Albufera közelében?
+HELYES: Valencia
+ROSSZ1: Bilbao
+ROSSZ2: Málaga
+ROSSZ3: Vigo
+MAGYARÁZAT: Valencia a keleti part nagy kikötője, az Albufera lagúnájának közelében. Bilbao az északi Atlanti-part, Málaga a déli Földközi-tengeri part, Vigo Galícia kikötője.
+---
+ID: fold-b5-es-kviz-024
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Sevilla a Guadalquivir partján fekszik.
+HELYES: Igaz
+MAGYARÁZAT: Sevilla Andalúzia székvárosa, a Guadalquivir folyó mellett.
+---
+ID: fold-b5-es-kviz-025
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik baszk városban található a Guggenheim Múzeum?
+HELYES: Bilbao
+ROSSZ1: Zaragoza
+ROSSZ2: Madrid
+ROSSZ3: Valladolid
+MAGYARÁZAT: A Guggenheim Múzeum Bilbaóban található, a baszkföldi nagy kikötővárosban.
+---
+ID: fold-b5-es-kviz-026
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Spanyolország a világ egyik legnagyobb olívaolaj-termelője.
+HELYES: Igaz
+MAGYARÁZAT: Andalúzia, különösen Jaén tartomány, az ország és a világ egyik legnagyobb olajbogyó-termelő térsége.
+---
+ID: fold-b5-es-kviz-027
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik katalóniai városban működik a SEAT autógyár?
+HELYES: Martorell
+ROSSZ1: Valladolid
+ROSSZ2: Sevilla
+ROSSZ3: Vigo
+MAGYARÁZAT: A SEAT gyár Martorellben működik Barcelona közelében. A Renault gyára Valladolidban van, a többi felsorolt város más iparágról ismert.
+---
+ID: fold-b5-es-kviz-028
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Spanyolország a szélenergia egyik vezető európai termelője.
+HELYES: Igaz
+MAGYARÁZAT: A szélerőművek részesedése az ország villamosenergia-termelésében jelentős, és az európai élvonalban van.
+---
+ID: fold-b5-es-kviz-029
+LECKE_ID: fold-b5-es-001
+TÍPUS: választásos
+KÉRDÉS: Melyik spanyol tartomány üvegházi zöldségtermesztéséről ismert?
+HELYES: Almería
+ROSSZ1: Asturias
+ROSSZ2: Cantabria
+ROSSZ3: Extremadura
+MAGYARÁZAT: Almería üvegházas zöldségtermesztéséről híres, ahol nagy kiterjedésű fóliás üvegházak vannak. A többi felsorolt tartomány más mezőgazdasági profilú.
+---
+ID: fold-b5-es-kviz-030
+LECKE_ID: fold-b5-es-001
+TÍPUS: igaz-hamis
+KÉRDÉS: Spanyolország a világ egyik legnépszerűbb turisztikai célpontja.
+HELYES: Igaz
+MAGYARÁZAT: A tengerpartok, Madrid, Barcelona, Sevilla és a Kanári-szigetek évente sok millió turistát vonzanak.

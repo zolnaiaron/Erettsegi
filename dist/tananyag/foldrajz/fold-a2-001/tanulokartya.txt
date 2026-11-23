@@ -1,0 +1,179 @@
+ID: fold-a2-kartya-001
+LECKE_ID: fold-a2-001
+ELŐLAP: Románia legmagasabb csúcsa
+HÁTLAP: Moldoveanu, 2544 m (Déli-Kárpátok).
+---
+ID: fold-a2-kartya-002
+LECKE_ID: fold-a2-001
+ELŐLAP: A Kárpátok három része
+HÁTLAP: Keleti-, Déli- és Nyugati-Kárpátok (az Erdélyi-érchegység).
+---
+ID: fold-a2-kartya-003
+LECKE_ID: fold-a2-001
+ELŐLAP: Románia legmagasabb csúcsait adó hegységrész
+HÁTLAP: Déli-Kárpátok.
+---
+ID: fold-a2-kartya-004
+LECKE_ID: fold-a2-001
+ELŐLAP: Havasalföld
+HÁTLAP: Nagy síkság a Déli-Kárpátoktól délre.
+---
+ID: fold-a2-kartya-005
+LECKE_ID: fold-a2-001
+ELŐLAP: Dobrudzsa térszíne
+HÁTLAP: Fennsíkos dombvidék a Duna és a Fekete-tenger között.
+---
+ID: fold-a2-kartya-006
+LECKE_ID: fold-a2-001
+ELŐLAP: Erdélyi-medence
+HÁTLAP: Dombos medence a Kárpátok ívének belsejében.
+---
+ID: fold-a2-kartya-007
+LECKE_ID: fold-a2-001
+ELŐLAP: Románia éghajlata
+HÁTLAP: Mérsékelt övi kontinentális.
+---
+ID: fold-a2-kartya-008
+LECKE_ID: fold-a2-001
+ELŐLAP: Románia legszárazabb tája
+HÁTLAP: Dobrudzsa.
+---
+ID: fold-a2-kartya-009
+LECKE_ID: fold-a2-001
+ELŐLAP: A Fekete-tenger partjának éghajlata
+HÁTLAP: Mérsékeltebb, a tenger hatása miatt.
+---
+ID: fold-a2-kartya-010
+LECKE_ID: fold-a2-001
+ELŐLAP: Csernozjom
+HÁTLAP: Sötét, humuszban gazdag, termékeny talaj a síkságokon.
+---
+ID: fold-a2-kartya-011
+LECKE_ID: fold-a2-001
+ELŐLAP: Hegyvidéki erdők talaja
+HÁTLAP: Barna erdőtalaj.
+---
+ID: fold-a2-kartya-012
+LECKE_ID: fold-a2-001
+ELŐLAP: Folyóvölgyek talaja
+HÁTLAP: Öntéstalaj.
+---
+ID: fold-a2-kartya-013
+LECKE_ID: fold-a2-001
+ELŐLAP: A Kárpátok erdőövezete alulról felfelé
+HÁTLAP: Tölgyes és bükkös, fenyves, majd havasi rét.
+---
+ID: fold-a2-kartya-014
+LECKE_ID: fold-a2-001
+ELŐLAP: A Kárpátok nagy ragadozói
+HÁTLAP: Barna medve és hiúz.
+---
+ID: fold-a2-kartya-015
+LECKE_ID: fold-a2-001
+ELŐLAP: A Duna-delta jellegzetes madara
+HÁTLAP: Dalmát pelikán.
+---
+ID: fold-a2-kartya-016
+LECKE_ID: fold-a2-001
+ELŐLAP: A Duna romániai hossza
+HÁTLAP: Több mint 1000 km.
+---
+ID: fold-a2-kartya-017
+LECKE_ID: fold-a2-001
+ELŐLAP: A Duna-delta főágai
+HÁTLAP: Chilia-, Sulina- és Sfântu Gheorghe-ág.
+---
+ID: fold-a2-kartya-018
+LECKE_ID: fold-a2-001
+ELŐLAP: A Duna-delta nemzetközi státusza
+HÁTLAP: 1991 óta UNESCO világörökségi terület.
+---
+ID: fold-a2-kartya-019
+LECKE_ID: fold-a2-001
+ELŐLAP: Vaskapu
+HÁTLAP: A Duna romániai–szerbiai szakasza, vízerőművekkel.
+---
+ID: fold-a2-kartya-020
+LECKE_ID: fold-a2-001
+ELŐLAP: A Prut
+HÁTLAP: A Duna mellékfolyója, a Románia–Moldova határ egy része.
+---
+ID: fold-a2-kartya-021
+LECKE_ID: fold-a2-001
+ELŐLAP: Hová ömlik a Maros?
+HÁTLAP: A Tiszába, Magyarországon, Szeged közelében.
+---
+ID: fold-a2-kartya-022
+LECKE_ID: fold-a2-001
+ELŐLAP: A Fekete-tenger sótartalma az óceánokhoz képest
+HÁTLAP: Alacsonyabb: kb. 18–22 ‰, az óceánoké kb. 35 ‰.
+---
+ID: fold-a2-kartya-023
+LECKE_ID: fold-a2-001
+ELŐLAP: A Fekete-tenger mélyebb rétegei
+HÁTLAP: Oxigénszegények, ezért ott nincs élet.
+---
+ID: fold-a2-kartya-024
+LECKE_ID: fold-a2-001
+ELŐLAP: Boszporusz
+HÁTLAP: A szoros, amely a Fekete-tengert a Márvány-tengerrel köti össze.
+---
+ID: fold-a2-kartya-025
+LECKE_ID: fold-a2-001
+ELŐLAP: Techirghiol
+HÁTLAP: Sósvizű, iszapos gyógytó a román tengerparton.
+---
+ID: fold-a2-kartya-026
+LECKE_ID: fold-a2-001
+ELŐLAP: Ploiești
+HÁTLAP: Románia hagyományos kőolajtermelő központja.
+---
+ID: fold-a2-kartya-027
+LECKE_ID: fold-a2-001
+ELŐLAP: Hol termelnek földgázt Romániában?
+HÁTLAP: Erdélyben és a Fekete-tenger tengeri mezőin.
+---
+ID: fold-a2-kartya-028
+LECKE_ID: fold-a2-001
+ELŐLAP: Erdélyi sóbányák
+HÁTLAP: Praid és Turda.
+---
+ID: fold-a2-kartya-029
+LECKE_ID: fold-a2-001
+ELŐLAP: Zsil-völgy
+HÁTLAP: Barnaszén (lignit) bányászat.
+---
+ID: fold-a2-kartya-030
+LECKE_ID: fold-a2-001
+ELŐLAP: Dobrudzsa energiaforrása
+HÁTLAP: Szélerőművek.
+---
+ID: fold-a2-kartya-031
+LECKE_ID: fold-a2-001
+ELŐLAP: Vaskapu vízerőműveinek helye
+HÁTLAP: A Duna romániai szakaszán.
+---
+ID: fold-a2-kartya-032
+LECKE_ID: fold-a2-001
+ELŐLAP: Olt
+HÁTLAP: Kárpátokból érkező folyó, a Dunába ömlik.
+---
+ID: fold-a2-kartya-033
+LECKE_ID: fold-a2-001
+ELŐLAP: Szeret (Siret)
+HÁTLAP: A Duna mellékfolyója, Moldvában folyik.
+---
+ID: fold-a2-kartya-034
+LECKE_ID: fold-a2-001
+ELŐLAP: Razelm-tó
+HÁTLAP: Románia legnagyobb tavai közé tartozik, a Duna-deltában.
+---
+ID: fold-a2-kartya-035
+LECKE_ID: fold-a2-001
+ELŐLAP: Duna-delta vizének sótartalma
+HÁTLAP: Alacsonyabb, mint a tengervízé, mert a Duna édesvize hígítja.
+---
+ID: fold-a2-kartya-036
+LECKE_ID: fold-a2-001
+ELŐLAP: Román tengerparti üdülőhely Constanța mellett
+HÁTLAP: Mamaia.
